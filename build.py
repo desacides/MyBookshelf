@@ -25,7 +25,7 @@ def main():
     # retire tout script ajouté par la plateforme et les balises meta http-equiv / base
     html = re.sub(r"<script(?![^>]*\bdata-app\b)[^>]*>.*?</script>", "", html, flags=re.S | re.I)
     html = re.sub(r"<meta[^>]*http-equiv[^>]*>|<base[^>]*>", "", html, flags=re.I)
-    data = {k: load(os.path.join(snap, k)) for k in ("avis", "ajouts", "suivi")}
+    data = {k: load(os.path.join(snap, k)) for k in ("avis", "ajouts", "suivi", "medias")}
     body = json.dumps(data, ensure_ascii=False, sort_keys=True)
     # compare avec la version précédente (hors date) pour éviter les commits inutiles
     if os.path.exists(dest):
