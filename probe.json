@@ -1,0 +1,90 @@
+[
+ {
+  "name": "gbooks",
+  "u": "https://www.googleapis.com/books/v1/volumes?q=Spy%20x%20Family%20tome%209%20Kurokawa&langRestrict=fr&maxResults=5",
+  "status": 429,
+  "len": 1306,
+  "head": "{ \"error\": { \"code\": 429, \"message\": \"Quota exceeded for quota metric 'Queries' and limit 'Queries per day' of service 'books.googleapis.com' for consumer 'project_number:624717413613'.\", \"errors\": [ { \"message\": \"Quota exceeded for quota metric 'Queries' and limit 'Queri",
+  "imgs": []
+ },
+ {
+  "name": "gbooks2",
+  "u": "https://www.googleapis.com/books/v1/volumes?q=intitle:Kaamelott+inpublisher:Casterman&langRestrict=fr&maxResults=20",
+  "status": 429,
+  "len": 1306,
+  "head": "{ \"error\": { \"code\": 429, \"message\": \"Quota exceeded for quota metric 'Queries' and limit 'Queries per day' of service 'books.googleapis.com' for consumer 'project_number:624717413613'.\", \"errors\": [ { \"message\": \"Quota exceeded for quota metric 'Queries' and limit 'Queri",
+  "imgs": []
+ },
+ {
+  "name": "manganews",
+  "u": "https://www.manga-news.com/index.php/manga/Spy-X-Family/vol-9",
+  "status": 403,
+  "len": 1353,
+  "head": "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01//EN\" \"http://www.w3.org/TR/html4/strict.dtd\"> <html><head> <title>403 Forbidden</title> </head><body> <h1>Forbidden</h1> <p>You don't have permission to access this resource.</p> <script>(function(){function c(){var b=a.contentDocument||(a.contentWindow&&",
+  "imgs": []
+ },
+ {
+  "name": "mangasearch",
+  "u": "https://www.manga-news.com/index.php/recherche/?q=spy+x+family",
+  "status": 403,
+  "len": 1353,
+  "head": "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01//EN\" \"http://www.w3.org/TR/html4/strict.dtd\"> <html><head> <title>403 Forbidden</title> </head><body> <h1>Forbidden</h1> <p>You don't have permission to access this resource.</p> <script>(function(){function c(){var b=a.contentDocument||(a.contentWindow&&",
+  "imgs": []
+ },
+ {
+  "name": "bedetheque",
+  "u": "https://www.bedetheque.com/search/tout?RechTexte=blacksad",
+  "status": 403,
+  "len": 5801,
+  "head": "<!DOCTYPE html><html lang=\"en-US\"><head><title>Just a moment...</title><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"><meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\"><meta name=\"robots\" content=\"noindex,nofollow\"><meta name=\"viewport\" content=\"width=device-width,initial-scal",
+  "imgs": []
+ },
+ {
+  "name": "bedetheque2",
+  "u": "https://www.bedetheque.com/serie-1159-BD-Blacksad.html",
+  "status": 403,
+  "len": 5777,
+  "head": "<!DOCTYPE html><html lang=\"en-US\"><head><title>Just a moment...</title><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"><meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\"><meta name=\"robots\" content=\"noindex,nofollow\"><meta name=\"viewport\" content=\"width=device-width,initial-scal",
+  "imgs": []
+ },
+ {
+  "name": "nautiljon",
+  "u": "https://www.nautiljon.com/mangas/spy+x+family/volume-9,1086455.html",
+  "status": 403,
+  "len": 5903,
+  "head": "<!DOCTYPE html><html lang=\"en-US\"><head><title>Just a moment...</title><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"><meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\"><meta name=\"robots\" content=\"noindex,nofollow\"><meta name=\"viewport\" content=\"width=device-width,initial-scal",
+  "imgs": []
+ },
+ {
+  "name": "ol",
+  "u": "https://openlibrary.org/search.json?q=blacksad&language=fre&limit=5",
+  "status": 200,
+  "len": 1885,
+  "head": "{\"numFound\":5,\"start\":0,\"numFoundExact\":true,\"num_found\":5,\"documentation_url\":\"https://openlibrary.org/dev/docs/api/search\",\"q\":\"blacksad\",\"offset\":null,\"docs\":[{\"author_key\":[\"OL2821113A\",\"OL3120935A\"],\"author_name\":[\"Juan Díaz Canales\",\"Juanjo Guarnido\"],\"cover_edition_key\":\"OL8864289M\",\"cover_i\"",
+  "imgs": []
+ },
+ {
+  "name": "bubble",
+  "u": "https://www.bubblebd.com/recherche?q=blacksad",
+  "status": 429,
+  "len": 0,
+  "head": "",
+  "imgs": []
+ },
+ {
+  "name": "decitre",
+  "u": "https://www.decitre.fr/rechercher/result?q=blacksad",
+  "status": 403,
+  "len": 5752,
+  "head": "<!DOCTYPE html><html lang=\"en-US\"><head><title>Just a moment...</title><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"><meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\"><meta name=\"robots\" content=\"noindex,nofollow\"><meta name=\"viewport\" content=\"width=device-width,initial-scal",
+  "imgs": []
+ },
+ {
+  "name": "bdfugue",
+  "u": "https://www.bdfugue.com/catalogsearch/result/?q=blacksad",
+  "status": 403,
+  "len": 5804,
+  "head": "<!DOCTYPE html><html lang=\"en-US\"><head><title>Just a moment...</title><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"><meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\"><meta name=\"robots\" content=\"noindex,nofollow\"><meta name=\"viewport\" content=\"width=device-width,initial-scal",
+  "imgs": []
+ }
+]
