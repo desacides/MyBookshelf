@@ -1,0 +1,7451 @@
+{
+"pokemon": [
+{
+"isbn": "9782380715606",
+"title": "Pokémon Épée et Bouclier - T6 || Pokémon",
+"nums": [],
+"pub": "Kurokawa 2023",
+"coll": false
+},
+{
+"isbn": "9782380712926",
+"title": "Pokémon Épée et Bouclier || Pokémon",
+"nums": [
+"tome 5"
+],
+"pub": "Kurokawa 2023",
+"coll": false
+},
+{
+"isbn": "9791042021955",
+"title": "Pokémon Ecarlate et Violet - Tome 4 || Pokémon",
+"nums": [],
+"pub": "Kurokawa 03/09/2026",
+"coll": false
+},
+{
+"isbn": "9791042021993",
+"title": "Pokémon X-Y la grande aventure",
+"nums": [
+"4"
+],
+"pub": "Kurokawa 2026",
+"coll": false
+},
+{
+"isbn": "9791042021955",
+"title": "Pokémon écarlate et violet || Collection dirigée par Grégoire Hellot",
+"nums": [
+"4"
+],
+"pub": "Kurokawa 2026",
+"coll": false
+},
+{
+"isbn": "9791042021979",
+"title": "Pokémon X-Y la grande aventure || Collection dirigée par Grégoire Hellot",
+"nums": [
+"2"
+],
+"pub": "Kurokawa 2026",
+"coll": false
+},
+{
+"isbn": "9791042021986",
+"title": "Pokémon X-Y la grande aventure || Collection dirigée par Grégoire Hellot || Pokémon X-Y scénario, Hidenori Kusaka || ",
+"nums": [
+"3",
+"3",
+"3"
+],
+"pub": "Kurokawa DL 2026",
+"coll": false
+},
+{
+"isbn": "9782368528914",
+"title": "Pokémon aux origines du phénomène planétaire biographie du créateur de Pokémon, Satoshi Tajiri || Kuropop",
+"nums": [],
+"pub": "Kurokawa DL 2019 Aubin impr.",
+"coll": false
+},
+{
+"isbn": "9782368520147",
+"title": "Pokémon la grande aventure || Collection dirigée par Grégoire Hellot || Pokémon",
+"nums": [
+"2",
+"2"
+],
+"pub": "Kurokawa DL 2014",
+"coll": false
+},
+{
+"isbn": "9782380714890",
+"title": "Pokémon la grande aventure, noir et blanc",
+"nums": [
+"1"
+],
+"pub": "Kurokawa DL 2023",
+"coll": false
+},
+{
+"isbn": "9782380715194",
+"title": "Pokémon la grande aventure, noir et blanc",
+"nums": [
+"2"
+],
+"pub": "Kurokawa 2023",
+"coll": false
+},
+{
+"isbn": "9791042021023",
+"title": "Pokémon X-Y la grande aventure || Collection dirigée par Grégoire Hellot || Pokémon X-Y",
+"nums": [
+"1",
+"1"
+],
+"pub": "Kurokawa DL 2025",
+"coll": false
+},
+{
+"isbn": "9782368520109",
+"title": "Pokémon XY || Collection dirigée par Grégoire Hellot || Pokémon XY",
+"nums": [
+"1",
+"1"
+],
+"pub": "Kurokawa DL 2015",
+"coll": false
+},
+{
+"isbn": "9782368524077",
+"title": "Hoopa et le choc des légendes || Pokémon, le film || Collection dirigée par Grégoire Hellot || Pokémon, le film",
+"nums": [],
+"pub": "Kurokawa DL 2016",
+"coll": false
+},
+{
+"isbn": "9782368524985",
+"title": "Volcanion et la merveille mécanique || Pokémon, le film || Collection dirigée par Grégoire Hellot || Pokémon, le film",
+"nums": [],
+"pub": "Kurokawa DL 2017",
+"coll": false
+},
+{
+"isbn": "9782368526569",
+"title": "Pokémon la grande aventure Platine || Collection dirigée par Grégoire Hellot || Pokémon",
+"nums": [
+"5",
+"5"
+],
+"pub": "Kurokawa DL 2019 Aubin impr.",
+"coll": false
+},
+{
+"isbn": "9782368527924",
+"title": "Pokémon horizon || Collection dirigée par Grégoire Hellot || Pokemon horizon",
+"nums": [
+"1",
+"1"
+],
+"pub": "Kurokawa DL 2019 Aubin impr.",
+"coll": false
+},
+{
+"isbn": "9782368526545",
+"title": "Pokémon la grande aventure Diamant &amp; Perle || Collection dirigée par Grégoire Hellot || Pokémon",
+"nums": [
+"3",
+"3"
+],
+"pub": "Kurokawa DL 2018 Aubin impr.",
+"coll": false
+},
+{
+"isbn": "9782368520154",
+"title": "Pokémon la grande aventure || Collection dirigée par Grégoire Hellot || Pokémon",
+"nums": [
+"3",
+"3"
+],
+"pub": "Kurokawa DL 2014",
+"coll": false
+},
+{
+"isbn": "9782368520895",
+"title": "Pokémon la grande aventure Rubis et Saphir || Collection dirigée par Grégoire Hellot || Pokémon",
+"nums": [
+"1",
+"1"
+],
+"pub": "Kurokawa DL 2014",
+"coll": false
+},
+{
+"isbn": "9782368526446",
+"title": "Pokémon la grande aventure Diamant et Perle || Collection dirigée par Grégoire Hellot || Pokémon",
+"nums": [
+"2",
+"2"
+],
+"pub": "Kurokawa DL 2018 Aubin impr.",
+"coll": false
+},
+{
+"isbn": "9782368526552",
+"title": "Pokémon la grande aventure Diamant et Perle || Collection dirigée par Grégoire Hellot || Pokémon",
+"nums": [
+"4",
+"4"
+],
+"pub": "Kurokawa DL 2018 Aubin impr.",
+"coll": false
+},
+{
+"isbn": "9782368521540",
+"title": "Pokémon la grande aventure Rubis et Saphir || Collection dirigée par Grégoire Hellot || Pokémon",
+"nums": [
+"3",
+"3"
+],
+"pub": "Kurokawa DL 2015",
+"coll": false
+},
+{
+"isbn": "9782368525876",
+"title": "Pokémon la grande aventure Diamant et Perle || Collection dirigée par Grégoire Hellot || Pokémon",
+"nums": [
+"1",
+"1"
+],
+"pub": "Kurokawa DL 2018 Aubin impr.",
+"coll": false
+},
+{
+"isbn": "9791042019143",
+"title": "Pokémon écarlate et violet || Collection dirigée par Grégoire Hellot || Pokémon écarlate et violet",
+"nums": [
+"2",
+"2"
+],
+"pub": "Kurokawa DL 2025 Aubin impr.",
+"coll": false
+},
+{
+"isbn": "9782380715507",
+"title": "Pokémon la grande aventure noir et blanc || Collection dirigée par Grégoire Hellot || Pokémon",
+"nums": [
+"3",
+"3"
+],
+"pub": "Kurokawa DL 2024 Aubin impr.",
+"coll": false
+},
+{
+"isbn": "9791042015107",
+"title": "Pokémon écarlate et violet || Collection dirigée par Grégoire Hellot || Pokémon écarlate et violet",
+"nums": [
+"1",
+"1"
+],
+"pub": "Kurokawa DL 2024 Aubin impr.",
+"coll": false
+},
+{
+"isbn": "9791042019341",
+"title": "Pokémon écarlate et violet || Collection dirigée par Grégoire Hellot || Pokémon écarlate et violet",
+"nums": [
+"3",
+"3"
+],
+"pub": "Kurokawa DL 2025 Aubin impr.",
+"coll": false
+},
+{
+"isbn": "9791042013257",
+"title": "Pokémon la grande aventure noir et blanc || Collection dirigée par Grégoire Hellot || Pokémon",
+"nums": [
+"4",
+"4"
+],
+"pub": "Kurokawa DL 2024 Aubin impr.",
+"coll": false
+},
+{
+"isbn": "9782368520130",
+"title": "Pokémon la grande aventure || Collection dirigée par Grégoire Hellot || Pokémon",
+"nums": [
+"1",
+"1"
+],
+"pub": "Kurokawa DL 2014 Aubin impr.",
+"coll": false
+},
+{
+"isbn": "9791042013912",
+"title": "Pokémon épée et bouclier || Collection dirigée par Grégoire Hellot || Pokémon épée et bouclier",
+"nums": [
+"Vol. 7",
+"7"
+],
+"pub": "Kurokawa DL 2024 Aubin impr.",
+"coll": false
+},
+{
+"isbn": "9782368525319",
+"title": "Pokémon la grande aventure Émeraude || Collection dirigée par Grégoire Hellot || Pokémon",
+"nums": [
+"3",
+"3"
+],
+"pub": "Kurokawa DL 2017 Aubin impr.",
+"coll": false
+},
+{
+"isbn": "9782368525326",
+"title": "Pokémon la grande aventure Émeraude || Collection dirigée par Grégoire Hellot || Pokémon",
+"nums": [
+"4",
+"4"
+],
+"pub": "Kurokawa DL 2017",
+"coll": false
+},
+{
+"isbn": "9782368529898",
+"title": "Mewtwo contre-attaque évolution || Pokémon || Collection dirigée par Grégoire Hellot || Pokémon, le film",
+"nums": [],
+"pub": "Kurokawa DL 2020 Impr. Aubin",
+"coll": false
+},
+{
+"isbn": "9782368525494",
+"title": "Pokémon la grande aventure || Collection dirigée par Grégoire Hellot || Pokémon",
+"nums": [
+"1-3",
+"1-3"
+],
+"pub": "Kurokawa [2017] Aubin impr.",
+"coll": false
+},
+{
+"isbn": "9782368529010",
+"title": "Pokémon détective Pikachu || Kuropop",
+"nums": [],
+"pub": "Kurokawa DL 2020 Impr. Pollina",
+"coll": false
+},
+{
+"isbn": "9782368527931",
+"title": "Pokémon horizon || Collection dirigée par Grégoire Hellot || Pokemon horizon",
+"nums": [
+"2",
+"2"
+],
+"pub": "Kurokawa DL 2019 Aubin impr.",
+"coll": false
+},
+{
+"isbn": "9791042015039",
+"title": "Pokémon la grande aventure Rubis Oméga et Saphir Alpha || Collection dirigée par Grégoire Hellot || Pokémon",
+"nums": [
+"1",
+"1"
+],
+"pub": "Kurokawa DL 2024 Aubin impr.",
+"coll": false
+},
+{
+"isbn": "9782351428146",
+"title": "Pokémon noir et blanc || Collection dirigée par Grégoire Hellot || Pokémon noir et blanc",
+"nums": [
+"Volume 5",
+"5"
+],
+"pub": "Kurokawa DL 2012",
+"coll": false
+},
+{
+"isbn": "9782351426869",
+"title": "Pokémon noir et blanc || Collection dirigée par Grégoire Hellot || Pokémon noir et blanc",
+"nums": [
+"Volume 3",
+"3"
+],
+"pub": "Kurokawa DL 2012",
+"coll": false
+},
+{
+"isbn": "9782351426531",
+"title": "Pokémon noir et blanc || Collection dirigée par Grégoire Hellot || Pokémon noir et blanc",
+"nums": [
+"Volume 2",
+"2"
+],
+"pub": "Kurokawa DL 2011",
+"coll": false
+},
+{
+"isbn": "9782351426883",
+"title": "Pokémon noir et blanc || Collection dirigée par Grégoire Hellot || Pokémon noir et blanc",
+"nums": [
+"Volume 4",
+"4"
+],
+"pub": "Kurokawa DL 2012",
+"coll": false
+},
+{
+"isbn": "9782368520871",
+"title": "Pokémon la grande aventure Rubis et Saphir || Collection dirigée par Grégoire Hellot || Pokémon",
+"nums": [
+"2",
+"2"
+],
+"pub": "Kurokawa DL 2015",
+"coll": false
+},
+{
+"isbn": "9782368522776",
+"title": "Pokémon la grande aventure Or et Argent || Collection dirigée par Grégoire Hellot || Pokémon",
+"nums": [
+"2",
+"2"
+],
+"pub": "Kurokawa DL 2016",
+"coll": false
+},
+{
+"isbn": "9782368521670",
+"title": "Pokémon XY || Collection dirigée par Grégoire Hellot || Pokémon XY",
+"nums": [
+"2",
+"2"
+],
+"pub": "Kurokawa DL 2015",
+"coll": false
+},
+{
+"isbn": "9782368524169",
+"title": "Pokémon XY || Collection dirigée par Grégoire Hellot || Pokémon XY",
+"nums": [
+"5",
+"5"
+],
+"pub": "Kurokawa DL 2016",
+"coll": false
+},
+{
+"isbn": "9782368522127",
+"title": "Pokémon XY || Collection dirigée par Grégoire Hellot || Pokémon XY",
+"nums": [
+"3",
+"3"
+],
+"pub": "Kurokawa DL 2015",
+"coll": false
+},
+{
+"isbn": "9782368523827",
+"title": "Pokémon la grande aventure Or et Argent || Collection dirigée par Grégoire Hellot || Pokémon",
+"nums": [
+"3",
+"3"
+],
+"pub": "Kurokawa DL 2016",
+"coll": false
+},
+{
+"isbn": "9782368522790",
+"title": "Pokémon XY || Collection dirigée par Grégoire Hellot || Pokémon XY",
+"nums": [
+"4",
+"4"
+],
+"pub": "Kurokawa DL 2016",
+"coll": false
+},
+{
+"isbn": "9782368522219",
+"title": "Pokémon la grande aventure Or et Argent || Collection dirigée par Grégoire Hellot || Pokémon",
+"nums": [
+"1",
+"1"
+],
+"pub": "Kurokawa DL 2016",
+"coll": false
+},
+{
+"isbn": "9782368524978",
+"title": "Pokémon XY || Collection dirigée par Grégoire Hellot || Pokémon XY",
+"nums": [
+"6",
+"6"
+],
+"pub": "Kurokawa DL 2017",
+"coll": false
+},
+{
+"isbn": "9782368525074",
+"title": "Pokémon la grande aventure Rouge feu et Vert feuille || Collection dirigée par Grégoire Hellot || Pokémon",
+"nums": [
+"2",
+"2"
+],
+"pub": "Kurokawa DL 2017",
+"coll": false
+},
+{
+"isbn": "9782368524961",
+"title": "Pokémon la grande aventure Rouge feu et Vert feuille || Collection dirigée par Grégoire Hellot || Pokémon",
+"nums": [
+"1",
+"1"
+],
+"pub": "Kurokawa DL 2017",
+"coll": false
+},
+{
+"isbn": "9782380711691",
+"title": "Pokémon la grande aventure noir 2 et blanc 2 || Collection dirigée par Grégoire Hellot || Pokémon",
+"nums": [
+"2",
+"2"
+],
+"pub": "Kurokawa DL 2021 Impr. Aubin",
+"coll": false
+},
+{
+"isbn": "9782380711684",
+"title": "Pokémon la grande aventure noir 2 et blanc 2 || Collection dirigée par Grégoire Hellot || Pokémon",
+"nums": [
+"1",
+"1"
+],
+"pub": "Kurokawa DL 2021 Impr. Aubin",
+"coll": false
+},
+{
+"isbn": "9782368526439",
+"title": "Je te choisis || Pokémon, le film || Collection dirigée par Grégoire Hellot || Pokémon, le film",
+"nums": [],
+"pub": "Kurokawa DL 2019 Aubin impr.",
+"coll": false
+},
+{
+"isbn": "9782368520086",
+"title": "Pokémon noir et blanc || Collection dirigée par Grégoire Hellot || Pokémon noir et blanc",
+"nums": [
+"Volume 9",
+"9"
+],
+"pub": "Kurokawa DL 2014",
+"coll": false
+},
+{
+"isbn": "9782351426548",
+"title": "Pokémon noir et blanc || Collection dirigée par Grégoire Hellot || Pokémon noir et blanc",
+"nums": [
+"Volume 1",
+"1"
+],
+"pub": "Kurokawa DL 2011 Aubin impr.",
+"coll": false
+},
+{
+"isbn": "9782368521595",
+"title": "Diancie et le cocon de l'annihilation || Pokémon, le film || Collection dirigée par Grégoire Hellot || Pokémon, le film",
+"nums": [],
+"pub": "Kurokawa DL 2015",
+"coll": false
+},
+{
+"isbn": "9782368520178",
+"title": "Genesect et l'éveil de la légende || Pokémon, le film || Collection dirigée par Grégoire Hellot || Pokémon, le film",
+"nums": [],
+"pub": "Kurokawa DL 2014",
+"coll": false
+},
+{
+"isbn": "9782368527054",
+"title": "Pokémon la grande aventure or et argent série complète",
+"nums": [],
+"pub": "Kurokawa C 2018 Aubin impr.",
+"coll": false
+},
+{
+"isbn": "9782368528921",
+"title": "Pokémon la grande aventure Rubis et Saphir série complète",
+"nums": [],
+"pub": "Kurokawa C 2019 Aubin impr.",
+"coll": false
+},
+{
+"isbn": "9782351429051",
+"title": "Pokémon noir et blanc || Collection dirigée par Grégoire Hellot || Pokémon noir et blanc",
+"nums": [
+"Volume 7",
+"7"
+],
+"pub": "Kurokawa DL 2013",
+"coll": false
+},
+{
+"isbn": "9782351429068",
+"title": "Pokémon noir et blanc || Collection dirigée par Grégoire Hellot || Pokémon noir et blanc",
+"nums": [
+"Volume 8",
+"8"
+],
+"pub": "Kurokawa DL 2013",
+"coll": false
+},
+{
+"isbn": "9782351428757",
+"title": "Pokémon noir et blanc || Collection dirigée par Grégoire Hellot || Pokémon noir et blanc",
+"nums": [
+"Volume 6",
+"6"
+],
+"pub": "Kurokawa DL 2013",
+"coll": false
+},
+{
+"isbn": "9782368526453",
+"title": "Pokémon soleil et lune || Collection dirigée par Grégoire Hellot || Pokémon soleil et lune",
+"nums": [
+"Volume 2",
+"2"
+],
+"pub": "Kurokawa DL 2018 Aubin impr.",
+"coll": false
+},
+{
+"isbn": "9782380711547",
+"title": "Pokémon épée et bouclier || Collection dirigée par Grégoire Hellot || Pokémon épée et bouclier",
+"nums": [
+"Vol. 3",
+"3"
+],
+"pub": "Kurokawa DL 2021 Aubin impr.",
+"coll": false
+},
+{
+"isbn": "9782368529744",
+"title": "Pokémon soleil et lune || Collection dirigée par Grégoire Hellot || Pokémon soleil et lune",
+"nums": [
+"Vol. 6",
+"6"
+],
+"pub": "Kurokawa DL 2020 Aubin impr.",
+"coll": false
+},
+{
+"isbn": "9782380711523",
+"title": "Pokémon épée et bouclier || Collection dirigée par Grégoire Hellot || Pokémon épée et bouclier",
+"nums": [
+"Vol. 1",
+"1"
+],
+"pub": "Kurokawa DL 2021 Aubin impr.",
+"coll": false
+},
+{
+"isbn": "9782368529737",
+"title": "Pokémon soleil et lune || Collection dirigée par Grégoire Hellot || Pokémon soleil et lune",
+"nums": [
+"Vol. 5",
+"5"
+],
+"pub": "Kurokawa DL 2020 Aubin impr.",
+"coll": false
+},
+{
+"isbn": "9782380711530",
+"title": "Pokémon épée et bouclier || Collection dirigée par Grégoire Hellot || Pokémon épée et bouclier",
+"nums": [
+"Vol. 2",
+"2"
+],
+"pub": "Kurokawa DL 2021 Aubin impr.",
+"coll": false
+},
+{
+"isbn": "9782368527351",
+"title": "Pokémon soleil et lune || Collection dirigée par Grégoire Hellot || Pokémon soleil et lune",
+"nums": [
+"Volume 4",
+"4"
+],
+"pub": "Kurokawa DL 2019 Aubin impr.",
+"coll": false
+},
+{
+"isbn": "9782380712919",
+"title": "Pokémon épée et bouclier || Collection dirigée par Grégoire Hellot || Pokémon épée et bouclier",
+"nums": [
+"Vol. 4",
+"4"
+],
+"pub": "Kurokawa DL 2022 Aubin impr.",
+"coll": false
+},
+{
+"isbn": "9782368526934",
+"title": "Pokémon soleil et lune || Collection dirigée par Grégoire Hellot || Pokémon soleil et lune",
+"nums": [
+"Volume 3",
+"3"
+],
+"pub": "Kurokawa DL 2018 Aubin impr.",
+"coll": false
+},
+{
+"isbn": "9782368525456",
+"title": "Pokémon soleil et lune || Collection dirigée par Grégoire Hellot || Pokémon soleil et lune",
+"nums": [
+"Volume 1",
+"1"
+],
+"pub": "Kurokawa DL 2017 Aubin impr.",
+"coll": false
+},
+{
+"isbn": "9782380712056",
+"title": "Les secrets de la jungle les origines de Koko || Pokémon, le film || Collection dirigée par Grégoire Hellot || Pokémon, le film",
+"nums": [],
+"pub": "Kurokawa DL 2021 Impr. Aubin",
+"coll": false
+},
+{
+"isbn": "9782368527917",
+"title": "Le pouvoir est en nous les origines de Zeraora || Pokémon, le film || Collection dirigée par Grégoire Hellot || Pokémon, le film",
+"nums": [],
+"pub": "Kurokawa DL 2019 Aubin impr.",
+"coll": false
+},
+{
+"isbn": "9782368524190",
+"title": "Pokémon la grande aventure recueil d'illustrations || Collection dirigée par Grégoire Hellot",
+"nums": [],
+"pub": "Kurokawa DL 2016",
+"coll": false
+},
+{
+"isbn": "9782368526576",
+"title": "Pokémon la grande aventure Or, heart gold et Argent, soul silver || Collection dirigée par Grégoire Hellot",
+"nums": [],
+"pub": "Kurokawa DL 2018 Aubin impr.",
+"coll": false
+},
+{
+"isbn": "9782351426463",
+"title": "Pokémon Zoroark le maître des illusions || Collection dirigée par Grégoire Hellot",
+"nums": [],
+"pub": "Kurokawa DL 2011",
+"coll": false
+},
+{
+"isbn": "9782351427941",
+"title": "Pokémon, le film blanc Victini et Zekrom || Collection dirigée par Grégoire Hellot",
+"nums": [],
+"pub": "Kurokawa DL 2012",
+"coll": false
+},
+{
+"isbn": "9782351428818",
+"title": "Pokémon, le film Kyurem vs la Lame de la justice || Collection dirigée par Grégoire Hellot",
+"nums": [],
+"pub": "Kurokawa DL 2013",
+"coll": false
+}
+],
+"mashle": [
+{
+"isbn": "9784434101625",
+"title": "Setsudan no jidai nijisseiki ni okeru korāju no bigaku to rekishi",
+"nums": [],
+"pub": "Buryukke 2007 ブリュッケ 2007",
+"coll": false
+},
+{
+"isbn": "9784409511145",
+"title": "Kattō-suru keitai dai ichiji sekai taisen to bijutsu || Rekuchā dai ichiji sekai taisen o kangaeru || レクチャー第一次世界大戦を考える",
+"nums": [],
+"pub": "Jinbun shoin 2011 人文書院 2011",
+"coll": false
+},
+{
+"isbn": "9781496214607",
+"title": "Imperial Zions religion, race, and family in the American West and the Pacific || Studies in Pacific worlds",
+"nums": [],
+"pub": "University of Nebraska Press C [2022]",
+"coll": false
+},
+{
+"isbn": "4579403274",
+"title": "Tomodachi ga dekita yo Nyûyôku kara no tegami",
+"nums": [],
+"pub": "Bunka shuppan kyoku 1992",
+"coll": false
+},
+{
+"isbn": "9782820348029",
+"title": "Mash Burnedead et l'heureux dénouement || Mashle || Mashle",
+"nums": [
+"18",
+"18"
+],
+"pub": "Crunchyroll DL 2024 ",
+"coll": false
+},
+{
+"isbn": "9782820340818",
+"title": "Mash Burnedead et la magie de fer || Mashle || Shōnen || Mashle",
+"nums": [
+"2",
+"2"
+],
+"pub": "Kazé DL 2021 ",
+"coll": false
+},
+{
+"isbn": "9782820343000",
+"title": "Mash Burnedead et le miroir magique || Mashle || Shōnen || Mashle",
+"nums": [
+"5",
+"5"
+],
+"pub": "Kazé DL 2021 ",
+"coll": false
+},
+{
+"isbn": "9782820340979",
+"title": "Mash Burnedead et le sorcier masqué || Mashle || Shōnen || Mashle",
+"nums": [
+"3",
+"3"
+],
+"pub": "Kazé DL 2021 ",
+"coll": false
+},
+{
+"isbn": "9782820340801",
+"title": "Mash Burnedead et ses muscles d'enfer || Mashle || Shōnen || Mashle",
+"nums": [
+"1",
+"1"
+],
+"pub": "Kazé DL 2021 ",
+"coll": false
+},
+{
+"isbn": "9782820344113",
+"title": "Mash Burnedead et les quintuplés de l'enfer || Mashle || Mashle",
+"nums": [
+"12",
+"12"
+],
+"pub": "Crunchyroll DL 2022 ",
+"coll": false
+},
+{
+"isbn": "9782820341136",
+"title": "Mash Burnedead et la loi du plus fort || Mashle || Shōnen || Mashle",
+"nums": [
+"4",
+"4"
+],
+"pub": "Kazé DL 2021 ",
+"coll": false
+},
+{
+"isbn": "9782820341273",
+"title": "Finn Ames et l'importance de l'amitié || Mashle || Shōnen || Mashle",
+"nums": [
+"6",
+"6"
+],
+"pub": "Kazé DL 2021 ",
+"coll": false
+},
+{
+"isbn": "9782820343963",
+"title": "Mash Burnedead et la divinité aquatique || Mashle || Mashle",
+"nums": [
+"11",
+"11"
+],
+"pub": "Crunchyroll DL 2022 ",
+"coll": false
+},
+{
+"isbn": "9782820343468",
+"title": "Mash Burnedead et le tennis dévastateur || Mashle || Shōnen || Mashle",
+"nums": [
+"7",
+"7"
+],
+"pub": "Kazé DL 2022 ",
+"coll": false
+},
+{
+"isbn": "9782820346124",
+"title": "Lance Crown et Dot Barett || Mashle || Mashle",
+"nums": [
+"14",
+"14"
+],
+"pub": "Crunchyroll DL 2023 ",
+"coll": false
+},
+{
+"isbn": "9782820343543",
+"title": "Mash Burnedead et les quatre anneaux de diamant || Mashle || Shōnen || Mashle",
+"nums": [
+"8",
+"8"
+],
+"pub": "Kazé DL 2022 ",
+"coll": false
+},
+{
+"isbn": "9782820343734",
+"title": "Mash Burnedead et le tournoi des trois académies || Mashle || Shōnen || Mashle",
+"nums": [
+"9",
+"9"
+],
+"pub": "Kazé DL 2022 ",
+"coll": false
+},
+{
+"isbn": "9782820343833",
+"title": "Mash Burnedead et l'armure d'aimants || Mashle || Shōnen || Mashle",
+"nums": [
+"10",
+"10"
+],
+"pub": "Kazé DL 2022 ",
+"coll": false
+},
+{
+"isbn": "4568102952",
+"title": "Akira Komoto",
+"nums": [],
+"pub": "[s. n.] 1991",
+"coll": false
+},
+{
+"isbn": "9782820348210",
+"title": "Mashle",
+"nums": [],
+"pub": "Crunchyroll [2024]",
+"coll": false
+},
+{
+"isbn": "9782820346001",
+"title": "Mashle Rayne Ames et le redoutable hallebardier",
+"nums": [
+"13"
+],
+"pub": "crunchyroll DL 2023",
+"coll": false
+},
+{
+"isbn": "9782820346247",
+"title": "Mashle Ryoh Grantz et le sens de la virilité",
+"nums": [
+"15"
+],
+"pub": "crunchyroll DL 2023",
+"coll": false
+},
+{
+"isbn": "9782820346391",
+"title": "Mashle Mash burnedead et la magie réfléchissante || Mashle",
+"nums": [
+"16",
+"16"
+],
+"pub": "crunchyroll DL 2023",
+"coll": false
+},
+{
+"isbn": "9782820346506",
+"title": "Mashle Mash burnedead et la magie qui ralentit le temps || Mashle",
+"nums": [
+"17",
+"17"
+],
+"pub": "crunchyroll DL 2023",
+"coll": false
+},
+{
+"isbn": "221101724X",
+"title": "Crac l'écureuil",
+"nums": [],
+"pub": "l'école des loisirs 1984",
+"coll": false
+},
+{
+"isbn": "9782820343239",
+"title": "Mashle || Kazé shônen || Mashle",
+"nums": [
+"Tomes 1 à 3",
+"1-3"
+],
+"pub": "Kazé DL 2021",
+"coll": true
+},
+{
+"isbn": "9782820347107",
+"title": "Mashle mash Burnedead et le livre des aventures",
+"nums": [
+"roman"
+],
+"pub": "Crunchyroll 2023",
+"coll": false
+},
+{
+"isbn": "9783642375378",
+"title": "Thermoelectric nanomaterials materials design and applications || Springer series in materials science",
+"nums": [
+"Volume 182"
+],
+"pub": "Springer [2013]",
+"coll": false
+},
+{
+"isbn": "9782820352415",
+"title": "Mashle Mash Burnedead et ses amis débarquent en force roman",
+"nums": [],
+"pub": "Crunchyroll DL 2024 ",
+"coll": false
+},
+{
+"isbn": "9782820348203",
+"title": "Mash Burnedead et le sortilège de résurrection roman || Mashle || Mashle",
+"nums": [],
+"pub": "Crunchyroll DL 2024 ",
+"coll": false
+},
+{
+"isbn": "0792349814",
+"title": "Molecular genetics of host-specific toxins in plant disease proceedings of the 3rd Tottori international symposium on host-specific toxins, Daisen, Tottori, Japan, August 24-29, 1997 || Developments in plant pathology",
+"nums": [
+"13"
+],
+"pub": "Kluwer academic publishers cop. 1998",
+"coll": false
+},
+{
+"isbn": "0742503410",
+"title": "The living way stories of Kurozumi Munetada, a Shinto founder || The sacred literature series of the International sacred literature trust",
+"nums": [],
+"pub": "Altamira press 2000",
+"coll": false
+},
+{
+"isbn": "0080425100",
+"title": "Pathogenesis and host specificity in plant diseases histopathological, biochemical, genetics and molecular bases",
+"nums": [],
+"pub": "Pergamon 1995",
+"coll": false
+},
+{
+"isbn": "9780199358212",
+"title": "Out of obscurity Mormonism since 1945",
+"nums": [],
+"pub": "Oxford university press cop. 2016",
+"coll": false
+}
+],
+"dix": [],
+"spy": [
+{
+"isbn": "9791042021030",
+"title": "Spy x Family - Tome 16 || Spy X Family",
+"nums": [],
+"pub": "Kurokawa 2026",
+"coll": false
+},
+{
+"isbn": "9791042021030",
+"title": "Spy x family || Collection dirigée par Grégoire Hellot",
+"nums": [
+"16"
+],
+"pub": "Kurokawa 2026",
+"coll": false
+},
+{
+"isbn": "9782380710243",
+"title": "Spy x family || Spy x family || Collection dirigée par Grégoire Hellot || Spy x family",
+"nums": [
+"1",
+"1",
+"1"
+],
+"pub": "Kurokawa DL 2020 Aubin impr.",
+"coll": false
+},
+{
+"isbn": "9782380711479",
+"title": "Spy x family || Spy x family || Collection dirigée par Grégoire Hellot || Spy x family",
+"nums": [
+"3",
+"3",
+"3"
+],
+"pub": "Kurokawa DL 2021 Aubin impr.",
+"coll": false
+},
+{
+"isbn": "9791042016432",
+"title": "Spy x Family Mission coloriage [Album à colorier] [image fixe] || ",
+"nums": [],
+"pub": "Kurokawa 2024 Aubin Imprimeur 2024",
+"coll": false
+},
+{
+"isbn": "9782380714340",
+"title": "Spy x family || Collection dirigée par Grégoire Hellot",
+"nums": [
+"11"
+],
+"pub": "Kurokawa DL 2023 Aubin impr.",
+"coll": false
+},
+{
+"isbn": "9791042018733",
+"title": "Spy x family || Collection dirigée par Grégoire Hellot || Spy x family Tatsuya Endo",
+"nums": [
+"15",
+"15"
+],
+"pub": "Kurokawa DL 2025",
+"coll": false
+},
+{
+"isbn": "9782380715378",
+"title": "Spy x family || Collection dirigée par Grégoire Hellot || Spy x family",
+"nums": [
+"11",
+"11"
+],
+"pub": "Kurokawa DL 2023",
+"coll": false
+},
+{
+"isbn": "9791042018726",
+"title": "Spy x family || Collection dirigée par Grégoire Hellot || Spy x family",
+"nums": [
+"14",
+"14"
+],
+"pub": "Kurokawa DL 2025 Aubin impr.",
+"coll": false
+},
+{
+"isbn": "9782380712971",
+"title": "Spy x family || Collection dirigée par Grégoire Hellot || Spy x family",
+"nums": [
+"10",
+"10"
+],
+"pub": "Kurokawa DL 2022 Aubin impr.",
+"coll": false
+},
+{
+"isbn": "9791042014704",
+"title": "Spy x family || Collection dirigée par Grégoire Hellot || Spy x family",
+"nums": [
+"13",
+"13"
+],
+"pub": "Kurokawa DL 2024 Aubin impr.",
+"coll": false
+},
+{
+"isbn": "9791042014025",
+"title": "Spy x family || Collection dirigée par Grégoire Hellot || Spy x family",
+"nums": [
+"12",
+"12"
+],
+"pub": "Kurokawa DL 2024 Aubin impr.",
+"coll": false
+},
+{
+"isbn": "9782380712964",
+"title": "Spy x family || Collection dirigée par Grégoire Hellot || Spy x family",
+"nums": [
+"9",
+"9"
+],
+"pub": "Kurokawa DL 2022 Aubin impr.",
+"coll": false
+},
+{
+"isbn": "9782380711493",
+"title": "Spy x family || Collection dirigée par Grégoire Hellot || Spy x family",
+"nums": [
+"5",
+"5"
+],
+"pub": "Kurokawa DL 2021 Aubin impr.",
+"coll": false
+},
+{
+"isbn": "9782380711486",
+"title": "Spy x family || Collection dirigée par Grégoire Hellot || Spy x family",
+"nums": [
+"4",
+"4"
+],
+"pub": "Kurokawa DL 2021 Aubin impr.",
+"coll": false
+},
+{
+"isbn": "9782380712605",
+"title": "Spy x family || Collection dirigée par Grégoire Hellot || Spy x family",
+"nums": [
+"7",
+"7"
+],
+"pub": "Kurokawa DL 2022 Aubin impr.",
+"coll": false
+},
+{
+"isbn": "9782380712957",
+"title": "Spy x family || Collection dirigée par Grégoire Hellot || Spy x family",
+"nums": [
+"8",
+"8"
+],
+"pub": "Kurokawa DL 2022 Aubin impr.",
+"coll": false
+},
+{
+"isbn": "9782380711509",
+"title": "Spy x family || Collection dirigée par Grégoire Hellot || Spy x family",
+"nums": [
+"6",
+"6"
+],
+"pub": "Kurokawa DL 2021 Aubin impr.",
+"coll": false
+},
+{
+"isbn": "9782380710250",
+"title": "Mission start || Spy x family || Collection dirigée par Grégoire Hellot || Spy x family",
+"nums": [
+"vol. 2",
+"2"
+],
+"pub": "Kurokawa DL 2020 Aubin impr.",
+"coll": false
+},
+{
+"isbn": "9791042015046",
+"title": "Spy x family roman portrait de famille || Collection dirigée par Grégoire Hellot",
+"nums": [],
+"pub": "Kurokawa DL 2024 Aubin impr.",
+"coll": false
+},
+{
+"isbn": "9782380715231",
+"title": "\"Spy x family\" guidebook officiel eyes only || Collection dirigée par Grégoire Hellot",
+"nums": [],
+"pub": "Kurokawa DL 2024 Aubin impr.",
+"coll": false
+},
+{
+"isbn": "9782380714487",
+"title": "Spy x family || Collection dirigée par Grégoire Hellot || Spy x family",
+"nums": [
+"Tomes 1 à 3",
+"1-3"
+],
+"pub": "Kurokawa DL 2022 Aubin impr.",
+"coll": true
+},
+{
+"isbn": "9782380716283",
+"title": "\"Spy x family\" guidebook officiel eyes only || Collection dirigée par Grégoire Hellot",
+"nums": [],
+"pub": "Kurokawa DL 2023 Impr. Pollina",
+"coll": false
+}
+],
+"pga": [
+{
+"isbn": "9782373494235",
+"title": "Power gamer adventure || Shônen || Power gamer adventure",
+"nums": [
+"1",
+"1"
+],
+"pub": "Nobi nobi ! DL 2021 ",
+"coll": false
+},
+{
+"isbn": "9782373495324",
+"title": "Power gamer adventure || Shônen || Power gamer adventure",
+"nums": [
+"4",
+"4"
+],
+"pub": "Nobi nobi ! DL 2021 Impr. Jouve",
+"coll": false
+},
+{
+"isbn": "9782373495317",
+"title": "Power gamer adventure || Shônen || Power gamer adventure",
+"nums": [
+"3",
+"3"
+],
+"pub": "Nobi nobi ! DL 2021 ",
+"coll": false
+},
+{
+"isbn": "9782373494242",
+"title": "Power gamer adventure || Shônen || Power gamer adventure",
+"nums": [
+"2",
+"2"
+],
+"pub": "Nobi nobi ! DL 2021 ",
+"coll": false
+},
+{
+"isbn": "9782300110580",
+"title": "Tropico trilogy || Gamer for ever",
+"nums": [],
+"pub": "Avanquest software, Micro application cop. 2013",
+"coll": false
+},
+{
+"isbn": "9780415711913",
+"title": "Sports and identity new agendas in communication || New agendas in communication",
+"nums": [],
+"pub": "Routledge 2014",
+"coll": false
+}
+],
+"lost": [
+{
+"isbn": "9791035507749",
+"title": "Final Fantasy Lost Stranger",
+"nums": [
+"13"
+],
+"pub": "Mana books 2026",
+"coll": false
+},
+{
+"isbn": "9791035504281",
+"title": "Final Fantasy lost Stranger",
+"nums": [
+"10"
+],
+"pub": "Mana books 2023",
+"coll": false
+},
+{
+"isbn": "9791035505479",
+"title": "Final fantasy lost stranger || Final fantasy",
+"nums": [
+"12",
+"12"
+],
+"pub": "Mana books DL 2025 ",
+"coll": false
+},
+{
+"isbn": "9791035504298",
+"title": "Final fantasy lost stranger || Final fantasy",
+"nums": [
+"11",
+"11"
+],
+"pub": "Mana books DL 2024 ",
+"coll": false
+},
+{
+"isbn": "9791035500429",
+"title": "Final fantasy lost stranger || Final fantasy",
+"nums": [
+"2",
+"2"
+],
+"pub": "Mana books DL 2018 ",
+"coll": false
+},
+{
+"isbn": "9791035503178",
+"title": "Final fantasy lost stranger || Final fantasy",
+"nums": [
+"8",
+"8"
+],
+"pub": "Mana books DL 2022 ",
+"coll": false
+},
+{
+"isbn": "9791035503338",
+"title": "Final fantasy lost stranger || Final fantasy",
+"nums": [
+"9",
+"9"
+],
+"pub": "Mana books DL 2022 ",
+"coll": false
+},
+{
+"isbn": "9791035500887",
+"title": "Final fantasy lost stranger || Final fantasy",
+"nums": [
+"3",
+"3"
+],
+"pub": "Mana books DL 2019 ",
+"coll": false
+},
+{
+"isbn": "9791035501310",
+"title": "Final fantasy lost stranger || Final fantasy",
+"nums": [
+"4",
+"4"
+],
+"pub": "Mana books DL 2019 ",
+"coll": false
+},
+{
+"isbn": "9791035501693",
+"title": "Final fantasy lost stranger || Final fantasy",
+"nums": [
+"5",
+"5"
+],
+"pub": "Mana books DL 2020 ",
+"coll": false
+},
+{
+"isbn": "9791035502584",
+"title": "Final fantasy lost stranger || Final fantasy",
+"nums": [
+"7",
+"7"
+],
+"pub": "Mana books DL 2021 ",
+"coll": false
+},
+{
+"isbn": "9791035501976",
+"title": "Final fantasy lost stranger || Final fantasy",
+"nums": [
+"6",
+"6"
+],
+"pub": "Mana books DL 2021 ",
+"coll": false
+},
+{
+"isbn": "9791035500276",
+"title": "Final fantasy lost stranger || Final fantasy",
+"nums": [
+"1",
+"1"
+],
+"pub": "Mana books DL 2018 ",
+"coll": false
+},
+{
+"isbn": "9780810129825",
+"title": "Lost in time locating the stranger in German modernity",
+"nums": [],
+"pub": "Northwestern University Press 2014",
+"coll": false
+},
+{
+"isbn": "9780253006929",
+"title": "Cinematic flashes cinephilia and classical Hollywood",
+"nums": [],
+"pub": "Indiana University Press 2013",
+"coll": false
+},
+{
+"isbn": "9780312680466",
+"title": "The lost books of the Odyssey [a novel]",
+"nums": [],
+"pub": "Farrar, Straus and Giroux 2010",
+"coll": false
+},
+{
+"isbn": "9781474271516",
+"title": "Sarah Waters gender and sexual politics",
+"nums": [],
+"pub": "Bloomsbury 2017",
+"coll": false
+},
+{
+"isbn": "9780195394429",
+"title": "Postcolonial ecologies literatures of the environment",
+"nums": [],
+"pub": "Oxford University Press c2011",
+"coll": false
+},
+{
+"isbn": "9780810891227",
+"title": "Paratexts introductions to science fiction and fantasy",
+"nums": [],
+"pub": "the Scarecrow press 2013",
+"coll": false
+}
+],
+"gto": [
+{
+"isbn": "9782811600105",
+"title": "Rose Hip Zero || Seinen || Rose Hip Zero",
+"nums": [
+"3",
+"3"
+],
+"pub": "Pika éd. DL 2008",
+"coll": false
+},
+{
+"isbn": "2845991258",
+"title": "GTO great teacher Onizuka || GTO.",
+"nums": [
+"6",
+"6"
+],
+"pub": "Pika éd. 2001",
+"coll": false
+},
+{
+"isbn": "2845991207",
+"title": "GTO great teacher Onizuka || GTO.",
+"nums": [
+"5",
+"5"
+],
+"pub": "Pika éd. 2001",
+"coll": false
+},
+{
+"isbn": "2845991819",
+"title": "GTO great teacher Onizuka || GTO.",
+"nums": [
+"17",
+"17"
+],
+"pub": "Pika éd. 2002",
+"coll": false
+},
+{
+"isbn": "2845991347",
+"title": "GTO great teacher Onizuka || GTO.",
+"nums": [
+"7",
+"7"
+],
+"pub": "Pika éd. 2001",
+"coll": false
+},
+{
+"isbn": "2845992017",
+"title": "GTO great teacher Onizuka || GTO.",
+"nums": [
+"21",
+"21"
+],
+"pub": "Pika éd. 2002",
+"coll": false
+},
+{
+"isbn": "2845992084",
+"title": "GTO great teacher Onizuka || GTO.",
+"nums": [
+"22",
+"22"
+],
+"pub": "Pika éd. 2003",
+"coll": false
+},
+{
+"isbn": "2845991959",
+"title": "GTO great teacher Onizuka || GTO.",
+"nums": [
+"20",
+"20"
+],
+"pub": "Pika éd. 2002",
+"coll": false
+},
+{
+"isbn": "2845991371",
+"title": "GTO great teacher Onizuka || GTO.",
+"nums": [
+"8",
+"8"
+],
+"pub": "Pika éd. 2001",
+"coll": false
+},
+{
+"isbn": "2845992246",
+"title": "GTO great teacher Onizuka || GTO.",
+"nums": [
+"24",
+"24"
+],
+"pub": "Pika éd. 2003",
+"coll": false
+},
+{
+"isbn": "2845992319",
+"title": "GTO great teacher Onizuka || GTO.",
+"nums": [
+"25",
+"25"
+],
+"pub": "Pika éd. 2003",
+"coll": false
+},
+{
+"isbn": "2845991444",
+"title": "GTO great teacher Onizuka || GTO.",
+"nums": [
+"9",
+"9"
+],
+"pub": "Pika éd. 2001",
+"coll": false
+},
+{
+"isbn": "284599186X",
+"title": "GTO great teacher Onizuka || GTO.",
+"nums": [
+"18",
+"18"
+],
+"pub": "Pika éd. 2002",
+"coll": false
+},
+{
+"isbn": "2845992130",
+"title": "GTO great teacher Onizuka || GTO.",
+"nums": [
+"23",
+"23"
+],
+"pub": "Pika éd. 2003",
+"coll": false
+},
+{
+"isbn": "2845991762",
+"title": "GTO great teacher Onizuka || GTO.",
+"nums": [
+"16",
+"16"
+],
+"pub": "Pika éd. 2002",
+"coll": false
+},
+{
+"isbn": "2845991177",
+"title": "GTO great teacher Onizuka || GTO.",
+"nums": [
+"4",
+"4"
+],
+"pub": "Pika éd. 2001",
+"coll": false
+},
+{
+"isbn": "2845996349",
+"title": "Young GTO ! shonan junaï gumi || Young GTO !",
+"nums": [
+"14",
+"14"
+],
+"pub": "Pika Éd. DL 2006",
+"coll": false
+},
+{
+"isbn": "9782811600280",
+"title": "Young GTO ! shonan junaï gumi || Young GTO !",
+"nums": [
+"29",
+"29"
+],
+"pub": "Pika éd. DL 2009",
+"coll": false
+},
+{
+"isbn": "2845991061",
+"title": "GTO great teacher Onizuka || GTO.",
+"nums": [
+"2",
+"2"
+],
+"pub": "Pika éd. 2001",
+"coll": false
+},
+{
+"isbn": "2845991002",
+"title": "GTO great teacher Onizuka || GTO.",
+"nums": [
+"1",
+"1"
+],
+"pub": "Pika éd. 2001",
+"coll": false
+},
+{
+"isbn": "9782811600617",
+"title": "Rose Hip Zero || Rose Hip Zero",
+"nums": [
+"6",
+"6"
+],
+"pub": "Pika éd. DL 2009",
+"coll": false
+},
+{
+"isbn": "9782845998872",
+"title": "Young GTO ! shonan junaï gumi || Young GTO !",
+"nums": [
+"25",
+"25"
+],
+"pub": "Pika éd. DL 2008",
+"coll": false
+},
+{
+"isbn": "9782845999077",
+"title": "Rose hip Rose || Rose hip Rose",
+"nums": [
+"4",
+"4"
+],
+"pub": "Pika éd. DL 2008",
+"coll": false
+},
+{
+"isbn": "2845991541",
+"title": "GTO great teacher Onizuka || GTO.",
+"nums": [
+"11",
+"11"
+],
+"pub": "Pika éd. 2002",
+"coll": false
+},
+{
+"isbn": "2845991657",
+"title": "GTO great teacher Onizuka || GTO.",
+"nums": [
+"14",
+"14"
+],
+"pub": "Pika éd. 2002",
+"coll": false
+},
+{
+"isbn": "2845991703",
+"title": "GTO great teacher Onizuka || GTO.",
+"nums": [
+"15",
+"15"
+],
+"pub": "Pika éd. 2002",
+"coll": false
+},
+{
+"isbn": "2845991568",
+"title": "GTO great teacher Onizuka || GTO.",
+"nums": [
+"12",
+"12"
+],
+"pub": "Pika éd. 2002",
+"coll": false
+},
+{
+"isbn": "2845991479",
+"title": "GTO great teacher Onizuka || GTO.",
+"nums": [
+"10",
+"10"
+],
+"pub": "Pika éd. 2001",
+"coll": false
+},
+{
+"isbn": "2845991606",
+"title": "GTO great teacher Onizuka || GTO.",
+"nums": [
+"13",
+"13"
+],
+"pub": "Pika éd. 2002",
+"coll": false
+},
+{
+"isbn": "2845991894",
+"title": "GTO great teacher Onizuka || GTO.",
+"nums": [
+"19",
+"19"
+],
+"pub": "Pika éd. 2002",
+"coll": false
+},
+{
+"isbn": "2845995024",
+"title": "Young GTO ! Shonan junaï gumi || Young GTO !",
+"nums": [
+"5",
+"5"
+],
+"pub": "Pika éd. DL 2005",
+"coll": false
+},
+{
+"isbn": "2845995318",
+"title": "Young GTO ! shonan junaï gumi || Young GTO !",
+"nums": [
+"7",
+"7"
+],
+"pub": "Pika éd. DL 2005",
+"coll": false
+},
+{
+"isbn": "2845996438",
+"title": "Young GTO ! shonan junaï gumi || Young GTO !",
+"nums": [
+"15",
+"15"
+],
+"pub": "Pika éd. DL 2006",
+"coll": false
+},
+{
+"isbn": "2845995202",
+"title": "Young GTO ! shonan junaï gumi || Young GTO !",
+"nums": [
+"6",
+"6"
+],
+"pub": "Pika éd. DL 2005",
+"coll": false
+},
+{
+"isbn": "2845994737",
+"title": "Young GTO ! Shonan junaï gumi || Young GTO !",
+"nums": [
+"3",
+"3"
+],
+"pub": "Pika éd. DL 2005",
+"coll": false
+},
+{
+"isbn": "2845995555",
+"title": "Young GTO ! shonan junaï gumi || Young GTO !",
+"nums": [
+"8",
+"8"
+],
+"pub": "Pika éd. DL 2006",
+"coll": false
+},
+{
+"isbn": "2845994923",
+"title": "Young GTO ! Shonan junaï gumi || Young GTO !",
+"nums": [
+"4",
+"4"
+],
+"pub": "Pika éd. DL 2005",
+"coll": false
+},
+{
+"isbn": "2845996888",
+"title": "Young GTO ! shonan junaï gumi || Young GTO !",
+"nums": [
+"17",
+"17"
+],
+"pub": "Pika éd. DL 2007",
+"coll": false
+},
+{
+"isbn": "2845994559",
+"title": "Young GTO ! Shonan junaï gumi || Young GTO !",
+"nums": [
+"2",
+"2"
+],
+"pub": "Pika éd. DL 2005",
+"coll": false
+},
+{
+"isbn": "2845994443",
+"title": "Young GTO ! Shonan junaï gumi || Young GTO !",
+"nums": [
+"1",
+"1"
+],
+"pub": "Pika éd. DL 2005",
+"coll": false
+},
+{
+"isbn": "2845995741",
+"title": "Young GTO ! shonan junaï gumi || Young GTO !",
+"nums": [
+"10",
+"10"
+],
+"pub": "Pika éd. DL 2006",
+"coll": false
+},
+{
+"isbn": "2845995636",
+"title": "Young GTO ! shonan junaï gumi || Young GTO !",
+"nums": [
+"9",
+"9"
+],
+"pub": "Pika éd. DL 2006",
+"coll": false
+},
+{
+"isbn": "9782845999244",
+"title": "Young GTO ! shonan junaï gumi || Young GTO !",
+"nums": [
+"26",
+"26"
+],
+"pub": "Pika éd. DL 2008",
+"coll": false
+},
+{
+"isbn": "9782845999558",
+"title": "Young GTO ! shonan junaï gumi || Young GTO !",
+"nums": [
+"27",
+"27"
+],
+"pub": "Pika éd. DL 2008",
+"coll": false
+},
+{
+"isbn": "9782811680008",
+"title": "GTO paradise lost || Shônen || GTO",
+"nums": [
+"19",
+"19"
+],
+"pub": "Pika édition DL 2023",
+"coll": false
+},
+{
+"isbn": "9782811684723",
+"title": "GTO paradise lost || Pika Shônen",
+"nums": [
+"20"
+],
+"pub": "Pika éditions 2023 Impr. GRAFICA VENETA SPA",
+"coll": false
+},
+{
+"isbn": "2845991126",
+"title": "GTO great teacher Onizuka || GTO.",
+"nums": [
+"3",
+"3"
+],
+"pub": "Pika éd. 2001",
+"coll": false
+},
+{
+"isbn": "9782845998582",
+"title": "Young GTO ! shonan junaï gumi || Young GTO !",
+"nums": [
+"24",
+"24"
+],
+"pub": "Pika éd. DL 2008",
+"coll": false
+},
+{
+"isbn": "9782845998346",
+"title": "Young GTO ! shonan junaï gumi || Young GTO !",
+"nums": [
+"23",
+"23"
+],
+"pub": "Pika éd. DL 2008",
+"coll": false
+},
+{
+"isbn": "9782845997509",
+"title": "Young GTO ! shonan junaï gumi || Young GTO !",
+"nums": [
+"20",
+"20"
+],
+"pub": "Pika éd. DL 2007",
+"coll": false
+},
+{
+"isbn": "9782845997974",
+"title": "Young GTO ! shonan junaï gumi || Young GTO !",
+"nums": [
+"22",
+"22"
+],
+"pub": "Pika éd. DL 2007",
+"coll": false
+},
+{
+"isbn": "9782811601393",
+"title": "Kamen teacher || Pika shônen || Kamen teacher",
+"nums": [
+"Volume 2",
+"2"
+],
+"pub": "Pika éd. DL 2009",
+"coll": false
+},
+{
+"isbn": "9782811605858",
+"title": "GTO great teacher Onizuka || Pika shônen || GTO",
+"nums": [
+"3",
+"3"
+],
+"pub": "Pika éd. DL 2010",
+"coll": false
+},
+{
+"isbn": "9782845997103",
+"title": "Young GTO ! shonan junaï gumi || Young GTO !",
+"nums": [
+"18",
+"18"
+],
+"pub": "Pika éd. DL 2007",
+"coll": false
+},
+{
+"isbn": "9782811602048",
+"title": "Kamen teacher || Pika shônen || Kamen teacher",
+"nums": [
+"Volume 3",
+"3"
+],
+"pub": "Pika éd. DL 2010",
+"coll": false
+},
+{
+"isbn": "9782845997783",
+"title": "Young GTO ! shonan junaï gumi || Young GTO !",
+"nums": [
+"21",
+"21"
+],
+"pub": "Pika éd. DL 2007",
+"coll": false
+},
+{
+"isbn": "9782845997325",
+"title": "Young GTO ! shonan junaï gumi || Young GTO !",
+"nums": [
+"19",
+"19"
+],
+"pub": "Pika éd. DL 2007",
+"coll": false
+},
+{
+"isbn": "9782811609665",
+"title": "GTO great teacher Onizuka || Pika shônen || GTO",
+"nums": [
+"12",
+"12"
+],
+"pub": "Pika éd. DL 2012",
+"coll": false
+},
+{
+"isbn": "9782811605742",
+"title": "GTO great teacher Onizuka || Pika shônen || GTO",
+"nums": [
+"2",
+"2"
+],
+"pub": "Pika éd. DL 2011",
+"coll": false
+},
+{
+"isbn": "9782811607067",
+"title": "GTO great teacher Onizuka || Pika shônen || GTO",
+"nums": [
+"7",
+"7"
+],
+"pub": "Pika éd. DL 2012",
+"coll": false
+},
+{
+"isbn": "9782811607319",
+"title": "GTO great teacher Onizuka || Pika shônen || GTO",
+"nums": [
+"8",
+"8"
+],
+"pub": "Pika éd. DL 2012",
+"coll": false
+},
+{
+"isbn": "9782811602369",
+"title": "Kamen teacher || Pika shônen || Kamen teacher",
+"nums": [
+"Volume 4",
+"4"
+],
+"pub": "Pika éd. DL 2010",
+"coll": false
+},
+{
+"isbn": "9782811610227",
+"title": "GTO great teacher Onizuka || Pika shônen || GTO",
+"nums": [
+"13",
+"13"
+],
+"pub": "Pika éd. impr. 2012",
+"coll": false
+},
+{
+"isbn": "9782811609368",
+"title": "GTO great teacher Onizuka || Pika shônen || GTO",
+"nums": [
+"9",
+"9"
+],
+"pub": "Pika éd. DL 2012",
+"coll": false
+},
+{
+"isbn": "9782811609474",
+"title": "GTO great teacher Onizuka || Pika shônen || GTO",
+"nums": [
+"10",
+"10"
+],
+"pub": "Pika éd. DL 2012",
+"coll": false
+},
+{
+"isbn": "9782811600365",
+"title": "Rose Hip Zero || Seinen || Rose Hip Zero",
+"nums": [
+"4",
+"4"
+],
+"pub": "Pika éd. DL 2009",
+"coll": false
+},
+{
+"isbn": "9782811601102",
+"title": "Kamen teacher || Pika shônen || Kamen teacher",
+"nums": [
+"Volume 1",
+"1"
+],
+"pub": "Pika éd. DL 2009",
+"coll": false
+},
+{
+"isbn": "9782811600693",
+"title": "Rose Hip Zero || Seinen || Rose Hip Zero",
+"nums": [
+"5",
+"5"
+],
+"pub": "Pika éd. DL 2009",
+"coll": false
+},
+{
+"isbn": "9782811610876",
+"title": "Reverend D || Collection Pika seinen || Reverend D",
+"nums": [
+"2",
+"2"
+],
+"pub": "Pika éd. impr. 2013",
+"coll": false
+},
+{
+"isbn": "9782811606626",
+"title": "GTO great teacher Onizuka || Pika shônen || GTO",
+"nums": [
+"5",
+"5"
+],
+"pub": "Pika éd. DL 2012",
+"coll": false
+},
+{
+"isbn": "9782811605636",
+"title": "GTO Shonan 14 days || Pika shônen || GTO",
+"nums": [
+"2",
+"2"
+],
+"pub": "Pika éd. DL 2011",
+"coll": false
+},
+{
+"isbn": "9782811605315",
+"title": "GTO great teacher Onizuka || Pika shônen || GTO",
+"nums": [
+"1",
+"1"
+],
+"pub": "Pika éd. DL 2011",
+"coll": false
+},
+{
+"isbn": "9782811606237",
+"title": "GTO great teacher Onizuka || Pika shônen || GTO",
+"nums": [
+"4",
+"4"
+],
+"pub": "Pika éd. DL 2012",
+"coll": false
+},
+{
+"isbn": "9782845999633",
+"title": "Rose Hip Zero || Seinen || Rose Hip Zero",
+"nums": [
+"2",
+"2"
+],
+"pub": "Pika éd. DL 2008",
+"coll": false
+},
+{
+"isbn": "9782811609252",
+"title": "GTO great teacher Onizuka || Pika shônen || GTO",
+"nums": [
+"11",
+"11"
+],
+"pub": "Pika éd. DL 2012",
+"coll": false
+},
+{
+"isbn": "9782811605308",
+"title": "GTO Shonan 14 days || Pika shônen || GTO",
+"nums": [
+"1",
+"1"
+],
+"pub": "Pika éd. DL 2011",
+"coll": false
+},
+{
+"isbn": "9782811602581",
+"title": "Momoider troupes secrètes de combat || Pika shônen",
+"nums": [],
+"pub": "Pika éd. DL 2010",
+"coll": false
+},
+{
+"isbn": "9782845999350",
+"title": "Rose Hip Zero || Seinen || Rose Hip Zero",
+"nums": [
+"1",
+"1"
+],
+"pub": "Pika éd. DL 2008",
+"coll": false
+},
+{
+"isbn": "9782811606794",
+"title": "GTO great teacher Onizuka || Pika shônen || GTO",
+"nums": [
+"6",
+"6"
+],
+"pub": "Pika éd. DL 2012",
+"coll": false
+},
+{
+"isbn": "9782845998551",
+"title": "Tokko chasseurs de fantômes || Senpai || Tokko",
+"nums": [
+"3",
+"3"
+],
+"pub": "Pika éd. DL 2008",
+"coll": false
+},
+{
+"isbn": "9782845998681",
+"title": "Rose hip Rose || Rose hip Rose",
+"nums": [
+"3",
+"3"
+],
+"pub": "Pika éd. DL 2008",
+"coll": false
+},
+{
+"isbn": "9782845998414",
+"title": "Rose hip Rose || Rose hip Rose",
+"nums": [
+"2",
+"2"
+],
+"pub": "Pika éd. DL 2008",
+"coll": false
+},
+{
+"isbn": "9782845998179",
+"title": "Rose hip Rose || Rose hip Rose",
+"nums": [
+"1",
+"1"
+],
+"pub": "Pika éd. DL 2008",
+"coll": false
+},
+{
+"isbn": "9782845999992",
+"title": "Young GTO ! shonan junaï gumi || Pika shônen || Young GTO !",
+"nums": [
+"28",
+"28"
+],
+"pub": "Pika édition DL 2009",
+"coll": false
+},
+{
+"isbn": "9782811641627",
+"title": "GTO great teacher Onizuka || Shônen || GTO",
+"nums": [
+"22",
+"22"
+],
+"pub": "Pika édition 2019 ",
+"coll": false
+},
+{
+"isbn": "9782811670542",
+"title": "GTO paradise lost || Shônen || GTO",
+"nums": [
+"16",
+"16"
+],
+"pub": "Pika édition 2022 Dupliprint",
+"coll": false
+},
+{
+"isbn": "9782811600570",
+"title": "Young GTO ! shonan junaï gumi || Pika shônen || Young GTO !",
+"nums": [
+"30",
+"30"
+],
+"pub": "Pika édition DL 2009",
+"coll": false
+},
+{
+"isbn": "9782811600877",
+"title": "Young GTO ! shonan junaï gumi || Pika shônen || Young GTO !",
+"nums": [
+"31",
+"31"
+],
+"pub": "Pika édition DL 2009",
+"coll": false
+},
+{
+"isbn": "9782811641610",
+"title": "GTO great teacher Onizuka || Shônen || GTO",
+"nums": [
+"21",
+"21"
+],
+"pub": "Pika édition 2019 ",
+"coll": false
+},
+{
+"isbn": "9782811641641",
+"title": "GTO great teacher Onizuka || Shônen || GTO",
+"nums": [
+"24",
+"24"
+],
+"pub": "Pika édition 2019 ",
+"coll": false
+},
+{
+"isbn": "9782811641658",
+"title": "GTO great teacher Onizuka || Shônen || GTO",
+"nums": [
+"25",
+"25"
+],
+"pub": "Pika édition 2019 ",
+"coll": false
+},
+{
+"isbn": "9782811641634",
+"title": "GTO great teacher Onizuka || Shônen || GTO",
+"nums": [
+"23",
+"23"
+],
+"pub": "Pika édition 2019 ",
+"coll": false
+},
+{
+"isbn": "9782811619435",
+"title": "My teen love || Pika shôjo || My teen love",
+"nums": [
+"1",
+"1"
+],
+"pub": "Pika édition DL 2015",
+"coll": false
+},
+{
+"isbn": "9782811619466",
+"title": "My teen love || Pika shôjo || My teen love",
+"nums": [
+"4",
+"4"
+],
+"pub": "Pika édition DL 2015",
+"coll": false
+},
+{
+"isbn": "9782811630577",
+"title": "My teen love || Pika shôjo || My teen love",
+"nums": [
+"8",
+"8"
+],
+"pub": "Pika édition DL 2016",
+"coll": false
+},
+{
+"isbn": "9782811619459",
+"title": "My teen love || Pika shôjo || My teen love",
+"nums": [
+"3",
+"3"
+],
+"pub": "Pika édition DL 2015",
+"coll": false
+},
+{
+"isbn": "9782811619473",
+"title": "My teen love || Pika shôjo || My teen love",
+"nums": [
+"5",
+"5"
+],
+"pub": "Pika édition DL 2016",
+"coll": false
+},
+{
+"isbn": "9782811626976",
+"title": "My teen love || Shôjo || My teen love",
+"nums": [
+"6",
+"6"
+],
+"pub": "Pika édition DL 2016",
+"coll": false
+},
+{
+"isbn": "9782811628802",
+"title": "My teen love || Shôjo || My teen love",
+"nums": [
+"7",
+"7"
+],
+"pub": "Pika édition DL 2016",
+"coll": false
+},
+{
+"isbn": "9782811619442",
+"title": "My teen love || Pika shôjo || My teen love",
+"nums": [
+"2",
+"2"
+],
+"pub": "Pika édition DL 2015",
+"coll": false
+},
+{
+"isbn": "9782811615604",
+"title": "GT-R great transporter Ryuji || Pika shônen",
+"nums": [],
+"pub": "Pika édition DL 2014",
+"coll": false
+},
+{
+"isbn": "9782811606039",
+"title": "GTO Shonan 14 days || Pika shônen || GTO",
+"nums": [
+"3",
+"3"
+],
+"pub": "Pika éd. DL 2012",
+"coll": false
+},
+{
+"isbn": "9782811625757",
+"title": "Tokkô || Seinen || Tokkô",
+"nums": [
+"1",
+"1"
+],
+"pub": "Pika édition DL 2015",
+"coll": false
+},
+{
+"isbn": "9782811606398",
+"title": "GTO Shonan 14 days || Pika shônen || GTO",
+"nums": [
+"4",
+"4"
+],
+"pub": "Pika éd. DL 2012",
+"coll": false
+},
+{
+"isbn": "9782811656027",
+"title": "GTO paradise lost || Shônen || GTO",
+"nums": [
+"Vol. 12",
+"12"
+],
+"pub": "Pika édition DL 2020 ",
+"coll": false
+},
+{
+"isbn": "9782811641443",
+"title": "Young GTO great teacher Onizuka || Shônen || Young GTO",
+"nums": [
+"Vol. 9",
+"9"
+],
+"pub": "Pika édition DL 2018 ",
+"coll": false
+},
+{
+"isbn": "9782811609702",
+"title": "GTO Shonan 14 days || Pika shônen || GTO",
+"nums": [
+"08",
+"8"
+],
+"pub": "Pika éd. DL 2012",
+"coll": false
+},
+{
+"isbn": "9782811625795",
+"title": "Tokkô || Seinen || Tokkô",
+"nums": [
+"2",
+"2"
+],
+"pub": "Pika édition DL 2015",
+"coll": false
+},
+{
+"isbn": "9782811609481",
+"title": "GTO Shonan 14 days || Pika shônen || GTO",
+"nums": [
+"07",
+"7"
+],
+"pub": "Pika éd. DL 2012",
+"coll": false
+},
+{
+"isbn": "9782811610715",
+"title": "GTO Shonan 14 days || Pika shônen || GTO",
+"nums": [
+"09",
+"9"
+],
+"pub": "Pika éd. impr. 2013",
+"coll": false
+},
+{
+"isbn": "9782811620028",
+"title": "Kamen teacher black || Shônen || Kamen teacher black",
+"nums": [
+"1",
+"1"
+],
+"pub": "Pika édition DL 2015",
+"coll": false
+},
+{
+"isbn": "9782811606800",
+"title": "GTO Shonan 14 days || Pika shônen || GTO",
+"nums": [
+"05",
+"5"
+],
+"pub": "Pika éd. DL 2012",
+"coll": false
+},
+{
+"isbn": "9782811643973",
+"title": "GTO paradise lost || Shônen || GTO",
+"nums": [
+"Vol. 11",
+"11"
+],
+"pub": "Pika édition DL 2018 Impr. Jouve",
+"coll": false
+},
+{
+"isbn": "9782811640880",
+"title": "GTO paradise lost || Shônen || GTO",
+"nums": [
+"Vol. 10",
+"10"
+],
+"pub": "Pika édition DL 2018 Impr. Jouve",
+"coll": false
+},
+{
+"isbn": "9782811671211",
+"title": "GTO paradise lost || Shônen || GTO",
+"nums": [
+"17",
+"17"
+],
+"pub": "Pika édition DL 2022 ",
+"coll": false
+},
+{
+"isbn": "9782811641573",
+"title": "GTO great teacher Onizuka || Shônen || GTO",
+"nums": [
+"17",
+"17"
+],
+"pub": "Pika édition DL 2018 ",
+"coll": false
+},
+{
+"isbn": "9782811607302",
+"title": "GTO Shonan 14 days || Pika shônen || GTO",
+"nums": [
+"06",
+"6"
+],
+"pub": "Pika éd. DL 2012",
+"coll": false
+},
+{
+"isbn": "9782811634360",
+"title": "GTO paradise lost || Shônen || GTO",
+"nums": [
+"Vol. 6",
+"6"
+],
+"pub": "Pika édition DL 2017",
+"coll": false
+},
+{
+"isbn": "9782811638191",
+"title": "GTO great teacher Onizuka || Shônen || GTO",
+"nums": [
+"5",
+"5"
+],
+"pub": "Pika édition DL 2017 ",
+"coll": false
+},
+{
+"isbn": "9782811668112",
+"title": "GTO paradise lost || Shônen || GTO",
+"nums": [
+"15",
+"15"
+],
+"pub": "Pika édition DL 2022 ",
+"coll": false
+},
+{
+"isbn": "9782811637934",
+"title": "GTO paradise lost || Shônen || GTO",
+"nums": [
+"Vol. 8",
+"8"
+],
+"pub": "Pika édition DL 2017",
+"coll": false
+},
+{
+"isbn": "9782811619411",
+"title": "Ino-head gargoyle || Seinen || Ino-head gargoyle",
+"nums": [
+"3",
+"3"
+],
+"pub": "Pika édition DL 2016",
+"coll": false
+},
+{
+"isbn": "9782811619404",
+"title": "Ino-head gargoyle || Pika seinen || Ino-head gargoyle",
+"nums": [
+"2",
+"2"
+],
+"pub": "Pika édition DL 2015",
+"coll": false
+},
+{
+"isbn": "9782811610845",
+"title": "Reverend D || Collection Pika seinen || Reverend D",
+"nums": [
+"1",
+"1"
+],
+"pub": "Pika éd. impr. 2012",
+"coll": false
+},
+{
+"isbn": "9782811677381",
+"title": "GTO paradise lost || Shônen || GTO",
+"nums": [
+"18",
+"18"
+],
+"pub": "Pika édition 2023 ",
+"coll": false
+},
+{
+"isbn": "9782811641603",
+"title": "GTO great teacher Onizuka || Shônen || GTO",
+"nums": [
+"20",
+"20"
+],
+"pub": "Pika édition DL 2019 ",
+"coll": false
+},
+{
+"isbn": "9782811619398",
+"title": "Ino-head gargoyle || Pika seinen || Ino-head gargoyle",
+"nums": [
+"1",
+"1"
+],
+"pub": "Pika édition DL 2015",
+"coll": false
+},
+{
+"isbn": "9782811632960",
+"title": "Young GTO great teacher Onizuka || Shônen || Young GTO",
+"nums": [
+"Vol. 4",
+"4"
+],
+"pub": "Pika édition DL 2017 ",
+"coll": false
+},
+{
+"isbn": "9782811638740",
+"title": "GTO great teacher Onizuka || Shônen || GTO",
+"nums": [
+"8",
+"8"
+],
+"pub": "Pika édition DL 2018 ",
+"coll": false
+},
+{
+"isbn": "9782811638733",
+"title": "GTO great teacher Onizuka || Shônen || GTO",
+"nums": [
+"7",
+"7"
+],
+"pub": "Pika édition DL 2018 ",
+"coll": false
+},
+{
+"isbn": "9782811641511",
+"title": "GTO great teacher Onizuka || Shônen || GTO",
+"nums": [
+"11",
+"11"
+],
+"pub": "Pika édition DL 2018 ",
+"coll": false
+},
+{
+"isbn": "9782811638726",
+"title": "GTO great teacher Onizuka || Shônen || GTO",
+"nums": [
+"6",
+"6"
+],
+"pub": "Pika édition DL 2018 ",
+"coll": false
+},
+{
+"isbn": "9782811634827",
+"title": "GTO great teacher Onizuka || Shônen || GTO",
+"nums": [
+"1",
+"1"
+],
+"pub": "Pika édition DL 2017",
+"coll": false
+},
+{
+"isbn": "9782811638764",
+"title": "GTO great teacher Onizuka || Shônen || GTO",
+"nums": [
+"10",
+"10"
+],
+"pub": "Pika édition DL 2018 ",
+"coll": false
+},
+{
+"isbn": "9782811641467",
+"title": "Young GTO great teacher Onizuka || Shônen || Young GTO",
+"nums": [
+"Vol.11",
+"11"
+],
+"pub": "Pika édition DL 2018 ",
+"coll": false
+},
+{
+"isbn": "9782811641498",
+"title": "Young GTO great teacher Onizuka || Shônen || Young GTO",
+"nums": [
+"Vol.14",
+"14"
+],
+"pub": "Pika édition DL 2018 ",
+"coll": false
+},
+{
+"isbn": "9782811641535",
+"title": "GTO great teacher Onizuka || Shônen || GTO",
+"nums": [
+"13",
+"13"
+],
+"pub": "Pika édition DL 2018 ",
+"coll": false
+},
+{
+"isbn": "9782811629045",
+"title": "GTO paradise lost || Shônen || GTO",
+"nums": [
+"Vol. 3",
+"3"
+],
+"pub": "Pika édition DL 2016",
+"coll": false
+},
+{
+"isbn": "9782811641566",
+"title": "GTO great teacher Onizuka || Shônen || GTO",
+"nums": [
+"16",
+"16"
+],
+"pub": "Pika édition DL 2018 ",
+"coll": false
+},
+{
+"isbn": "9782811641580",
+"title": "GTO great teacher Onizuka || Shônen || GTO",
+"nums": [
+"18",
+"18"
+],
+"pub": "Pika édition DL 2019 ",
+"coll": false
+},
+{
+"isbn": "9782811632427",
+"title": "GTO paradise lost || Shônen || GTO",
+"nums": [
+"Vol. 4",
+"4"
+],
+"pub": "Pika édition DL 2016",
+"coll": false
+},
+{
+"isbn": "9782811663964",
+"title": "GTO paradise lost || Shônen || GTO",
+"nums": [
+"Vol. 14",
+"14"
+],
+"pub": "Pika édition DL 2021 ",
+"coll": false
+},
+{
+"isbn": "9782811660338",
+"title": "GTO paradise lost || Shônen || GTO",
+"nums": [
+"Vol. 13",
+"13"
+],
+"pub": "Pika édition DL 2021 ",
+"coll": false
+},
+{
+"isbn": "9782811637606",
+"title": "GTO great teacher Onizuka || Shônen || GTO",
+"nums": [
+"2",
+"2"
+],
+"pub": "Pika édition DL 2017",
+"coll": false
+},
+{
+"isbn": "9782811641528",
+"title": "GTO great teacher Onizuka || Shônen || GTO",
+"nums": [
+"12",
+"12"
+],
+"pub": "Pika édition DL 2018 ",
+"coll": false
+},
+{
+"isbn": "9782811641481",
+"title": "Young GTO great teacher Onizuka || Shônen || Young GTO",
+"nums": [
+"Vol.13",
+"13"
+],
+"pub": "Pika édition DL 2018 ",
+"coll": false
+},
+{
+"isbn": "9782811632373",
+"title": "GTO great teacher Onizuka bad company || Shônen",
+"nums": [],
+"pub": "Pika édition 2017",
+"coll": false
+},
+{
+"isbn": "9782811637996",
+"title": "GTO great teacher Onizuka || Shônen || GTO",
+"nums": [
+"4",
+"4"
+],
+"pub": "Pika édition DL 2017",
+"coll": false
+},
+{
+"isbn": "9782811640064",
+"title": "Young GTO great teacher Onizuka || Shônen || Young GTO",
+"nums": [
+"Vol. 5",
+"5"
+],
+"pub": "Pika édition DL 2018 ",
+"coll": false
+},
+{
+"isbn": "9782811641542",
+"title": "GTO great teacher Onizuka || Shônen || GTO",
+"nums": [
+"14",
+"14"
+],
+"pub": "Pika édition DL 2018 ",
+"coll": false
+},
+{
+"isbn": "9782811641559",
+"title": "GTO great teacher Onizuka || Shônen || GTO",
+"nums": [
+"15",
+"15"
+],
+"pub": "Pika édition DL 2018 ",
+"coll": false
+},
+{
+"isbn": "9782811641450",
+"title": "Young GTO great teacher Onizuka || Shônen || Young GTO",
+"nums": [
+"Vol.10",
+"10"
+],
+"pub": "Pika édition DL 2018 ",
+"coll": false
+},
+{
+"isbn": "9782811641474",
+"title": "Young GTO great teacher Onizuka || Shônen || Young GTO",
+"nums": [
+"Vol.12",
+"12"
+],
+"pub": "Pika édition DL 2018 ",
+"coll": false
+},
+{
+"isbn": "9782811633646",
+"title": "GTO paradise lost || Shônen || GTO",
+"nums": [
+"Vol. 5",
+"5"
+],
+"pub": "Pika édition DL 2016",
+"coll": false
+},
+{
+"isbn": "9782811640620",
+"title": "GTO paradise lost || Shônen || GTO",
+"nums": [
+"Vol. 9",
+"9"
+],
+"pub": "Pika édition DL 2018 Impr. Jouve",
+"coll": false
+},
+{
+"isbn": "9782811640729",
+"title": "Young GTO great teacher Onizuka || Shônen || Young GTO",
+"nums": [
+"Vol. 7",
+"7"
+],
+"pub": "Pika édition DL 2018 ",
+"coll": false
+},
+{
+"isbn": "9782811637989",
+"title": "GTO great teacher Onizuka || Shônen || GTO",
+"nums": [
+"3",
+"3"
+],
+"pub": "Pika édition 2017",
+"coll": false
+},
+{
+"isbn": "9782811620042",
+"title": "Kamen teacher black || Shônen || Kamen teacher black",
+"nums": [
+"3",
+"3"
+],
+"pub": "Pika édition DL 2016",
+"coll": false
+},
+{
+"isbn": "9782811638757",
+"title": "GTO great teacher Onizuka || Shônen || GTO",
+"nums": [
+"9",
+"9"
+],
+"pub": "Pika édition DL 2018 ",
+"coll": false
+},
+{
+"isbn": "9782811630096",
+"title": "Ino-head gargoyle || Seinen || Ino-head gargoyle",
+"nums": [
+"4",
+"4"
+],
+"pub": "Pika édition DL 2016",
+"coll": false
+},
+{
+"isbn": "9782811631734",
+"title": "Ino-head gargoyle || Seinen || Ino-head gargoyle",
+"nums": [
+"05",
+"5"
+],
+"pub": "Pika édition DL 2016",
+"coll": false
+},
+{
+"isbn": "9782811641597",
+"title": "GTO great teacher Onizuka || Shônen || GTO",
+"nums": [
+"19",
+"19"
+],
+"pub": "Pika édition DL 2019 ",
+"coll": false
+},
+{
+"isbn": "9782811640651",
+"title": "Young GTO great teacher Onizuka || Shônen || Young GTO",
+"nums": [
+"Vol. 6",
+"6"
+],
+"pub": "Pika édition DL 2018 ",
+"coll": false
+},
+{
+"isbn": "9782811641436",
+"title": "Young GTO great teacher Onizuka || Shônen || Young GTO",
+"nums": [
+"Vol. 8",
+"8"
+],
+"pub": "Pika édition DL 2018 ",
+"coll": false
+},
+{
+"isbn": "9782811637033",
+"title": "GTO paradise lost || Shônen || GTO",
+"nums": [
+"Vol. 7",
+"7"
+],
+"pub": "Pika édition DL 2017",
+"coll": false
+},
+{
+"isbn": "9782811620035",
+"title": "Kamen teacher black || Shônen || Kamen teacher black",
+"nums": [
+"2",
+"2"
+],
+"pub": "Pika édition DL 2015",
+"coll": false
+},
+{
+"isbn": "9782811641504",
+"title": "Young GTO great teacher Onizuka || Shônen || Young GTO",
+"nums": [
+"Vol.15",
+"15"
+],
+"pub": "Pika édition DL 2018 ",
+"coll": false
+},
+{
+"isbn": "9782811620059",
+"title": "Kamen teacher black || Shônen || Kamen teacher black",
+"nums": [
+"4",
+"4"
+],
+"pub": "Pika édition DL 2016",
+"coll": false
+},
+{
+"isbn": "9782811632359",
+"title": "Kamen teacher black || Shônen || Kamen teacher black",
+"nums": [
+"5",
+"5"
+],
+"pub": "Pika édition DL 2016",
+"coll": false
+},
+{
+"isbn": "9782811622725",
+"title": "GTO paradise lost || Shônen || GTO",
+"nums": [
+"Vol. 1",
+"1"
+],
+"pub": "Pika édition DL 2015",
+"coll": false
+},
+{
+"isbn": "9782811622855",
+"title": "GTO paradise lost || Shônen || GTO",
+"nums": [
+"Vol. 2",
+"2"
+],
+"pub": "Pika édition DL 2015",
+"coll": false
+},
+{
+"isbn": "9782845998315",
+"title": "Tokko l'éveil du diable || Senpai || Tokko",
+"nums": [
+"2",
+"2"
+],
+"pub": "Pika éd. DL 2008",
+"coll": false
+},
+{
+"isbn": "9782845997929",
+"title": "Tokko l'éveil du diable || Senpai || Tokko",
+"nums": [
+"1",
+"1"
+],
+"pub": "Pika éd. DL 2007",
+"coll": false
+},
+{
+"isbn": "9782811632403",
+"title": "Young GTO great teacher Onizuka || Young GTO || Shônen || Young GTO",
+"nums": [
+"Vol. 2",
+"2",
+"2"
+],
+"pub": "Pika édition DL 2017",
+"coll": false
+},
+{
+"isbn": "9782811632397",
+"title": "Young GTO great teacher Onizuka || Young GTO || Shônen || Young GTO",
+"nums": [
+"1",
+"1",
+"1"
+],
+"pub": "Pika édition DL 2017",
+"coll": false
+},
+{
+"isbn": "9782811632953",
+"title": "Young GTO great teacher Onizuka || Shônen || Young GTO",
+"nums": [
+"Vol. 3",
+"3"
+],
+"pub": "Pika édition DL 2017 Impr. Jouve",
+"coll": false
+},
+{
+"isbn": "9782811635602",
+"title": "Dark goddess || Dark Goddess || Shônen || Dark goddess",
+"nums": [
+"3",
+"3",
+"3"
+],
+"pub": "Pika édition DL 2018",
+"coll": false
+},
+{
+"isbn": "9782845999725",
+"title": "Tokkô portfolio collector || Pika senpai",
+"nums": [],
+"pub": "Pika 2008",
+"coll": true
+},
+{
+"isbn": "9782845996151",
+"title": "Young GTO ! shonan junaï gumi || Young GTO !",
+"nums": [
+"13",
+"13"
+],
+"pub": "Pika éd. DL 2006",
+"coll": false
+},
+{
+"isbn": "2845996063",
+"title": "Young GTO ! shonan junaï gumi || Young GTO !",
+"nums": [
+"12",
+"12"
+],
+"pub": "Pika éd. DL 2006",
+"coll": false
+},
+{
+"isbn": "2845995849",
+"title": "Young GTO ! shonan junaï gumi || Young GTO !",
+"nums": [
+"11",
+"11"
+],
+"pub": "Pika éd. DL 2006",
+"coll": false
+},
+{
+"isbn": "2845996667",
+"title": "Young GTO ! shonan junaï gumi || Young GTO !",
+"nums": [
+"16",
+"16"
+],
+"pub": "Pika éd. DL 2006",
+"coll": false
+},
+{
+"isbn": "9782811632380",
+"title": "Dark goddess || Dark Goddess || Shônen || Dark goddess",
+"nums": [
+"1",
+"1",
+"1"
+],
+"pub": "Pika édition DL 2017",
+"coll": false
+},
+{
+"isbn": "9782811633578",
+"title": "Tokkô zero || Seinen || Tokkô zero",
+"nums": [
+"2",
+"2"
+],
+"pub": "Pika édition DL 2017",
+"coll": false
+},
+{
+"isbn": "9782811633561",
+"title": "Tokkô zero || Seinen || Tokkô zero",
+"nums": [
+"1",
+"1"
+],
+"pub": "Pika édition DL 2017",
+"coll": false
+},
+{
+"isbn": "9782811632472",
+"title": "Dark goddess || Dark Goddess || Shônen || Dark goddess",
+"nums": [
+"2",
+"2",
+"2"
+],
+"pub": "Pika édition DL 2017 ",
+"coll": false
+},
+{
+"isbn": "9782811633592",
+"title": "Tokkô zero || Seinen || Tokkô zero",
+"nums": [
+"4",
+"4"
+],
+"pub": "Pika édition DL 2018 ",
+"coll": false
+},
+{
+"isbn": "9782811633585",
+"title": "Tokkô zero || Seinen || Tokkô zero",
+"nums": [
+"3",
+"3"
+],
+"pub": "Pika édition DL 2017 Impr. Jouve",
+"coll": false
+},
+{
+"isbn": "9782811611620",
+"title": "Soul messenger || Seinen || Soul Messenger",
+"nums": [
+"2",
+"2"
+],
+"pub": "Pika éd. impr. 2013",
+"coll": false
+},
+{
+"isbn": "9782811610395",
+"title": "Soul messenger || Seinen || Soul Messenger",
+"nums": [
+"1",
+"1"
+],
+"pub": "Pika éd. impr. 2013",
+"coll": false
+},
+{
+"isbn": "2845994575",
+"title": "Collection Shônen || Collection Shônen",
+"nums": [
+"2005, vol. 6",
+"2005-6"
+],
+"pub": "Pika 2005",
+"coll": false
+},
+{
+"isbn": "2845994184",
+"title": "Collection Shônen || Collection Shônen",
+"nums": [
+"2005, vol. 3",
+"2005-3"
+],
+"pub": "Pika 2005",
+"coll": false
+},
+{
+"isbn": "2845994095",
+"title": "Collection Shônen || Collection Shônen",
+"nums": [
+"2005, vol. 2",
+"2005-2"
+],
+"pub": "Pika 2005",
+"coll": false
+},
+{
+"isbn": "2845994451",
+"title": "Collection Shônen || Collection Shônen",
+"nums": [
+"2005, vol. 5",
+"2005-5"
+],
+"pub": "Pika 2005",
+"coll": false
+},
+{
+"isbn": "2845993986",
+"title": "Collection Shônen || Collection Shônen",
+"nums": [
+"2005, vol. 1",
+"2005-1"
+],
+"pub": "Pika 2005",
+"coll": false
+},
+{
+"isbn": "2845993455",
+"title": "Collection Shônen || Collection Shônen",
+"nums": [
+"2004, vol. 6",
+"2004-6"
+],
+"pub": "Pika 2004",
+"coll": false
+}
+],
+"beck": [
+{
+"isbn": "2847899553",
+"title": "Beck || Také || Beck",
+"nums": [
+"9",
+"9"
+],
+"pub": "Delcourt 2005",
+"coll": false
+},
+{
+"isbn": "9782756016887",
+"title": "Beck || Collection Také || Beck",
+"nums": [
+"32",
+"32"
+],
+"pub": "Delcourt-Akata impr. 2009",
+"coll": false
+},
+{
+"isbn": "9782756007229",
+"title": "Beck || Collection Také || Beck",
+"nums": [
+"21",
+"21"
+],
+"pub": "Delcourt-Akata impr. 2007",
+"coll": false
+},
+{
+"isbn": "9782756007267",
+"title": "Beck || Collection Také || Beck",
+"nums": [
+"25",
+"25"
+],
+"pub": "Delcourt-Akata impr. 2008",
+"coll": false
+},
+{
+"isbn": "9782756014937",
+"title": "Beck || Collection Také || Beck",
+"nums": [
+"27",
+"27"
+],
+"pub": "Delcourt-Akata impr. 2008",
+"coll": false
+},
+{
+"isbn": "9782756015835",
+"title": "Beck || Collection Také || Beck",
+"nums": [
+"28",
+"28"
+],
+"pub": "Delcourt-Akata impr. 2009",
+"coll": false
+},
+{
+"isbn": "9782756016870",
+"title": "Beck || Collection Také || Beck",
+"nums": [
+"31",
+"31"
+],
+"pub": "Delcourt-Akata impr. 2009",
+"coll": false
+},
+{
+"isbn": "9782756007274",
+"title": "Beck || Collection Také || Beck",
+"nums": [
+"26",
+"26"
+],
+"pub": "Delcourt-Akata impr. 2008",
+"coll": false
+},
+{
+"isbn": "9782756016856",
+"title": "Beck || Collection Také || Beck",
+"nums": [
+"29",
+"29"
+],
+"pub": "Delcourt-Akata impr. 2009",
+"coll": false
+},
+{
+"isbn": "9782756019277",
+"title": "Beck || Collection Také || Beck",
+"nums": [
+"33",
+"33"
+],
+"pub": "Delcourt-Akata impr. 2009",
+"coll": false
+},
+{
+"isbn": "9782756016863",
+"title": "Beck || Collection Také || Beck",
+"nums": [
+"30",
+"30"
+],
+"pub": "Delcourt-Akata impr. 2009",
+"coll": false
+},
+{
+"isbn": "9782756007243",
+"title": "Beck || Collection Také || Beck",
+"nums": [
+"23",
+"23"
+],
+"pub": "Delcourt-Akata impr. 2008",
+"coll": false
+},
+{
+"isbn": "9782756007250",
+"title": "Beck || Collection Také || Beck",
+"nums": [
+"24",
+"24"
+],
+"pub": "Delcourt-Akata impr. 2008",
+"coll": false
+},
+{
+"isbn": "9782756019284",
+"title": "Beck || Collection Také || Beck",
+"nums": [
+"34",
+"34"
+],
+"pub": "Delcourt-Akata impr. 2010",
+"coll": false
+},
+{
+"isbn": "2847894519",
+"title": "Beck || Beck",
+"nums": [
+"1",
+"1"
+],
+"pub": "Delcourt-Akata 2004",
+"coll": false
+},
+{
+"isbn": "2847894667",
+"title": "Beck || Beck",
+"nums": [
+"2",
+"2"
+],
+"pub": "Delcourt-Akata 2004",
+"coll": false
+},
+{
+"isbn": "2847895620",
+"title": "Beck || Beck",
+"nums": [
+"3",
+"3"
+],
+"pub": "Delcourt-Akata 2004",
+"coll": false
+},
+{
+"isbn": "9782413076322",
+"title": "Beck Mongolian chop squad || Beck",
+"nums": [
+"13",
+"13"
+],
+"pub": "Delcourt-Tonkam DL 2025 Impr. Aubin",
+"coll": false
+},
+{
+"isbn": "9782413076315",
+"title": "Beck Mongolian chop squad || Beck",
+"nums": [
+"12",
+"12"
+],
+"pub": "Delcourt-Tonkam DL 2024 Impr. Aubin",
+"coll": false
+},
+{
+"isbn": "9782413076292",
+"title": "Beck Mongolian chop squad || Beck",
+"nums": [
+"11",
+"11"
+],
+"pub": "Delcourt-Tonkam DL 2024 Impr. Aubin",
+"coll": false
+},
+{
+"isbn": "2847896899",
+"title": "Beck || Sakura || Beck",
+"nums": [
+"4",
+"4"
+],
+"pub": "Delcourt 2005",
+"coll": false
+},
+{
+"isbn": "9782413043294",
+"title": "Beck Mongolian chop squad || Beck",
+"nums": [
+"5",
+"5"
+],
+"pub": "Delcourt-Tonkam DL 2022 Impr. Aubin",
+"coll": false
+},
+{
+"isbn": "9782413043324",
+"title": "Beck Mongolian chop squad || Beck",
+"nums": [
+"8",
+"8"
+],
+"pub": "Delcourt-Tonkam DL 2022 Aubin impr.",
+"coll": false
+},
+{
+"isbn": "9782413043263",
+"title": "Beck Mongolian chop squad || Beck",
+"nums": [
+"2",
+"2"
+],
+"pub": "Delcourt-Tonkam DL 2021 ",
+"coll": false
+},
+{
+"isbn": "9782413043270",
+"title": "Beck Mongolian chop squad || Beck",
+"nums": [
+"3",
+"3"
+],
+"pub": "Delcourt-Tonkam DL 2021 ",
+"coll": false
+},
+{
+"isbn": "9782413043300",
+"title": "Beck Mongolian chop squad || Beck",
+"nums": [
+"6",
+"6"
+],
+"pub": "Delcourt-Tonkam DL 2022 Impr. Aubin",
+"coll": false
+},
+{
+"isbn": "9782413043287",
+"title": "Beck Mongolian chop squad || Beck",
+"nums": [
+"4",
+"4"
+],
+"pub": "Delcourt-Tonkam DL 2022 ",
+"coll": false
+},
+{
+"isbn": "9782413043331",
+"title": "Beck Mongolian chop squad || Beck",
+"nums": [
+"9",
+"9"
+],
+"pub": "Delcourt-Tonkam DL 2023 Aubin impr.",
+"coll": false
+},
+{
+"isbn": "9782413043256",
+"title": "Beck Mongolian chop squad || Beck",
+"nums": [
+"1",
+"1"
+],
+"pub": "Delcourt-Tonkam DL 2021 ",
+"coll": false
+},
+{
+"isbn": "9782413043317",
+"title": "Beck Mongolian chop squad || Beck",
+"nums": [
+"7",
+"7"
+],
+"pub": "Delcourt-Tonkam DL 2022 Impr. Aubin",
+"coll": false
+},
+{
+"isbn": "2756001775",
+"title": "Beck || Collection Také || Beck",
+"nums": [
+"12",
+"12"
+],
+"pub": "Delcourt-Akata impr. 2006",
+"coll": false
+},
+{
+"isbn": "2756000744",
+"title": "Beck || Collection Také || Beck",
+"nums": [
+"10",
+"10"
+],
+"pub": "Delcourt-Akata impr. 2006",
+"coll": false
+},
+{
+"isbn": "2756001511",
+"title": "Beck || Collection Také || Beck",
+"nums": [
+"11",
+"11"
+],
+"pub": "Delcourt-Akata impr. 2006",
+"coll": false
+},
+{
+"isbn": "2847896236",
+"title": "Beck || Collection Ginkgo || Beck",
+"nums": [
+"4",
+"4"
+],
+"pub": "Delcourt-Akata 2005",
+"coll": false
+},
+{
+"isbn": "284789912X",
+"title": "Beck || Collection Také || Beck",
+"nums": [
+"8",
+"8"
+],
+"pub": "Delcourt-Akata impr. 2005",
+"coll": false
+},
+{
+"isbn": "2847897828",
+"title": "Beck || Collection Také || Beck",
+"nums": [
+"6",
+"6"
+],
+"pub": "Delcourt-Akata impr. 2005",
+"coll": false
+},
+{
+"isbn": "2847898093",
+"title": "Beck || Collection Také || Beck",
+"nums": [
+"7",
+"7"
+],
+"pub": "Delcourt-Akata impr. 2005",
+"coll": false
+},
+{
+"isbn": "2847896244",
+"title": "Beck || Collection Také || Beck",
+"nums": [
+"5",
+"5"
+],
+"pub": "Delcourt-Akata 2005",
+"coll": false
+},
+{
+"isbn": "2756001805",
+"title": "Beck || Akata || Beck",
+"nums": [
+"15",
+"15"
+],
+"pub": "Delcourt 2007",
+"coll": false
+},
+{
+"isbn": "9782756001807",
+"title": "Beck || Collection Také || Beck",
+"nums": [
+"15",
+"15"
+],
+"pub": "Delcourt-Akata impr. 2006",
+"coll": false
+},
+{
+"isbn": "9782756007236",
+"title": "Beck || Collection Také || Beck",
+"nums": [
+"22",
+"22"
+],
+"pub": "Delcourt-Akata impr. 2008",
+"coll": false
+},
+{
+"isbn": "2756001783",
+"title": "Beck || Collection Také || Beck",
+"nums": [
+"13",
+"13"
+],
+"pub": "Delcourt-Akata impr. 2006",
+"coll": false
+},
+{
+"isbn": "9782756007212",
+"title": "Beck || Collection Také || Beck",
+"nums": [
+"20",
+"20"
+],
+"pub": "Delcourt-Akata impr. 2007",
+"coll": false
+},
+{
+"isbn": "9782756007199",
+"title": "Beck || Collection Také || Beck",
+"nums": [
+"18",
+"18"
+],
+"pub": "Delcourt-Akata impr. 2007",
+"coll": false
+},
+{
+"isbn": "9782756007205",
+"title": "Beck || Collection Také || Beck",
+"nums": [
+"19",
+"19"
+],
+"pub": "Delcourt-Akata impr. 2007",
+"coll": false
+},
+{
+"isbn": "9782756007182",
+"title": "Beck || Collection Také || Beck",
+"nums": [
+"17",
+"17"
+],
+"pub": "Delcourt-Akata impr. 2007",
+"coll": false
+},
+{
+"isbn": "9782756001814",
+"title": "Beck || Collection Také || Beck",
+"nums": [
+"16",
+"16"
+],
+"pub": "Delcourt-Akata impr. 2007",
+"coll": false
+},
+{
+"isbn": "2756001791",
+"title": "Beck || Collection Také || Beck",
+"nums": [
+"14",
+"14"
+],
+"pub": "Delcourt Akata cop. 2006",
+"coll": false
+},
+{
+"isbn": "9782413043348",
+"title": "Beck || Shonen",
+"nums": [
+"10"
+],
+"pub": "Guy Delcourt Productions 2023",
+"coll": false
+},
+{
+"isbn": "2756002003",
+"title": "Beck, tome 1 à 3 || Také",
+"nums": [],
+"pub": "Delcourt 2006",
+"coll": true
+}
+],
+"eorzea": [
+{
+"isbn": "9791035506544",
+"title": "Final fantasy XIV Académie Éozéa || Pixel",
+"nums": [],
+"pub": "Mana books DL 2025 ",
+"coll": false
+}
+],
+"beast": [
+{
+"isbn": "9791041120659",
+"title": "Beast king and medicinal herb || Doki-doki",
+"nums": [
+"7"
+],
+"pub": "Bamboo édition 2026",
+"coll": false
+},
+{
+"isbn": "9791041121250",
+"title": "Beast King and Medicinal Herb || Bamb. Doki Doki",
+"nums": [
+"1"
+],
+"pub": "Bamboo édition 2026",
+"coll": false
+},
+{
+"isbn": "9791041119516",
+"title": "Beast king and medicinal herb || Doki-doki ",
+"nums": [
+"6"
+],
+"pub": "Bamboo édition 2026",
+"coll": false
+},
+{
+"isbn": "9791041115907",
+"title": "Beast king and medicinal herb || Doki-doki || Beast king and medicinal herb",
+"nums": [
+"5",
+"5"
+],
+"pub": "Bamboo édition DL 2026",
+"coll": false
+},
+{
+"isbn": "9791041114412",
+"title": "Beast king and medicinal herb || Doki-doki || Beast king and medicinal herb",
+"nums": [
+"4",
+"4"
+],
+"pub": "Bamboo édition DL 2025 ",
+"coll": false
+},
+{
+"isbn": "9791041111060",
+"title": "Beast king and medicinal herb || Doki-doki || Beast king and medicinal herb",
+"nums": [
+"1",
+"1"
+],
+"pub": "Bamboo édition DL 2025 ",
+"coll": false
+},
+{
+"isbn": "9791041111305",
+"title": "Beast king and medicinal herb || Doki-doki || Beast king and medicinal herb oeuvre originale, Tatsukazu Konda",
+"nums": [
+"2",
+"2"
+],
+"pub": "Bamboo édition DL 2025 ",
+"coll": false
+},
+{
+"isbn": "9791041112845",
+"title": "Beast king and medicinal herb || Doki-doki || Beast king and medicinal herb oeuvre originale, Tatsukazu Konda",
+"nums": [
+"3",
+"3"
+],
+"pub": "Bamboo édition DL 2025 ",
+"coll": false
+},
+{
+"isbn": "2709804905",
+"title": "Les plantes médicinales encyclopédie pratique",
+"nums": [],
+"pub": "Sélection du Reader's digest 1994",
+"coll": false
+},
+{
+"isbn": "0851989543",
+"title": "Medicinal, essential oil, culinary herb and pesticidal plants of the labiatae, 1973-1993 a bibliography compiled from the CAB ABSTRACTS database",
+"nums": [],
+"pub": "CAB International 1994",
+"coll": false
+},
+{
+"isbn": "089054395X",
+"title": "Conspectus of world ethnomycology fungi in ceremonies, crafts, diets, medicines, and myths",
+"nums": [],
+"pub": "American phytopathological society cop. 2011",
+"coll": false
+}
+],
+"kaam": [
+{
+"isbn": "9782203085053",
+"title": "Les renforts maléfiques || Kaamelott || Kaamelott",
+"nums": [
+"9",
+"9"
+],
+"pub": "Casterman DL 2020 Impr. Pollina",
+"coll": false
+},
+{
+"isbn": "9782203061927",
+"title": "Contre-attaque en Carmélide || Kaamelott || Kaamelott",
+"nums": [
+"7",
+"7"
+],
+"pub": "Casterman impr. 2013",
+"coll": false
+},
+{
+"isbn": "2203370157",
+"title": "L'armée du Nécromant || Kaamelott || Kaamelott",
+"nums": [
+"1",
+"1"
+],
+"pub": "Casterman DL 2006",
+"coll": false
+},
+{
+"isbn": "9782203015623",
+"title": "L'énigme du coffre || Kaamelott || Kaamelott",
+"nums": [
+"3",
+"3"
+],
+"pub": "Casterman DL 2008",
+"coll": false
+},
+{
+"isbn": "9782203063716",
+"title": "L'antre du basilic || Kaamelott || Kaamelott",
+"nums": [
+"8",
+"8"
+],
+"pub": "Casterman DL 2018 Impr. Pollina",
+"coll": false
+},
+{
+"isbn": "9782203024816",
+"title": "Perceval et le dragon d'airain || Kaamelott || Kaamelott",
+"nums": [],
+"pub": "Casterman M6 éd. impr. 2009",
+"coll": false
+},
+{
+"isbn": "9782203008175",
+"title": "Les sièges de transport || Kaamelott || Kaamelott",
+"nums": [
+"2",
+"2"
+],
+"pub": "Casterman DL 2007",
+"coll": false
+},
+{
+"isbn": "9782298177022",
+"title": "L'armée du Nécromant || Kaamelott || Kaamelott",
+"nums": [
+"1",
+"1"
+],
+"pub": "FL éditions DL 2022 Impr. Pollina",
+"coll": false
+},
+{
+"isbn": "9782203012882",
+"title": "L'énigme du coffre || Kaamelott || Kaamelott",
+"nums": [
+"3",
+"3"
+],
+"pub": "Casterman DL 2008",
+"coll": false
+},
+{
+"isbn": "9782203038271",
+"title": "Le duel des mages || Kaamelott || Kaamelott",
+"nums": [
+"6",
+"6"
+],
+"pub": "Casterman impr. 2011",
+"coll": false
+},
+{
+"isbn": "9782203008113",
+"title": "Les sièges de transport || Kaamelott || Kaamelott",
+"nums": [
+"2",
+"2"
+],
+"pub": "Casterman DL 2007",
+"coll": false
+},
+{
+"isbn": "9782203370166",
+"title": "L'armée du Nécromant || Kaamelott || Kaamelott",
+"nums": [
+"1",
+"1"
+],
+"pub": "Casterman DL 2006",
+"coll": false
+},
+{
+"isbn": "9782203024809",
+"title": "Perceval et le dragon d'airain || Kaamelott || Kaamelott",
+"nums": [
+"4",
+"4"
+],
+"pub": "Casterman impr. 2009",
+"coll": false
+},
+{
+"isbn": "9782203034877",
+"title": "Le serpent géant du lac de l'ombre || Kaamelott || Kaamelott",
+"nums": [
+"5",
+"5"
+],
+"pub": "Casterman impr. 2009",
+"coll": false
+}
+],
+"blacksad": [
+{
+"isbn": "2205059254",
+"title": "Blacksad Ame rouge || Blacksad",
+"nums": [
+"3",
+"3"
+],
+"pub": "Dargaud 2006",
+"coll": false
+},
+{
+"isbn": "9788467914252",
+"title": "Blacksad Amarillo || Blacksad",
+"nums": [
+"[5]",
+"5"
+],
+"pub": "Norma 2014",
+"coll": false
+},
+{
+"isbn": "220505564X",
+"title": "Blacksad Ame rouge || Blacksad",
+"nums": [
+"3",
+"3"
+],
+"pub": "Dargaud 2005",
+"coll": false
+},
+{
+"isbn": "9782205073980",
+"title": "Blacksad l'intégrale",
+"nums": [],
+"pub": "Dargaud DL 2014",
+"coll": false
+},
+{
+"isbn": "9782205071801",
+"title": "Amarillo || Blacksad. || Blacksad.",
+"nums": [
+"5",
+"5"
+],
+"pub": "Dargaud DL 2013",
+"coll": false
+},
+{
+"isbn": "9788484317326",
+"title": "Blacksad Arctic-Nation || Blacksad",
+"nums": [
+"[2]",
+"2"
+],
+"pub": "Norma 2014",
+"coll": false
+},
+{
+"isbn": "9788498144222",
+"title": "Blacksad Alma roja || Blacksad",
+"nums": [
+"[3]",
+"3"
+],
+"pub": "Norma 2014",
+"coll": false
+},
+{
+"isbn": "9788467980165",
+"title": "Blacksad Todo cae || Blacksad || Blacksad guión, Juan Díaz Canales",
+"nums": [
+"[6]",
+"6",
+"6"
+],
+"pub": "Norma editorial 2025",
+"coll": false
+},
+{
+"isbn": "9788467903010",
+"title": "Blacksad El infierno, el silencio || Blacksad || Blacksad",
+"nums": [
+"[4]",
+"4",
+"4"
+],
+"pub": "Norma 2014",
+"coll": false
+},
+{
+"isbn": "2205056654",
+"title": "Artic-nation || Blacksad || Blacksad",
+"nums": [
+"2",
+"2"
+],
+"pub": "Dargaud 2005",
+"coll": false
+},
+{
+"isbn": "2205051997",
+"title": "Arctic-Nation || Blacksad. || Blacksad.",
+"nums": [
+"2",
+"2"
+],
+"pub": "Dargaud 2003",
+"coll": false
+},
+{
+"isbn": "9782298041507",
+"title": "Quelque part entre les ombres || Blacksad || Blacksad",
+"nums": [],
+"pub": "Éd. France loisirs DL 2011",
+"coll": false
+},
+{
+"isbn": "9782205074284",
+"title": "Blacksad les dessous de l'enquête...",
+"nums": [],
+"pub": "Dargaud 2015",
+"coll": false
+},
+{
+"isbn": "9782205063134",
+"title": "L'enfer, le silence || Blacksad. || Blacksad.",
+"nums": [
+"4",
+"4"
+],
+"pub": "Dargaud DL 2010",
+"coll": false
+},
+{
+"isbn": "2205049658",
+"title": "Quelque part entre les ombres || Blacksad. || Blacksad.",
+"nums": [
+"1",
+"1"
+],
+"pub": "Dargaud 2000",
+"coll": false
+},
+{
+"isbn": "9788484312451",
+"title": "Blacksad Un lugar entre las sombras || Blacksad",
+"nums": [
+"[1]",
+"1"
+],
+"pub": "Norma 2014",
+"coll": false
+},
+{
+"isbn": "9782205213300",
+"title": "Âme rouge || Blacksad || Blacksad",
+"nums": [
+"3",
+"3"
+],
+"pub": "Dargaud DL 2025 Impr. PPO graphic",
+"coll": false
+},
+{
+"isbn": "9782205213294",
+"title": "Arctic-nation || Blacksad || Blacksad",
+"nums": [
+"2",
+"2"
+],
+"pub": "Dargaud DL 2025 Impr. PPO graphic",
+"coll": false
+},
+{
+"isbn": "9782205085334",
+"title": "Alors, tout tombe || Blacksad. || Blacksad.",
+"nums": [
+"Seconde partie",
+"7",
+"7"
+],
+"pub": "Dargaud DL 2023 Impr. PPO graphic",
+"coll": false
+},
+{
+"isbn": "9782205078046",
+"title": "Alors, tout tombe || Blacksad. || Blacksad.",
+"nums": [
+"Première partie",
+"6",
+"6"
+],
+"pub": "Dargaud DL 2021 Impr. PPO graphic",
+"coll": false
+},
+{
+"isbn": "9782205202212",
+"title": "Weekly || Blacksad stories || Blacksad stories scénario, Díaz Canales",
+"nums": [],
+"pub": "Dargaud DL 2025 Impr. PPO graphic",
+"coll": false
+},
+{
+"isbn": "2916328017",
+"title": "L'atelier de Juanjo Guarnido Blacksad Âme rouge || L'atelier de",
+"nums": [],
+"pub": "Orphelins du monde DL 2005",
+"coll": false
+},
+{
+"isbn": "9782205213324",
+"title": "Blacksad Amarillo",
+"nums": [
+"5"
+],
+"pub": "",
+"coll": false
+},
+{
+"isbn": "9782205213287",
+"title": "Quelque part entre les ombres || Blacksad || Blacksad",
+"nums": [
+"1",
+"1"
+],
+"pub": "Dargaud DL 2025 Impr. PPO graphic",
+"coll": false
+},
+{
+"isbn": "9782205088175",
+"title": "Les ombres de John Blacksad",
+"nums": [],
+"pub": "Dargaud DL 2020 ",
+"coll": false
+},
+{
+"isbn": "9782205066425",
+"title": "Blacksad l'histoire des aquarelles Díaz Canales, Guarnido || Blacksad",
+"nums": [
+"Tome 2",
+"2"
+],
+"pub": "Dargaud cop. 2010",
+"coll": false
+},
+{
+"isbn": "9782205213980",
+"title": "Blacksad alors, tout tombe",
+"nums": [],
+"pub": "",
+"coll": false
+},
+{
+"isbn": "220505810X",
+"title": "Blacksad l'histoire des aquarelles Díaz Canales, Guarnido || Blacksad",
+"nums": [],
+"pub": "C. Desbois Dargaud cop. 2005",
+"coll": false
+},
+{
+"isbn": "9782205213317",
+"title": "Blacksad l'enfer, le silence",
+"nums": [],
+"pub": "",
+"coll": false
+},
+{
+"isbn": "220505290X",
+"title": "Blacksad les dessous de l'enquête",
+"nums": [],
+"pub": "Imbroglio 2001",
+"coll": false
+},
+{
+"isbn": "9782205076196",
+"title": "Blacksad l'histoire des aquarelles Díaz Canales, Guarnido",
+"nums": [],
+"pub": "Dargaud DL 2016",
+"coll": false
+},
+{
+"isbn": "9782205215328",
+"title": "Weekly || Blacksad stories || Blacksad stories scénario, Juan Díaz Canales",
+"nums": [],
+"pub": "Dargaud DL 2025 Impr. PPO graphic",
+"coll": false
+},
+{
+"isbn": "9788467904857",
+"title": "Blacksad",
+"nums": [],
+"pub": "Norma 2014",
+"coll": false
+},
+{
+"isbn": "9782844786968",
+"title": "Le chat dans la bande dessinée de Félix à Blacksad, un siècle d'espièglerie féline dans le petit monde du IXe art || La bulle au carré",
+"nums": [],
+"pub": "Cheminements DL 2008",
+"coll": false
+}
+],
+"litteul": [
+{
+"isbn": "9782803627653",
+"title": "Litteul Kevin || Litteul Kevin || Litteul Kévin",
+"nums": [
+"9",
+"9",
+"9"
+],
+"pub": "Le Lombard 2010",
+"coll": false
+},
+{
+"isbn": "9782803629695",
+"title": "Litteul Kévin || Litteul Kévin",
+"nums": [
+"10",
+"10"
+],
+"pub": "le Lombard DL 2013",
+"coll": false
+},
+{
+"isbn": "9782352079842",
+"title": "Litteul Kévin || Litteul Kévin",
+"nums": [
+"Tome 1",
+"1"
+],
+"pub": "\"Fluide glacial\" DL 2018 ",
+"coll": false
+},
+{
+"isbn": "9782378781590",
+"title": "Litteul Kévin || Litteul Kévin",
+"nums": [
+"Tome 4",
+"4"
+],
+"pub": "\"Fluide glacial\" DL 2019 ",
+"coll": false
+},
+{
+"isbn": "9782803625727",
+"title": "Litteul Kévin || Litteul Kévin",
+"nums": [
+"8",
+"8"
+],
+"pub": "le Lombard DL 2009",
+"coll": false
+},
+{
+"isbn": "9782352072058",
+"title": "Litteul Kévin || Litteul Kévin",
+"nums": [
+"6",
+"6"
+],
+"pub": "Audie-\"Fluide glacial\" DL 2014",
+"coll": false
+},
+{
+"isbn": "9782352071167",
+"title": "Litteul Kévin || Litteul Kévin",
+"nums": [
+"3",
+"3"
+],
+"pub": "Audie-\"Fluide glacial\" DL 2013",
+"coll": false
+},
+{
+"isbn": "9782352071150",
+"title": "Litteul Kévin || Litteul Kévin",
+"nums": [
+"2",
+"2"
+],
+"pub": "Audie-\"Fluide glacial\" DL 2013",
+"coll": false
+},
+{
+"isbn": "9782352071143",
+"title": "Litteul Kévin || Litteul Kévin",
+"nums": [
+"1",
+"1"
+],
+"pub": "Audie-\"Fluide glacial\" DL 2013",
+"coll": false
+},
+{
+"isbn": "9782352071174",
+"title": "Litteul Kévin || Litteul Kévin",
+"nums": [
+"4",
+"4"
+],
+"pub": "Audie-\"Fluide glacial\" DL 2014",
+"coll": false
+},
+{
+"isbn": "9782352072065",
+"title": "Litteul Kévin || Litteul Kévin",
+"nums": [
+"7",
+"7"
+],
+"pub": "Audie-\"Fluide glacial\" DL 2014",
+"coll": false
+},
+{
+"isbn": "9782352072041",
+"title": "Litteul Kévin || Litteul Kévin",
+"nums": [
+"5",
+"5"
+],
+"pub": "Audie-\"Fluide glacial\" DL 2014",
+"coll": false
+},
+{
+"isbn": "9782803629701",
+"title": "Litteul Kévin || Litteul Kévin",
+"nums": [
+"10",
+"10"
+],
+"pub": "Audie-\"Fluide glacial\" DL 2014",
+"coll": false
+},
+{
+"isbn": "9782378780432",
+"title": "Litteul Kévin intégrale || Litteul Kévin",
+"nums": [
+"Vol. 2",
+"2"
+],
+"pub": "\"Fluide glacial\" DL 2018 ",
+"coll": false
+},
+{
+"isbn": "9782352079118",
+"title": "Litteul Kévin intégrale || Litteul Kévin",
+"nums": [
+"Vol. 1",
+"1"
+],
+"pub": "\"Fluide glacial\" DL 2017",
+"coll": false
+},
+{
+"isbn": "9782858150151",
+"title": "Litteul Kévin || Litteul Kévin",
+"nums": [
+"2",
+"2"
+],
+"pub": "Fluide glacial-Audie 2007",
+"coll": false
+},
+{
+"isbn": "9782858150175",
+"title": "Litteul Kévin || Litteul Kévin",
+"nums": [
+"3",
+"3"
+],
+"pub": "Fluide glacial-Audie 2007",
+"coll": false
+},
+{
+"isbn": "9782858150182",
+"title": "Litteul Kévin || Litteul Kévin",
+"nums": [
+"4",
+"4"
+],
+"pub": "Fluide glacial-Audie 2007",
+"coll": false
+},
+{
+"isbn": "9782858150236",
+"title": "Litteul Kévin || Litteul Kévin",
+"nums": [
+"5",
+"5"
+],
+"pub": "Fluide glacial-Audie 2007",
+"coll": false
+},
+{
+"isbn": "9782352073628",
+"title": "Litteul Kevin intégrale",
+"nums": [],
+"pub": "Audie-\"Fluide glacial\" DL 2014",
+"coll": false
+},
+{
+"isbn": "9782803627813",
+"title": "Litteul Kévin || Litteul Kévin",
+"nums": [
+"9",
+"9"
+],
+"pub": "le Lombard DL 2011",
+"coll": false
+},
+{
+"isbn": "2858154821",
+"title": "Litteul Kévin || Litteul Kévin",
+"nums": [
+"4",
+"4"
+],
+"pub": "Audie-\"Fluide glacial\" DL 2006",
+"coll": false
+},
+{
+"isbn": "285815483X",
+"title": "Litteul Kévin || Litteul Kévin",
+"nums": [
+"5",
+"5"
+],
+"pub": "Audie-\"Fluide glacial\" DL 2006",
+"coll": false
+},
+{
+"isbn": "2858151792",
+"title": "Litteul Kévin || Fluide glacial || Litteul Kévin.",
+"nums": [
+"[1]"
+],
+"pub": "Audie 1993",
+"coll": false
+},
+{
+"isbn": "9782378781101",
+"title": "Litteul Kévin || Litteul Kévin",
+"nums": [
+"Tome 7",
+"7"
+],
+"pub": "Audie-\"Fluide glacial\" DL 2020 ",
+"coll": false
+},
+{
+"isbn": "285815189X",
+"title": "Litteul Kévin || Fluide glacial || Litteul Kévin.",
+"nums": [
+"02",
+"2"
+],
+"pub": "Audie 1994",
+"coll": false
+},
+{
+"isbn": "9782352075691",
+"title": "Litteul Kévin 3",
+"nums": [],
+"pub": "Éditions Audie-\"Fluide glacial\" DL 2015",
+"coll": false
+},
+{
+"isbn": "2858152047",
+"title": "Litteul Kévin || Les albums 'Fluide glacial\" || Litteul Kévin.",
+"nums": [
+"03",
+"3"
+],
+"pub": "Ed. Audie 1995",
+"coll": false
+},
+{
+"isbn": "2858152160",
+"title": "Litteul Kévin || Les albums \"Fluide glacial\" || Litteul Kévin.",
+"nums": [
+"4",
+"4"
+],
+"pub": "Audie 1996",
+"coll": false
+},
+{
+"isbn": "2858152535",
+"title": "Litteul Kévin || Les albums \"Fluide glacial\" || Litteul Kévin.",
+"nums": [
+"5",
+"5"
+],
+"pub": "Éd. Audie 1998",
+"coll": false
+},
+{
+"isbn": "285815371X",
+"title": "Litteul Kévin || Les albums \"Fluide glacial\" || Litteul Kévin.",
+"nums": [
+"7",
+"7"
+],
+"pub": "Audie 2003",
+"coll": false
+},
+{
+"isbn": "2858152888",
+"title": "Litteul Kévin || Les albums \"Fluide glacial\" || Litteul Kévin.",
+"nums": [
+"6",
+"6"
+],
+"pub": "Éd. Audie 2000",
+"coll": false
+},
+{
+"isbn": "2277332763",
+"title": "Litteul Kévin || J'ai lu || Litteul Kévin.",
+"nums": [
+"1",
+"276",
+"1"
+],
+"pub": "J'ai lu 1995",
+"coll": false
+},
+{
+"isbn": "2277332895",
+"title": "Litteul Kévin || J'ai lu BD || Litteul Kévin.",
+"nums": [
+"2",
+"289",
+"2"
+],
+"pub": "Éd. J'ai lu 1996",
+"coll": false
+},
+{
+"isbn": "9791038204591",
+"title": "Litteul Kévin l'intégrale",
+"nums": [],
+"pub": "\"Fluide glacial\" DL 2022 ",
+"coll": false
+},
+{
+"isbn": "9782803630233",
+"title": "Coyote &amp; Litteul Kévin",
+"nums": [],
+"pub": "le Lombard DL 2011",
+"coll": false
+},
+{
+"isbn": "9791038208032",
+"title": "Litteul Kévin || Les albums cultes",
+"nums": [],
+"pub": "\"Fluide glacial\" DL 2025 Impr. PPO graphic",
+"coll": false
+}
+],
+"trois": [
+{
+"isbn": "9782330070748",
+"title": "Le problème à trois corps roman || Exofictions || Le problème à trois corps",
+"nums": [
+"1",
+"1"
+],
+"pub": "Actes Sud DL 2016",
+"coll": false
+},
+{
+"isbn": "9782330082314",
+"title": "La forêt sombre roman || Le problème à trois corps || Exofictions || Le problème à trois corps",
+"nums": [],
+"pub": "Actes Sud DL 2017 Normandie roto impr.",
+"coll": false
+},
+{
+"isbn": "9782330113841",
+"title": "La mort immortelle roman || Le problème à trois corps || Exofictions || Le problème à trois corps",
+"nums": [],
+"pub": "Actes Sud DL 2018 Normandie roto impr.",
+"coll": false
+},
+{
+"isbn": "9782330113551",
+"title": "Le problème à trois corps roman || Babel || Le problème à trois corps",
+"nums": [
+"1",
+"1579",
+"1"
+],
+"pub": "Actes Sud DL 2018 Normandie roto impr.",
+"coll": false
+}
+],
+"valette": [
+{
+"isbn": "9782955071908",
+"title": "Il était une fois un 26e président",
+"nums": [],
+"pub": "Association littéraire Idem éditions [2019] ",
+"coll": false
+},
+{
+"isbn": "9782413024712",
+"title": "L'héritage fossile",
+"nums": [],
+"pub": "Éditions Delcourt DL 2024 ",
+"coll": false
+},
+{
+"isbn": "9782756064956",
+"title": "Mi-homme Michel || Georges Clooney || Tapas :-* || Georges Clooney",
+"nums": [
+"2",
+"2"
+],
+"pub": "Delcourt DL 2014",
+"coll": false
+},
+{
+"isbn": "9782756041513",
+"title": "Georges Clooney une histoire vrai [sic] || Tapas :-* || Georges Clooney",
+"nums": [],
+"pub": "Delcourt impr. 2013",
+"coll": false
+},
+{
+"isbn": "9782756079332",
+"title": "Jean Doux et le mystère de la disquette molle || Tapas",
+"nums": [],
+"pub": "Éditions Delcourt DL 2017",
+"coll": false
+},
+{
+"isbn": "9791092769319",
+"title": "Les trois provinces L'émergence du Tzarit",
+"nums": [
+"Chapitre 1"
+],
+"pub": "Phb productions [DL 2019] Yseure Phb productions",
+"coll": false
+},
+{
+"isbn": "2914632290",
+"title": "Sur la terre suivi de Petit Math !",
+"nums": [],
+"pub": "Éd. Des figures &amp; des lieux DL 2010",
+"coll": false
+},
+{
+"isbn": "2912589169",
+"title": "La personne mise en cause en matière pénale || Collection des thèses de l'École doctorale de Clermont-Ferrand",
+"nums": [
+"15"
+],
+"pub": "Presses universitaires de la Faculté de droit de Clermont-Ferrand LGDJ 2002",
+"coll": false
+},
+{
+"isbn": "9782955122006",
+"title": "Le temps de faire environ trente fois le tour du soleil",
+"nums": [],
+"pub": "JPV éditions 2015",
+"coll": false
+},
+{
+"isbn": "2915753458",
+"title": "Mon village récit || Les classiques de la campagne",
+"nums": [],
+"pub": "Éd. ACVAM DL 2007",
+"coll": false
+},
+{
+"isbn": "9782271119209",
+"title": "Géohistoire de l'environnement et des paysages",
+"nums": [],
+"pub": "CNRS éditions DL 2019 Impr. Jouve",
+"coll": false
+},
+{
+"isbn": "9782271135407",
+"title": "Les climats une géohistoire || La Documentation photographique (Paris. 1949)",
+"nums": [
+"8142"
+],
+"pub": "CNRS Éditions 2021",
+"coll": false
+},
+{
+"isbn": "9782810712717",
+"title": "Géohistoire des zones humides trajectoires d'artificialisation et de conservation || Paysage &amp; environnement",
+"nums": [],
+"pub": "Presses universitaires du Midi impr. 2024 Impr. Messages",
+"coll": false
+},
+{
+"isbn": "9782380463736",
+"title": "Seul l'affaire Romand",
+"nums": [],
+"pub": "Petit à petit DL 2025 ",
+"coll": false
+},
+{
+"isbn": "9791091031981",
+"title": "Pré-entendre les harmonies avant de les jouer développer son oreille musicale et sa créativité par l'harmonie exemples et exercices pratiques en jazz et musiques actuelles méthode accessible aux musiciens qui débutent l'harmonie ou qui veulent en faire une approche nouvelle",
+"nums": [],
+"pub": "Planète partitions C 2020 Impr. Capte note éditions",
+"coll": false
+},
+{
+"isbn": "2911873149",
+"title": "Vivre en pays toulonnais au XVIIe siècle || Temps mémoire",
+"nums": [],
+"pub": "Éd. Autres temps 1997",
+"coll": false
+},
+{
+"isbn": "9782841567959",
+"title": "Paysages de l'Aveyron portraits et enjeux",
+"nums": [],
+"pub": "Éd. du Rouergue impr. 2007",
+"coll": false
+},
+{
+"isbn": "9782380461619",
+"title": "La traque l'affaire Dupont de Ligonnès",
+"nums": [],
+"pub": "Petit à petit DL 2023 ",
+"coll": false
+},
+{
+"isbn": "2110867361",
+"title": "Intégration régionale et ajustement stucturel en Afrique sub-saharienne || Études et documents",
+"nums": [],
+"pub": "Ministère de la coopération et du développement diff. la Documentation française cop. 1991",
+"coll": false
+},
+{
+"isbn": "2130464882",
+"title": "L'Afrique des incertitudes || Collection Tiers-monde",
+"nums": [],
+"pub": "Presses universitaires de France 1995",
+"coll": false
+},
+{
+"isbn": "9782380461404",
+"title": "Terres d'accueil deux familles, deux parcours, un espoir",
+"nums": [],
+"pub": "Petit à petit DL 2022 ",
+"coll": false
+},
+{
+"isbn": "9782849262412",
+"title": "Fables pour baryton &amp; piano",
+"nums": [],
+"pub": "les Éditions buissonnières 2015",
+"coll": false
+},
+{
+"isbn": "9782849262009",
+"title": "Fables pour soprano (ou ténor) &amp; piano",
+"nums": [],
+"pub": "les Éditions buissonnières 2015",
+"coll": false
+},
+{
+"isbn": "9782849262436",
+"title": "Fables pour clarinette &amp; piano",
+"nums": [],
+"pub": "les Éditions buissonnières 2015",
+"coll": false
+},
+{
+"isbn": "9782849262429",
+"title": "Fables pour violon &amp; piano",
+"nums": [],
+"pub": "les Éditions buissonnières 2015",
+"coll": false
+},
+{
+"isbn": "9780719091407",
+"title": "Hincmar of Rheims life and work [international medieval congress, Leeds, 2012]",
+"nums": [],
+"pub": "Manchester University  Press 2015",
+"coll": false
+}
+],
+"fabcaro": [
+{
+"isbn": "9782413039099",
+"title": "Open bar || Pataquès",
+"nums": [],
+"pub": "Delcourt impr. 2020 ",
+"coll": false
+},
+{
+"isbn": "9782413025030",
+"title": "Open bar || Pataquès || Open bar",
+"nums": [
+"2e tournée",
+"2"
+],
+"pub": "Delcourt DL 2020 ",
+"coll": false
+},
+{
+"isbn": "9782352121640",
+"title": "Moon river",
+"nums": [],
+"pub": "6 Pieds sous terre éditions 2021",
+"coll": false
+},
+{
+"isbn": "9782847740240",
+"title": "Steak it easy",
+"nums": [],
+"pub": "la Cafetière DL 2016",
+"coll": false
+},
+{
+"isbn": "9782847740233",
+"title": "ParapléJack",
+"nums": [],
+"pub": "la Cafetière DL 2014",
+"coll": false
+},
+{
+"isbn": "9782352120216",
+"title": "La Bredoute || Lépidoptère",
+"nums": [
+"22"
+],
+"pub": "6 pieds sous terre éd. cop. 2007",
+"coll": false
+},
+{
+"isbn": "9782352121428",
+"title": "La clôture || Monotrème",
+"nums": [],
+"pub": "6 pieds sous terre éditions impr. 2018 ",
+"coll": false
+},
+{
+"isbn": "9782847740257",
+"title": "Pause || Corazón",
+"nums": [],
+"pub": "la Cafetière DL 2017",
+"coll": false
+},
+{
+"isbn": "9782957662920",
+"title": "Laxa'tifs || BDàP",
+"nums": [],
+"pub": "Pneumatiques Rouquemoute DL 2021 Impr. Offset 5",
+"coll": false
+},
+{
+"isbn": "9791090425880",
+"title": "Talk show || Alimentation générale",
+"nums": [
+"3"
+],
+"pub": "Vide cocagne DL 2017",
+"coll": false
+},
+{
+"isbn": "9782352120476",
+"title": "La clôture || Monotrème",
+"nums": [],
+"pub": "6 pieds sous terre impr. 2009",
+"coll": false
+},
+{
+"isbn": "9782352121596",
+"title": "Et si l'amour c'était aimer ? || Monotrème",
+"nums": [],
+"pub": "6 pieds sous terre éditions impr. 2020 ",
+"coll": false
+},
+{
+"isbn": "9782352121206",
+"title": "La Bredoute parce que tout le monde est différent de chacun hiver-printemps 2016 et même beaucoup plus || Monotrème mini",
+"nums": [],
+"pub": "6 pieds sous terre éditions impr. 2016",
+"coll": false
+},
+{
+"isbn": "9782352121213",
+"title": "- 20 % sur l'esprit de la forêt || Monotrème",
+"nums": [],
+"pub": "6 pieds sous terre éditions cop. 2016",
+"coll": false
+},
+{
+"isbn": "9782820700896",
+"title": "Jours de gloire",
+"nums": [],
+"pub": "Alter Comics 2013",
+"coll": false
+},
+{
+"isbn": "9782847740189",
+"title": "L'album de l'année",
+"nums": [],
+"pub": "la Cafetière impr. 2011",
+"coll": false
+},
+{
+"isbn": "9782847740127",
+"title": "Droit dans le mûr || Corazón",
+"nums": [],
+"pub": "la Cafetière impr. 2007",
+"coll": false
+},
+{
+"isbn": "9782955702765",
+"title": "La formidable épopée de Steve Lumour",
+"nums": [],
+"pub": "Expé éditions DL 2021 ",
+"coll": false
+},
+{
+"isbn": "9791090425637",
+"title": "Talk show || Alimentation générale",
+"nums": [],
+"pub": "Vide cocagne DL 2015",
+"coll": false
+},
+{
+"isbn": "9782847740226",
+"title": "On n'est pas là pour réussir",
+"nums": [],
+"pub": "la Cafetière impr. 2012",
+"coll": false
+},
+{
+"isbn": "2847740090",
+"title": "Talijanska || Corazón",
+"nums": [],
+"pub": "la Cafetière impr. 2006",
+"coll": false
+},
+{
+"isbn": "2847740066",
+"title": "Le steak haché de Damoclès || Corazón",
+"nums": [],
+"pub": "la Cafetière impr. 2005",
+"coll": false
+},
+{
+"isbn": "9782352121510",
+"title": "Formica une tragédie en trois actes || Monotrème",
+"nums": [],
+"pub": "6 pieds sous terre éditions impr. 2019 ",
+"coll": false
+},
+{
+"isbn": "9782847740165",
+"title": "Like a steak machine || Corazón",
+"nums": [],
+"pub": "la Cafetière impr. 2009",
+"coll": false
+},
+{
+"isbn": "9782352120773",
+"title": "- 20 % sur l'esprit de la forêt || Monotrème",
+"nums": [],
+"pub": "6 pieds sous terre impr. 2011",
+"coll": false
+},
+{
+"isbn": "9782352121350",
+"title": "Et si l'amour c'était aimer ? || Monotrème",
+"nums": [],
+"pub": "6 pieds sous terre éditions impr. 2017 ",
+"coll": false
+},
+{
+"isbn": "9782344028667",
+"title": "Jean-Louis || Glénaaarg !",
+"nums": [],
+"pub": "Glénat DL 2018 ",
+"coll": false
+},
+{
+"isbn": "9782918645412",
+"title": "L'infiniment moyen",
+"nums": [],
+"pub": "Éditions Même pas mal DL 2017",
+"coll": false
+},
+{
+"isbn": "9782413077855",
+"title": "Talk show || Pataquès",
+"nums": [],
+"pub": "Éditions Delcourt DL 2023",
+"coll": false
+},
+{
+"isbn": "9782352121039",
+"title": "Carnet du Pérou sur la route de Guzco || Monotrème mini",
+"nums": [],
+"pub": "6 pieds sous terre éd. impr. 2013",
+"coll": false
+},
+{
+"isbn": "9782413008033",
+"title": "Open bar || Pataquès || Open bar",
+"nums": [
+"1re tournée",
+"1"
+],
+"pub": "Delcourt DL 2019 ",
+"coll": false
+},
+{
+"isbn": "9782344025796",
+"title": "Moins qu'hier, plus que demain || Glénaaarg !",
+"nums": [],
+"pub": "Éditions Glénat C 2018 ",
+"coll": false
+},
+{
+"isbn": "9782918645054",
+"title": "L'infiniment moyen || Condylomes",
+"nums": [],
+"pub": "Éd. Même pas mal impr. 2011",
+"coll": false
+},
+{
+"isbn": "9782352121169",
+"title": "Zaï zaï zaï zaï un road-movie || Monotrème mini",
+"nums": [],
+"pub": "6 pieds sous terre impr. 2015",
+"coll": false
+},
+{
+"isbn": "9782803628827",
+"title": "L'art de la winne || Steve Lumour || Steve Lumour",
+"nums": [],
+"pub": "le Lombard DL 2011",
+"coll": false
+},
+{
+"isbn": "9782413022497",
+"title": "Hey June || Pataquès",
+"nums": [],
+"pub": "Éditions Delcourt DL 2020 ",
+"coll": false
+},
+{
+"isbn": "9782378780807",
+"title": "Mars ! un petit pas pour l'homme, une belle entorse pour l'humanité",
+"nums": [],
+"pub": "\"Fluide glacial\" DL 2018 ",
+"coll": false
+},
+{
+"isbn": "9782352073598",
+"title": "Mars !",
+"nums": [],
+"pub": "\"Fluide glacial\" DL 2014",
+"coll": false
+},
+{
+"isbn": "9791034738991",
+"title": "Un cow-boy dans la ville || Walter Appleduck || Walter Appleduck",
+"nums": [
+"2",
+"2"
+],
+"pub": "Dupuis DL 2020 Impr. PPO graphic",
+"coll": false
+},
+{
+"isbn": "9791034736850",
+"title": "Cow-boy stagiaire || Walter Appleduck || Walter Appleduck",
+"nums": [
+"1",
+"1"
+],
+"pub": "Dupuis DL 2019 ",
+"coll": false
+},
+{
+"isbn": "2849071633",
+"title": "Fernandel || BD voices",
+"nums": [],
+"pub": "Nocturne impr. 2006",
+"coll": false
+},
+{
+"isbn": "9782205070019",
+"title": "La loi du marché || Z comme don Diego || Z comme don Diego",
+"nums": [
+"2",
+"2"
+],
+"pub": "Dargaud DL 2012",
+"coll": false
+},
+{
+"isbn": "9782205069419",
+"title": "Coup de foudre à l'hacienda || Z comme don Diego || Z comme don Diego",
+"nums": [
+"1",
+"1"
+],
+"pub": "Dargaud DL 2012",
+"coll": false
+},
+{
+"isbn": "9782205076318",
+"title": "Z comme Don Diego",
+"nums": [],
+"pub": "Dargaud DL 2016",
+"coll": false
+},
+{
+"isbn": "9782808511971",
+"title": "À la poursuite du trésor de Décalécátan par le biais d'aventures riches tant en suspense qu'en rebondissements dans un cadre exotique couleurs de Sandrine Greff",
+"nums": [],
+"pub": "Dupuis DL 2025 ",
+"coll": false
+},
+{
+"isbn": "9791096708598",
+"title": "CONversations",
+"nums": [],
+"pub": "Éditions Rouquemoute DL 2021 Impr. Pollina",
+"coll": false
+},
+{
+"isbn": "9782205203103",
+"title": "Zéropédia tout sur tout (et réciproquement) || Zéropédia",
+"nums": [
+"Volume 2",
+"2"
+],
+"pub": "Dargaud DL 2022 ",
+"coll": false
+},
+{
+"isbn": "9791096708215",
+"title": "CONversations",
+"nums": [],
+"pub": "Éditions Rouquemoute DL 2018 Impr. Pollina",
+"coll": false
+},
+{
+"isbn": "9782205077759",
+"title": "Zéropédia tout sur tout (et réciproquement) || Zéropédia",
+"nums": [
+"Volume 1",
+"1"
+],
+"pub": "Dargaud DL 2018 ",
+"coll": false
+},
+{
+"isbn": "9782352075486",
+"title": "Amour, passion &amp; CX diesel intégrale",
+"nums": [],
+"pub": "\"Fluide glacial\" DL 2017",
+"coll": false
+},
+{
+"isbn": "9782858158324",
+"title": "Amour, passion &amp; CX diesel || Amour, passion &amp; CX diesel",
+"nums": [
+"Saison 3",
+"3"
+],
+"pub": "\"Fluide glacial\" DL 2014",
+"coll": false
+},
+{
+"isbn": "9782352071037",
+"title": "Amour, passion &amp; CX diesel",
+"nums": [],
+"pub": "Audie-\"Fluide glacial\" DL 2011",
+"coll": false
+},
+{
+"isbn": "9782352071983",
+"title": "Amour, passion &amp; CX diesel || Amour, passion &amp; CX diesel",
+"nums": [
+"Saison 2",
+"2"
+],
+"pub": "Audie-\"Fluide glacial\" DL 2012",
+"coll": false
+},
+{
+"isbn": "9782021483840",
+"title": "Guacamole vaudou",
+"nums": [],
+"pub": "Éditions du Seuil DL 2022 Impr. Pollina",
+"coll": false
+},
+{
+"isbn": "9782847740318",
+"title": "Fabcaro, premiers pas deux récits des débuts, \"Grenoble\" suivi de \"Débat\"",
+"nums": [],
+"pub": "la Cafetière la Cité internationale de la bande dessinée et de l'image DL 2022 ",
+"coll": false
+},
+{
+"isbn": "9782352076773",
+"title": "Gai-Luron sent que tout lui échappe || Les nouvelles aventures de Gai-Luron || Les nouvelles aventures de Gai-Luron",
+"nums": [
+"1",
+"1"
+],
+"pub": "\"Fluide glacial\" DL 2016",
+"coll": false
+},
+{
+"isbn": "9791096708208",
+"title": "Down with the kids",
+"nums": [],
+"pub": "Éditions Rouquemoute DL 2018 Impr. Pollina",
+"coll": false
+},
+{
+"isbn": "9782874425547",
+"title": "Comment se débarrasser des cons au boulot ?",
+"nums": [],
+"pub": "Jungle 2008",
+"coll": false
+},
+{
+"isbn": "2874422460",
+"title": "Les Parisiens || Les Parisiens",
+"nums": [],
+"pub": "Jungle [Casterman] DL 2006",
+"coll": false
+},
+{
+"isbn": "9782874424700",
+"title": "Les Parisiens || Les Parisiens",
+"nums": [
+"2",
+"2"
+],
+"pub": "Jungle [Casterman] DL 2007",
+"coll": false
+},
+{
+"isbn": "9782205074130",
+"title": "Achille Talon a su rester simple || Les impétueuses tribulations d'Achille Talon || Les impétueuses tribulations d'Achille Talon",
+"nums": [
+"2",
+"2"
+],
+"pub": "Dargaud DL 2015",
+"coll": false
+},
+{
+"isbn": "9782205075564",
+"title": "Achille Talon est proche du peuple || Les impétueuses tribulations d'Achille Talon || Les impétueuses tribulations d'Achille Talon",
+"nums": [
+"3",
+"3"
+],
+"pub": "Dargaud DL 2017",
+"coll": false
+},
+{
+"isbn": "9782205072761",
+"title": "Achille Talon est un homme moderne || Les impétueuses tribulations d'Achille Talon || Les impétueuses tribulations d'Achille Talon",
+"nums": [
+"1",
+"1"
+],
+"pub": "Dargaud DL 2014",
+"coll": false
+},
+{
+"isbn": "9782874424366",
+"title": "Apprenti reporter || Philippe Candeloro || Philippe Candeloro",
+"nums": [
+"1",
+"1"
+],
+"pub": "Jungle DL 2007",
+"coll": false
+},
+{
+"isbn": "2874420921",
+"title": "J'suis choooquée... || Les annonces en BD || Les annonces en BD",
+"nums": [
+"2",
+"2"
+],
+"pub": "Jungle DL 2005",
+"coll": false
+},
+{
+"isbn": "2874420174",
+"title": "Si tu es blonde... || Les annonces en BD || Les annonces en BD",
+"nums": [
+"1",
+"1"
+],
+"pub": "Jungle 2004",
+"coll": false
+},
+{
+"isbn": "9782017253716",
+"title": "Astérix en Lusitanie || Astérix || Astérix",
+"nums": [],
+"pub": "Hachette livre DL 2025 ",
+"coll": false
+},
+{
+"isbn": "9782017253006",
+"title": "L'iris blanc || Astérix || Astérix",
+"nums": [],
+"pub": "Hachette DL 2023 ",
+"coll": false
+},
+{
+"isbn": "9782017253013",
+"title": "L'iris blanc une aventure d'Astérix [l'artbook]",
+"nums": [],
+"pub": "Hachette DL 2023 ",
+"coll": false
+},
+{
+"isbn": "9782014001334",
+"title": "L'iris blanc || Une aventure d'Astérix || Une aventure d'Astérix.",
+"nums": [
+"40",
+"40"
+],
+"pub": "Hachette DL 2023 ",
+"coll": false
+},
+{
+"isbn": "9782017253709",
+"title": "Astérix en Lusitanie || Une aventure d'Astérix",
+"nums": [
+"41"
+],
+"pub": "les Éditions Albert René DL 2025",
+"coll": false
+}
+],
+"pulsions": [
+{
+"isbn": "9782226438331",
+"title": "Pulsions un spectacle graphique || #AM",
+"nums": [],
+"pub": "Albin Michel DL 2019 Impr. Pollina",
+"coll": false
+}
+],
+"marsault": [
+{
+"isbn": "2841091031",
+"title": "Au rire des femmes",
+"nums": [],
+"pub": "le Temps des cerises 1999",
+"coll": false
+},
+{
+"isbn": "2209058643",
+"title": "Écrits de femmes [en prose et en poésie, de l' Antiquité à nos jours]",
+"nums": [],
+"pub": "Messidor 1987",
+"coll": false
+},
+{
+"isbn": "2906225169",
+"title": "Comme des jongleurs insensibles les psychanalystes allemands et la montée du nazisme || Histoire psychanalytique",
+"nums": [],
+"pub": "Frénésie Éd. 1988",
+"coll": false
+},
+{
+"isbn": "9782358722636",
+"title": "Faire justice moralisme progressiste et pratiques punitives dans la lutte contre les violences sexistes",
+"nums": [],
+"pub": "la Fabrique éditions DL 2023 Corlet impr.",
+"coll": false
+},
+{
+"isbn": "9791091447621",
+"title": "Sans filtre l'intégrale des deux albums || Pulp",
+"nums": [],
+"pub": "Éditions Ring DL 2017",
+"coll": false
+},
+{
+"isbn": "9782384220380",
+"title": "Sans filtre",
+"nums": [],
+"pub": "Magnus DL 2024 ",
+"coll": false
+},
+{
+"isbn": "9782384220014",
+"title": "Ça va bien s'passer || Breum || Breum",
+"nums": [
+"#5",
+"5"
+],
+"pub": "Magnus DL 2022",
+"coll": false
+},
+{
+"isbn": "9782384220298",
+"title": "Attention, ça va piquer || Breum || Breum",
+"nums": [
+"#1",
+"1"
+],
+"pub": "Magnus DL 2023 ",
+"coll": false
+},
+{
+"isbn": "9782384220304",
+"title": "Blindage et liberté || Breum || Breum",
+"nums": [
+"#2",
+"2"
+],
+"pub": "Magnus DL 2023 ",
+"coll": false
+},
+{
+"isbn": "9791091447706",
+"title": "Dernière pute avant la fin du monde || Pulp",
+"nums": [],
+"pub": "Éditions Ring DL 2017 ",
+"coll": false
+},
+{
+"isbn": "9782384220328",
+"title": "Sur ta mère comme au ciel || Breum || Breum",
+"nums": [
+"#4",
+"4"
+],
+"pub": "Magnus DL 2023 ",
+"coll": false
+},
+{
+"isbn": "9791091447522",
+"title": "Attention, ça va piquer || Breum || Pulp || Breum",
+"nums": [
+"1",
+"1"
+],
+"pub": "Éditions Ring DL 2016",
+"coll": false
+},
+{
+"isbn": "9782379340055",
+"title": "Sur ta mère comme au ciel || Breum || Pulp || Breum",
+"nums": [
+"#4",
+"4"
+],
+"pub": "Éditions Ring DL 2020 ",
+"coll": false
+},
+{
+"isbn": "9791091447539",
+"title": "Blindage et liberté || Breum || Pulp || Breum",
+"nums": [
+"2",
+"2"
+],
+"pub": "Éditions Ring DL 2016",
+"coll": false
+},
+{
+"isbn": "9782384220311",
+"title": "C'est pas la taille qui compte || Breum || Breum",
+"nums": [
+"#3",
+"3"
+],
+"pub": "Magnus DL 2023 ",
+"coll": false
+},
+{
+"isbn": "9791091447836",
+"title": "C'est pas la taille qui compte || Breum || Pulp || Breum",
+"nums": [
+"3",
+"3"
+],
+"pub": "Éditions Ring DL 2018 ",
+"coll": false
+},
+{
+"isbn": "9791091447805",
+"title": "Asphalte || Pulp",
+"nums": [],
+"pub": "Éditions Ring DL 2018 ",
+"coll": false
+},
+{
+"isbn": "9782130575061",
+"title": "Socio-histoire de l'éducation physique et sportive || Quadrige",
+"nums": [],
+"pub": "PUF 2009",
+"coll": false
+},
+{
+"isbn": "2866013425",
+"title": "Compression et cryptage en informatique || Traité des nouvelles technologies",
+"nums": [],
+"pub": "Hermès 1992",
+"coll": false
+},
+{
+"isbn": "2866014820",
+"title": "Compression et cryptage des données multimédias || Traité des nouvelles technologies",
+"nums": [],
+"pub": "Hermès 1995",
+"coll": false
+},
+{
+"isbn": "9782332888884",
+"title": "Soleil de profil",
+"nums": [],
+"pub": "Édilivre DL 2015",
+"coll": false
+},
+{
+"isbn": "9782490722198",
+"title": "Que dit le Christ ?",
+"nums": [],
+"pub": "les Éditions Semer DL 2020 ",
+"coll": false
+},
+{
+"isbn": "9791091447614",
+"title": "Deux poids deux mesures || Pulp",
+"nums": [],
+"pub": "Éditions Ring DL 2017",
+"coll": false
+},
+{
+"isbn": "9798867787974",
+"title": "J'apprends les maths avec Vic et Louise et Moji apprendre à lire l'heure || Vic et Louise et Moji || Vic et Louise et Moji",
+"nums": [
+"[2]"
+],
+"pub": "Magali Marsault DL 2023",
+"coll": false
+},
+{
+"isbn": "9798866877416",
+"title": "J'apprends le français avec Vic et Louise et Moji passé, présent, futur || Vic et Louise et Moji || Vic et Louise et Moji",
+"nums": [
+"[1]"
+],
+"pub": "Magali Marsault 2023",
+"coll": false
+},
+{
+"isbn": "9782384220625",
+"title": "Dino brutal age",
+"nums": [],
+"pub": "Magnus DL 2024 ",
+"coll": false
+},
+{
+"isbn": "9791091447744",
+"title": "Enculés, va ! || FDP de la mode || Pulp || FDP de la mode",
+"nums": [
+"1",
+"1"
+],
+"pub": "Éditions Ring DL 2018 ",
+"coll": false
+},
+{
+"isbn": "9791091447911",
+"title": "L'ultime croisade || FDP de la mode || Pulp || FDP de la mode",
+"nums": [],
+"pub": "Éditions Ring DL 2019 ",
+"coll": false
+},
+{
+"isbn": "9782343236841",
+"title": "La psychose en résidence hébergement et psychothérapie || Psycho-logiques",
+"nums": [],
+"pub": "l'Harmattan impr. 2021 Impr. Corlet",
+"coll": false
+},
+{
+"isbn": "9791094442067",
+"title": "Foin || Numéro complémentaire",
+"nums": [
+"5"
+],
+"pub": "Super loto éditions impr. 2015",
+"coll": false
+},
+{
+"isbn": "9782384220052",
+"title": "Macadam",
+"nums": [],
+"pub": "Magnus DL 2022 Impr. CPI Bussière",
+"coll": false
+},
+{
+"isbn": "9782384220274",
+"title": "Expérience de mort imminente",
+"nums": [],
+"pub": "Magnus DL 2023 ",
+"coll": false
+},
+{
+"isbn": "2845612206",
+"title": "La Compagnie des tramways départementaux des Deux-Sèvres",
+"nums": [],
+"pub": "Geste éd. DL 2005",
+"coll": false
+},
+{
+"isbn": "9782358723152",
+"title": "La violence en spectacle féminisme, état punitif et figure de la victime",
+"nums": [],
+"pub": "La Fabrique Editions DL 2026 Impr. CPI Firmin-Didot",
+"coll": false
+},
+{
+"isbn": "9782955342701",
+"title": "Il pleut dans mon cul",
+"nums": [],
+"pub": "Trace DL 2015",
+"coll": false
+},
+{
+"isbn": "9791041527199",
+"title": "Entière ou La résilience de l'être",
+"nums": [],
+"pub": "Florence Marsault 2024",
+"coll": false
+},
+{
+"isbn": "2867671965",
+"title": "Estrans et provins poèmes || Guilde des lettres",
+"nums": [],
+"pub": "Institut académique de Paris 1999",
+"coll": false
+},
+{
+"isbn": "9782840663829",
+"title": "Résistance à l'effacement || Bibliothèque art action pensée",
+"nums": [],
+"pub": "les Presses du réel DL 2010",
+"coll": false
+},
+{
+"isbn": "9791091447720",
+"title": "L'inavouable histoire de France || Pulp",
+"nums": [],
+"pub": "Éditions Ring DL 2017 Impr. CPI Bussière",
+"coll": false
+},
+{
+"isbn": "9782758103578",
+"title": "Un cirque pour la vie || Lecture en tête",
+"nums": [
+"56"
+],
+"pub": "SEDRAP jeunesse impr. 2007",
+"coll": false
+},
+{
+"isbn": "9782343030319",
+"title": "Santé et EPS un prétexte, des réalités [actes du colloque, 29-30 mars 2012, Strasbourg] || Espaces et temps du sport",
+"nums": [],
+"pub": "l'Harmattan DL 2014",
+"coll": false
+},
+{
+"isbn": "2257104754",
+"title": "Imagerie du système nerveux l'encéphale || Imagerie médicale",
+"nums": [],
+"pub": "Flammarion 1986",
+"coll": false
+},
+{
+"isbn": "2257124758",
+"title": "Imagerie du système nerveux l'encéphale || Imagerie médicale",
+"nums": [],
+"pub": "Flammarion médecine-sciences 1991",
+"coll": false
+},
+{
+"isbn": "2912533104",
+"title": "Tony Garnier, 1869-1948, architecte et urbaniste",
+"nums": [],
+"pub": "Conseil d'architecture, d'urbanisme et de l'environnement du Rhône 2006",
+"coll": false
+},
+{
+"isbn": "2951618670",
+"title": "Le pasteur Pierre Peiret &amp; Jean Latourrette en Amérique",
+"nums": [],
+"pub": "Centre d'étude du protestantisme béarnais impr. 2010",
+"coll": false
+},
+{
+"isbn": "2249276676",
+"title": "La Gravure en taille-douce paroles de graveurs",
+"nums": [],
+"pub": "Dessain et Tolra 1985",
+"coll": false
+},
+{
+"isbn": "2110847387",
+"title": "Dossier pilote des tunnels Environnement || Dossier pilote des tunnels",
+"nums": [
+"Document n° 5",
+"5"
+],
+"pub": "Centre d'études des tunnels 1990",
+"coll": false
+},
+{
+"isbn": "9782737118449",
+"title": "Équipements et services quels enjeux urbains ? actes de la table ronde du 26 janvier 2012",
+"nums": [],
+"pub": "IAU Île-de-France 2012",
+"coll": false
+},
+{
+"isbn": "2279512262",
+"title": "Le Marché grec du chocolat et de la confiserie || Dossiers de la D.P.A. Série \" Produits-pays \"",
+"nums": [],
+"pub": "C.F.C.E. 1983.",
+"coll": false
+},
+{
+"isbn": "2110847395",
+"title": "Architecture des têtes de tunnels",
+"nums": [],
+"pub": "[Centre d'études des tunnels] impr. 1991",
+"coll": false
+}
+],
+"bataclan": [
+{
+"isbn": "9782373440812",
+"title": "Mon Bataclan",
+"nums": [],
+"pub": "Lemieux éditeur DL 2016",
+"coll": false
+},
+{
+"isbn": "9791026249542",
+"title": "CaroAnge mon bataclan à moi et tous les jours d'après en mémoire de toi",
+"nums": [],
+"pub": "Librinova 2020",
+"coll": false
+}
+],
+"alcide": [
+{
+"isbn": "9782377544240",
+"title": "Pluie Alcide || Strip Club",
+"nums": [],
+"pub": "Éditions Lapin 2026 ",
+"coll": false
+},
+{
+"isbn": "8887534640",
+"title": "Caro Alcide Degasperi Alcide Amedeo Francesco storia di un italiano",
+"nums": [],
+"pub": "Ed. Curcu &amp; Genovese impr. 2003",
+"coll": false
+},
+{
+"isbn": "2878550145",
+"title": "Pièces de clavecin tirées d'Alcide (1693)",
+"nums": [],
+"pub": "L'Oiseau-Lyre cop. 2005",
+"coll": false
+},
+{
+"isbn": "9788838255250",
+"title": "Alcide De Gasperi rivoluzione riforme libertà || Degasperiana",
+"nums": [
+"13"
+],
+"pub": "Edizioni Studium 2025",
+"coll": false
+},
+{
+"isbn": "9788849821796",
+"title": "Alcide De Gasperi Dal fascismo alla democrazia, 1943-1947 || Alcide De Gasperi || SuperSaggi || Alcide De Gasperi",
+"nums": [
+"volume II",
+"2",
+"2"
+],
+"pub": "Rubbettino impr. 2009",
+"coll": false
+},
+{
+"isbn": "9782490997176",
+"title": "Alcide Rousseau chasseur de primes",
+"nums": [],
+"pub": "les Éditions d'Arenberg DL 2022 Impr. Technicom",
+"coll": false
+},
+{
+"isbn": "9782845618657",
+"title": "Alcide, le maître du temps",
+"nums": [],
+"pub": "Geste éd. impr. 2011",
+"coll": false
+},
+{
+"isbn": "9783487156958",
+"title": "Alceste ou Le triomphe d'Alcide || Oeuvres complètes || Oeuvres complètes / Jean-Baptiste Lully",
+"nums": [
+"3",
+"3, 3"
+],
+"pub": "G. Olms 2019",
+"coll": false
+},
+{
+"isbn": "8879781162",
+"title": "Alcide De Gasperi la sua parola",
+"nums": [],
+"pub": "Reverdito impr. 2004",
+"coll": false
+},
+{
+"isbn": "2747535592",
+"title": "Alcide Dessalines d'Orbigny 1802-1857",
+"nums": [],
+"pub": "l'Harmattan 2002",
+"coll": false
+},
+{
+"isbn": "9791254695074",
+"title": "I fratelli Cervi la storia e la memoria || Collana dell'Istituto Alcide Cervi",
+"nums": [],
+"pub": "Viella 2024",
+"coll": false
+},
+{
+"isbn": "9788849821796",
+"title": "Alcide De Gasperi Dal Trentino all'esilio in patria, 1881-1943 || Alcide De Gasperi || SuperSaggi || Alcide De Gasperi",
+"nums": [
+"volume I",
+"1",
+"1"
+],
+"pub": "Rubbettino impr. 2009",
+"coll": false
+},
+{
+"isbn": "9791254697702",
+"title": "L'Italia dei Cervi, l'Italia del Cervi || Collana dell'Istituto Alcide Cervi",
+"nums": [
+"8"
+],
+"pub": "Viella 2024",
+"coll": false
+},
+{
+"isbn": "9788833138930",
+"title": "Il soffio dello Spirito cattolici nelle Resistenze europee || Collana dell'Istituto Alcide Cervi",
+"nums": [
+"3"
+],
+"pub": "Viella 2022",
+"coll": false
+},
+{
+"isbn": "9783487156941",
+"title": "Alceste ou Le triomphe d'Alcide tragédie || Oeuvres complètes || Oeuvres complètes / Jean-Baptiste Lully",
+"nums": [
+"3",
+"3, 3"
+],
+"pub": "G. Olms 2018",
+"coll": false
+},
+{
+"isbn": "9782377544103",
+"title": "Dessins sous Alcide || Strip club",
+"nums": [],
+"pub": "Éditions Lapin impr. 2024 ",
+"coll": false
+},
+{
+"isbn": "284327074X",
+"title": "Lettres d'Amérique d'Alcide d'Orbigny",
+"nums": [],
+"pub": "Rumeur des âges 2002",
+"coll": false
+},
+{
+"isbn": "9788849821796",
+"title": "Alcide De Gasperi Dalla costruzione della democrazia alla nostra patria Europa, 1948-1954 || Alcide De Gasperi || SuperSaggi || Alcide De Gasperi",
+"nums": [
+"volume III",
+"3",
+"3"
+],
+"pub": "Rubbettino impr. 2009",
+"coll": false
+},
+{
+"isbn": "9788838254697",
+"title": "Terra non guerra Alcide De Gasperi, il Mezzogiorno e la \"questione agraria\" || Degaspariana",
+"nums": [
+"4"
+],
+"pub": "Studium 2025",
+"coll": false
+},
+{
+"isbn": "9782807601314",
+"title": "Alcide De Gasperi European founding father || Euroclio",
+"nums": [
+"vol. 103"
+],
+"pub": "Peter Lang 2017",
+"coll": false
+},
+{
+"isbn": "8849807074",
+"title": "Alcide De Gasperi cristiano, democratico, europeo || SuperSaggi",
+"nums": [],
+"pub": "Rubbettino impr. 2003",
+"coll": false
+},
+{
+"isbn": "9782377545520",
+"title": "Trempette dans l'Alcide || Strip club",
+"nums": [],
+"pub": "Éditions Lapin impr. 2025 ",
+"coll": false
+},
+{
+"isbn": "9782957482825",
+"title": "Louis et Alcide Ducos du Hauron éléments biographiques",
+"nums": [],
+"pub": "Les Amis de Louis Ducos du Hauron DL 2025",
+"coll": false
+},
+{
+"isbn": "8815113533",
+"title": "Alcide De Gasperi nel Trentino asburgico || Scritti e discorsi politici || Scritti e discorsi politici / Alcide De Gasperi",
+"nums": [
+"vol. 1",
+"vol. 1"
+],
+"pub": "Il Mulino 2006",
+"coll": false
+},
+{
+"isbn": "9791254690192",
+"title": "Esodo e ritorno i contadini italiani dalla grande trasformazione a oggi || Collana dell'Istituto Alcide Cervi",
+"nums": [
+"5"
+],
+"pub": "Viella 2022",
+"coll": false
+},
+{
+"isbn": "9788833134550",
+"title": "Il paesaggio violentato le due guerre mondiali, le persone, la natura || Collana dell'Istituto Alcide Cervi",
+"nums": [
+"1"
+],
+"pub": "Viella 2020",
+"coll": false
+},
+{
+"isbn": "9782849265215",
+"title": "Orlando Non fu gia men forte Alcide",
+"nums": [
+"[Acte] I, [scène] 3"
+],
+"pub": "les Éditions buissonnières 2021 Impr. les Éditions buissonnières",
+"coll": false
+},
+{
+"isbn": "2715217862",
+"title": "Alcide || Le mercure galant",
+"nums": [],
+"pub": "Mercure de France 1993",
+"coll": false
+},
+{
+"isbn": "9782849338919",
+"title": "Alcide le bourreau || Les contes interdits || Les contes interdits",
+"nums": [],
+"pub": "Éditions Contre-dires DL 2024 Impr. Laballery",
+"coll": false
+},
+{
+"isbn": "9788815275080",
+"title": "Diario 1930-1943",
+"nums": [],
+"pub": "il Mulino C 2018",
+"coll": false
+},
+{
+"isbn": "2901376150",
+"title": "La Chanson de l'amibe (précédé de) Lettre à Alcide (et de) La Musique de l'amibe",
+"nums": [],
+"pub": "Éditions Plasma 1976",
+"coll": false
+},
+{
+"isbn": "8872832128",
+"title": "Gli anni del Pacchetto",
+"nums": [],
+"pub": "Raetia 2004",
+"coll": false
+},
+{
+"isbn": "9782322607273",
+"title": "The Alcide Mother Fuckers Rock'n'Roll Râles er Révoltes",
+"nums": [],
+"pub": "BoD - Books on Demand 2025",
+"coll": false
+},
+{
+"isbn": "2909383032",
+"title": "Images-discours entretiens [avec Alain-Alcide Sudre et Rose Lowder]",
+"nums": [],
+"pub": "AFEA éd. impr. 2006",
+"coll": false
+},
+{
+"isbn": "2092610295",
+"title": "Alcide d'Orbigny du Nouveau monde au passé du monde",
+"nums": [],
+"pub": "Museum d'histoire naturelle Nathan 2002",
+"coll": false
+},
+{
+"isbn": "2753500711",
+"title": "Alcide d'Orbigny entre Europe et Amérique textes et contextes d'une oeuvre actes du colloque qui s'est tenu à l'Université de La Rochelle les 18, 19, 20 avril 2002",
+"nums": [],
+"pub": "Presses Universitaires de Rennes impr. 2005",
+"coll": false
+},
+{
+"isbn": "9791095901082",
+"title": "Correspondance du poète Alcide Mara et du peintre Jean-Marie Queneau",
+"nums": [],
+"pub": "Au crayon qui tue éditeur impr. 2015",
+"coll": false
+},
+{
+"isbn": "2203110295",
+"title": "Allô Alcide || Je commence à lire",
+"nums": [],
+"pub": "Casterman 1988",
+"coll": false
+},
+{
+"isbn": "9788834354261",
+"title": "Mio padre, Alcide Maria Romana De Gasperi || Pagine prime",
+"nums": [],
+"pub": "Vita e Pensiero 2023",
+"coll": false
+},
+{
+"isbn": "9791254692950",
+"title": "Il paesaggio agrario italiano sessant'anni di trasformazioni da Emilio Sereni a oggi (1961-2021) || Collana dell'Istituto Alcide Cervi",
+"nums": [
+"6"
+],
+"pub": "Viella 2023",
+"coll": false
+},
+{
+"isbn": "2850040096",
+"title": "Voyage en Alcidie à la découverte d'Alcide d'Orbigny  (1802-1857)",
+"nums": [],
+"pub": "Boubée 1977",
+"coll": false
+},
+{
+"isbn": "9782860140898",
+"title": "Lisieux en transparence les photographies d'Alcide Goupil la reconstruction, 1945-1953",
+"nums": [],
+"pub": "Direction des Archives du Calvados 2006",
+"coll": false
+},
+{
+"isbn": "9788815120854",
+"title": "Scritti e discorsi politici edizione critica Alcide De Gasperi dal Partito popolare italiano all'esilio interno, 1919-1942 || Scritti e discorsi politici || Scritti e discorsi politici / Alcide De Gasperi",
+"nums": [
+"Volume II",
+"vol. 2",
+"vol. 2"
+],
+"pub": "Il Mulino IMPR. 2007",
+"coll": false
+},
+{
+"isbn": "9782491344078",
+"title": "Alcide Dusolier, 1836-1918, et la République || Collection Histoire &amp; mémoires",
+"nums": [],
+"pub": "Éditions Secrets de pays DL 2021 ",
+"coll": false
+}
+],
+"jose": [
+{
+"isbn": "2842706102",
+"title": "Le petit José 16 chroniques satiriques sur les coulisses de l'OM",
+"nums": [],
+"pub": "Mango sport impr. 2006",
+"coll": false
+},
+{
+"isbn": "9782759601844",
+"title": "José Maria Sert le Titan à l'oeuvre, 1874-1945 [exposition, Paris], 8 mars-5 août 2012, Petit Palais-Musée des beaux-arts de la Ville de Paris",
+"nums": [],
+"pub": "Paris-musées Petit Palais, Musée des beaux-arts de la Ville de Paris impr. 2012",
+"coll": false
+},
+{
+"isbn": "9782953942699",
+"title": "Marie-José Morgat-Petit, Terre vivante [exposition], du 17 janvier au 23 février 2014, Issoire, salles Jean-Hélion, Centre culturel Nicolas-Pomel",
+"nums": [],
+"pub": "[Ville d'Issoire] [ca 2014]",
+"coll": false
+},
+{
+"isbn": "9782487557093",
+"title": "Toca aiçí, Niculin ! adaptation monégasque de \"Embrassons-nous, Folleville\" de E. Labiche, illustrations de José Notari, suivie d'un petit lexique contenant des rapprochements avec les dialectes voisins || Collection Louis Notari",
+"nums": [
+"4"
+],
+"pub": "Éditions EGC Monaco 2026 Multiprint SAM",
+"coll": false
+},
+{
+"isbn": "9789802446858",
+"title": "1810 Dios, patria y libertad memoria de las X Jornadas de Historia y Religión",
+"nums": [],
+"pub": "Fundación Konrad Adenauer Universidad Católica Andrés Bello 2012",
+"coll": false
+}
+],
+"fables": [
+{
+"isbn": "9791026818625",
+"title": "Fables || Collection Vertigo essentiels || Fables",
+"nums": [
+"Volume 9",
+"9"
+],
+"pub": "Urban comics 2020",
+"coll": false
+},
+{
+"isbn": "9791026815983",
+"title": "Fables || Collection Vertigo essentiels || Fables",
+"nums": [
+"Livre 7",
+"7"
+],
+"pub": "Urban comics DL 2019 ",
+"coll": false
+},
+{
+"isbn": "9791026816041",
+"title": "Fables || Collection Vertigo essentiels || Fables",
+"nums": [
+"Livre 8",
+"8"
+],
+"pub": "Urban comics DL 2019 ",
+"coll": false
+},
+{
+"isbn": "9791026813910",
+"title": "Fables || Collection Vertigo essentiels || Fables",
+"nums": [
+"Livre 1",
+"1"
+],
+"pub": "Urban comics DL 2018 ",
+"coll": false
+},
+{
+"isbn": "9791026816133",
+"title": "Fables || Collection Vertigo essentiels || Fables",
+"nums": [
+"Livre 5",
+"5"
+],
+"pub": "Urban comics DL 2019 ",
+"coll": false
+},
+{
+"isbn": "9791026815778",
+"title": "Fables || Collection Vertigo essentiels || Fables",
+"nums": [
+"Livre 6",
+"6"
+],
+"pub": "Urban comics DL 2019 ",
+"coll": false
+},
+{
+"isbn": "9791026818267",
+"title": "Fables || Collection Vertigo essentiels || Fables",
+"nums": [
+"Livre 4",
+"4"
+],
+"pub": "Urban comics DL 2018 ",
+"coll": false
+},
+{
+"isbn": "9791026814252",
+"title": "Fables || Collection Vertigo essentiels || Fables",
+"nums": [
+"Livre 3",
+"3"
+],
+"pub": "Urban comics DL 2018 ",
+"coll": false
+},
+{
+"isbn": "9791026813927",
+"title": "Fables || Collection Vertigo essentiels || Fables",
+"nums": [
+"Livre 2",
+"2"
+],
+"pub": "Urban comics DL 2018 ",
+"coll": false
+},
+{
+"isbn": "9782365770255",
+"title": "Légendes en exil || Fables || Collection Vertigo classiques || Fables",
+"nums": [
+"1",
+"1"
+],
+"pub": "Urban comics impr. 2012",
+"coll": false
+},
+{
+"isbn": "9791026828822",
+"title": "Fables || Urban comics nomad || Fables / scénario, Bill Willingham",
+"nums": [
+"[Volume 7]",
+"7"
+],
+"pub": "Urban comics 2024 ",
+"coll": false
+},
+{
+"isbn": "9791026823599",
+"title": "Fables || Urban comics nomad || Fables / scénario, Bill Willingham",
+"nums": [
+"[Volume 9]",
+"9"
+],
+"pub": "Urban comics 2025 ",
+"coll": false
+},
+{
+"isbn": "9791026828075",
+"title": "Fables || Urban comics nomad || Fables / scénario, Bill Willingham",
+"nums": [
+"[Volume 2]",
+"2"
+],
+"pub": "Urban comics DL 2022 ",
+"coll": false
+},
+{
+"isbn": "9791026825661",
+"title": "Fables || Nomad",
+"nums": [
+"Volume 4"
+],
+"pub": "Urban comics DL 2023",
+"coll": false
+},
+{
+"isbn": "9791026821182",
+"title": "Fables || Urban comics nomad || Fables / scénario, Bill Willingham",
+"nums": [
+"[Volume 8]",
+"8"
+],
+"pub": "Urban comics DL 2025 ",
+"coll": false
+},
+{
+"isbn": "9791026820260",
+"title": "Fables || Urban comics nomad || Fables / scénario, Bill Willingham",
+"nums": [
+"[Volume 3]",
+"3"
+],
+"pub": "Urban comics DL 2023 ",
+"coll": false
+},
+{
+"isbn": "9791026829072",
+"title": "Fables || Urban comics nomad || Fables / scénario, Bill Willingham",
+"nums": [
+"[Volume 6]",
+"6"
+],
+"pub": "Urban comics DL 2024 ",
+"coll": false
+},
+{
+"isbn": "9791026826156",
+"title": "Fables || Urban comics nomad || Fables / scénario, Bill Willingham",
+"nums": [
+"[Volume 1]",
+"1"
+],
+"pub": "Urban comics DL 2022 ",
+"coll": false
+},
+{
+"isbn": "9782365770637",
+"title": "La grande alliance || Fables || Collection Vertigo classiques || Fables",
+"nums": [
+"16",
+"16"
+],
+"pub": "Urban comics impr. 2012",
+"coll": false
+},
+{
+"isbn": "9791026817376",
+"title": "Jack of Fables || Collection Vertigo essentiels || Jack of Fables",
+"nums": [
+"Livre II",
+"2"
+],
+"pub": "Urban comics 2020 ",
+"coll": false
+},
+{
+"isbn": "9791026817048",
+"title": "Jack of Fables || Collection Vertigo essentiels || Jack of Fables",
+"nums": [
+"Livre I",
+"1"
+],
+"pub": "Urban comics 2019 ",
+"coll": false
+},
+{
+"isbn": "9791026829706",
+"title": "Jack of Fables || Collection Vertigo essentiels || Jack of Fables",
+"nums": [
+"Livre III",
+"3"
+],
+"pub": "Urban comics DL 2021 ",
+"coll": false
+},
+{
+"isbn": "9791026815440",
+"title": "Fables the wolf among us || Urban games || Fables",
+"nums": [
+"Volume 2",
+"2"
+],
+"pub": "Urban comics DL 2018 ",
+"coll": false
+},
+{
+"isbn": "9791026825821",
+"title": "Fables || Urban comics nomad",
+"nums": [
+"Volume 5"
+],
+"pub": "Urban comics DL 2023",
+"coll": false
+},
+{
+"isbn": "9791026818878",
+"title": "Fables || Collection Vertigo essentiels || Fables",
+"nums": [
+"Livre 10",
+"10"
+],
+"pub": "Urban comics 2020 ",
+"coll": false
+},
+{
+"isbn": "9782365774079",
+"title": "Sorcières || Fables || Collection Vertigo classiques || Fables",
+"nums": [
+"15",
+"15"
+],
+"pub": "Urban comics impr. 2014",
+"coll": false
+},
+{
+"isbn": "9782365776424",
+"title": "Camelot || Fables || Collection Vertigo classiques || Fables",
+"nums": [
+"21",
+"21"
+],
+"pub": "Urban comics DL 2015",
+"coll": false
+},
+{
+"isbn": "9782365772112",
+"title": "Les royaumes || Fables || Collection Vertigo classiques || Fables",
+"nums": [
+"7",
+"7"
+],
+"pub": "Urban comics impr. 2013",
+"coll": false
+},
+{
+"isbn": "9782365771009",
+"title": "Cruelles saisons || Fables || Collection Vertigo classiques || Fables",
+"nums": [
+"6",
+"6"
+],
+"pub": "Urban comics impr. 2012",
+"coll": false
+},
+{
+"isbn": "9782365770644",
+"title": "Romance || Fables || Collection Vertigo classiques || Fables",
+"nums": [
+"3",
+"3"
+],
+"pub": "Urban comics impr. 2012",
+"coll": false
+},
+{
+"isbn": "9782365774468",
+"title": "Camelot || Fables || Collection Vertigo classiques || Fables",
+"nums": [
+"tome 23",
+"23"
+],
+"pub": "Urban comics DL 2014",
+"coll": false
+},
+{
+"isbn": "9782365778145",
+"title": "Adieu || Fables || Collection Vertigo classiques || Fables",
+"nums": [
+"tome 25",
+"25"
+],
+"pub": "Urban comics DL 2016",
+"coll": false
+},
+{
+"isbn": "9782365773805",
+"title": "La grande alliance || Fables || Collection Vertigo classiques || Fables",
+"nums": [
+"14",
+"14"
+],
+"pub": "Urban comics impr. 2014",
+"coll": false
+},
+{
+"isbn": "9782365778121",
+"title": "Adieu || Fables || Collection Vertigo classiques || Fables",
+"nums": [
+"tome 25",
+"25"
+],
+"pub": "Urban comics DL 2016",
+"coll": false
+},
+{
+"isbn": "9782365771016",
+"title": "Sorcières || Fables || Collection Vertigo classiques || Fables",
+"nums": [
+"tome 17",
+"17"
+],
+"pub": "Urban comics impr. 2012",
+"coll": false
+},
+{
+"isbn": "9782365772471",
+"title": "Les loups || Fables || Collection Vertigo classiques || Fables",
+"nums": [
+"9",
+"9"
+],
+"pub": "Urban comics impr. 2013",
+"coll": false
+},
+{
+"isbn": "9782365774444",
+"title": "Super team || Fables || Collection Vertigo classiques || Fables",
+"nums": [
+"17",
+"17"
+],
+"pub": "Urban comics impr. 2014",
+"coll": false
+},
+{
+"isbn": "9791026815228",
+"title": "Fables the wolf among us || Urban games || Fables",
+"nums": [
+"Volume 1",
+"1"
+],
+"pub": "Urban comics DL 2018 ",
+"coll": false
+},
+{
+"isbn": "9782365776417",
+"title": "Blanche Neige || Fables || Collection Vertigo classiques || Fables",
+"nums": [
+"20",
+"20"
+],
+"pub": "Urban comics DL 2015",
+"coll": false
+},
+{
+"isbn": "9782365772105",
+"title": "Rose rouge || Fables || Collection Vertigo classiques || Fables",
+"nums": [
+"18",
+"18"
+],
+"pub": "Urban comics impr. 2013",
+"coll": false
+},
+{
+"isbn": "9782365778183",
+"title": "\"Fables\" les couvertures || Urban books",
+"nums": [],
+"pub": "Urban comics DL 2016",
+"coll": false
+},
+{
+"isbn": "9782365774086",
+"title": "Rose Rouge || Fables || Collection Vertigo classiques || Fables",
+"nums": [
+"tome 16",
+"16"
+],
+"pub": "Urban comics impr. 2014",
+"coll": false
+},
+{
+"isbn": "9782365774093",
+"title": "Blanche Neige || Fables || Collection Vertigo classiques || Fables",
+"nums": [
+"tome 22",
+"22"
+],
+"pub": "Urban comics impr. 2014",
+"coll": false
+},
+{
+"isbn": "9782365772464",
+"title": "Super team || Fables || Collection Vertigo classiques || Fables",
+"nums": [
+"tome 19",
+"19"
+],
+"pub": "Urban comics impr. 2013",
+"coll": false
+},
+{
+"isbn": "9782365770262",
+"title": "La ferme des animaux || Fables || Collection Vertigo classiques || Fables",
+"nums": [
+"2",
+"2"
+],
+"pub": "Urban comics impr. 2012",
+"coll": false
+},
+{
+"isbn": "9782365772808",
+"title": "Le bon prince || Fables || Collection Vertigo classiques || Fables",
+"nums": [
+"11",
+"11"
+],
+"pub": "Urban comics impr. 2013",
+"coll": false
+},
+{
+"isbn": "9782365770651",
+"title": "Le dernier bastion || Fables || Collection Vertigo classiques || Fables",
+"nums": [
+"4",
+"4"
+],
+"pub": "Urban comics impr. 2012",
+"coll": false
+},
+{
+"isbn": "9791026828341",
+"title": "La forêt noire || Fables || Collection Vertigo essentiels || Fables scénario, Bill Willingham",
+"nums": [
+"11",
+"11"
+],
+"pub": "Urban comics 2024 ",
+"coll": false
+},
+{
+"isbn": "9782365774451",
+"title": "L'héritier du vent || Fables || Collection Vertigo classiques || Fables",
+"nums": [
+"118",
+"18"
+],
+"pub": "Urban comics DL 2014",
+"coll": false
+},
+{
+"isbn": "9782365772815",
+"title": "La guerre des nerfs || Fables || Collection Vertigo classiques || Fables",
+"nums": [
+"12",
+"12"
+],
+"pub": "Urban comics impr. 2013",
+"coll": false
+},
+{
+"isbn": "9782365775755",
+"title": "Au pays des jouets || Fables || Collection Vertigo classiques || Fables",
+"nums": [
+"19",
+"19"
+],
+"pub": "Urban comics DL 2015",
+"coll": false
+},
+{
+"isbn": "9782365773799",
+"title": "L'âge des ténèbres || Fables || Collection Vertigo classiques || Fables",
+"nums": [
+"13",
+"13"
+],
+"pub": "Urban comics impr. 2014",
+"coll": false
+},
+{
+"isbn": "9782365772129",
+"title": "Les mille et une nuits (et jours) || Fables || Collection Vertigo classiques || Fables",
+"nums": [
+"8",
+"8"
+],
+"pub": "Urban comics impr. 2013",
+"coll": false
+},
+{
+"isbn": "9782374082714",
+"title": "Les fabuleuses fables du bois de Burrow",
+"nums": [],
+"pub": "Little urban DL 2021 ",
+"coll": false
+},
+{
+"isbn": "9782365770248",
+"title": "L'âge des ténèbres || Fables || Collection Vertigo classiques || Fables",
+"nums": [
+"tome 15",
+"15"
+],
+"pub": "Urban comics impr. 2012",
+"coll": false
+},
+{
+"isbn": "9782365772457",
+"title": "Les fils de l'Empire || Fables || Collection Vertigo classiques || Fables",
+"nums": [
+"10",
+"10"
+],
+"pub": "Urban comics impr. 2013",
+"coll": false
+},
+{
+"isbn": "9782365772822",
+"title": "L'héritier du vent || Fables || Collection Vertigo classiques || Fables",
+"nums": [
+"tome 20",
+"20"
+],
+"pub": "Urban comics impr. 2013",
+"coll": false
+},
+{
+"isbn": "9782365773812",
+"title": "Au pays des jouets || Fables || Collection Vertigo classiques || Fables",
+"nums": [
+"tome 21",
+"21"
+],
+"pub": "Urban comics impr. 2014",
+"coll": false
+},
+{
+"isbn": "9782365777025",
+"title": "Et ils vécurent heureux || Fables || Collection Vertigo classiques || Fables",
+"nums": [
+"tome 24",
+"24"
+],
+"pub": "Urban comics DL 2015",
+"coll": false
+},
+{
+"isbn": "9782365777032",
+"title": "Et ils vécurent heureux || Fables || Collection Vertigo classiques || Fables",
+"nums": [
+"tome 22",
+"22"
+],
+"pub": "Urban comics DL 2015",
+"coll": false
+},
+{
+"isbn": "9782365770996",
+"title": "La marche des soldats de bois || Fables || Collection Vertigo classiques || Fables",
+"nums": [
+"5",
+"5"
+],
+"pub": "Urban comics impr. 2012",
+"coll": false
+},
+{
+"isbn": "9782365773126",
+"title": "1001 nuits de neige || Fables || Collection Vertigo classiques || Fables",
+"nums": [],
+"pub": "Urban comics impr. 2013",
+"coll": false
+},
+{
+"isbn": "9782365770613",
+"title": "Le grand livre de la guerre || Jack of Fables || Collection Vertigo classiques || Jack of Fables",
+"nums": [
+"tome 6",
+"6"
+],
+"pub": "Urban comics impr. 2012",
+"coll": false
+}
+],
+"wolf": [
+{
+"isbn": "9791026815440",
+"title": "Fables the wolf among us || Urban games || Fables",
+"nums": [
+"Volume 2",
+"2"
+],
+"pub": "Urban comics DL 2018 ",
+"coll": false
+},
+{
+"isbn": "9791026815228",
+"title": "Fables the wolf among us || Urban games || Fables",
+"nums": [
+"Volume 1",
+"1"
+],
+"pub": "Urban comics DL 2018 ",
+"coll": false
+},
+{
+"isbn": "9780814776469",
+"title": "The study of children in religions a methods handbook",
+"nums": [],
+"pub": "New York University Press c2011",
+"coll": false
+}
+],
+"sikc": [
+{
+"isbn": "9782381330143",
+"title": "The game of nothing || Something is killing the children || Urban link || Something is killing the children",
+"nums": [
+"3",
+"3"
+],
+"pub": "Urban comics DL 2021 Impr. de Champagne",
+"coll": false
+},
+{
+"isbn": "9791026829317",
+"title": "Me and my monster || Something is killing the children || Urban indies || Something is killing the children",
+"nums": [
+"tome 4",
+"4"
+],
+"pub": "Urban comics DL 2022 ",
+"coll": false
+},
+{
+"isbn": "9791026823872",
+"title": "The road to Tribulation || Something is killing the children || Urban indies || Something is killing the children",
+"nums": [
+"tome 5",
+"5"
+],
+"pub": "Urban comics DL 2023 ",
+"coll": false
+},
+{
+"isbn": "9791026816546",
+"title": "The house of slaughter || Something is killing the children || Urban indies || Something is killing the children",
+"nums": [
+"tome 2",
+"2"
+],
+"pub": "Urban comics DL 2022 ",
+"coll": false
+},
+{
+"isbn": "9791026828563",
+"title": "The game of nothing || Something is killing the children || Urban indies || Something is killing the children",
+"nums": [
+"tome 3",
+"3"
+],
+"pub": "Urban comics DL 2022 ",
+"coll": false
+},
+{
+"isbn": "9791026820161",
+"title": "Showdown at the easy creek corral || Something is killing the children || Urban indies || Something is killing the children",
+"nums": [
+"tome 7",
+"7"
+],
+"pub": "Urban comics DL 2024 Impr. SEPEC",
+"coll": false
+},
+{
+"isbn": "9791026829744",
+"title": "The angel of Archer's Peak || Something is killing the children || Urban indies || Something is killing the children",
+"nums": [
+"tome 1",
+"1"
+],
+"pub": "Urban comics DL 2022 ",
+"coll": false
+},
+{
+"isbn": "9782381330112",
+"title": "Archer's Peak || Something is killing the children || Urban link || Something is killing the children",
+"nums": [
+"1",
+"1"
+],
+"pub": "Urban comics DL 2020 Impr. Champagne",
+"coll": false
+},
+{
+"isbn": "9782381330136",
+"title": "The house of slaughter || Something is killing the children || Urban link || Something is killing the children",
+"nums": [
+"2",
+"2"
+],
+"pub": "Urban comics DL 2021",
+"coll": false
+},
+{
+"isbn": "9791026826552",
+"title": "Road stories || Something is killing the children || Urban indies || Something is killing the children",
+"nums": [
+"tome 8",
+"8"
+],
+"pub": "Urban comics DL 2025 ",
+"coll": false
+},
+{
+"isbn": "9791026814689",
+"title": "Something is killing the children The girl and the hurricane || Urban indies",
+"nums": [
+"Tome 6"
+],
+"pub": "Urban comics 2023",
+"coll": false
+},
+{
+"isbn": "9780385527163",
+"title": "Every man in this village is a liar an education in war",
+"nums": [],
+"pub": "Doubleday c2010",
+"coll": false
+},
+{
+"isbn": "1852247509",
+"title": "Straight ahead",
+"nums": [],
+"pub": "Bloodaxe books 2006",
+"coll": false
+},
+{
+"isbn": "9780374227012",
+"title": "Once in the West [poems]",
+"nums": [],
+"pub": "Farrar, Straus and Giroux 2014",
+"coll": false
+}
+],
+"nice": [
+{
+"isbn": "9791026828020",
+"title": "The nice house by the sea || The nice house by the sea",
+"nums": [
+"Première partie",
+"1"
+],
+"pub": "Urban 2025 Impr. Pollina",
+"coll": false
+},
+{
+"isbn": "9791026827887",
+"title": "The nice house on the lake || The nice house on the lake",
+"nums": [
+"Tome un",
+"1"
+],
+"pub": "Urban DL 2023 Impr. de Champagne",
+"coll": false
+},
+{
+"isbn": "9791026825029",
+"title": "The nice house on the lake || DC black label || The nice house on the lake",
+"nums": [
+"Tome deux",
+"2"
+],
+"pub": "Urban 2023 Impr. de Champagne",
+"coll": false
+},
+{
+"isbn": "9791026827085",
+"title": "The nice house on the lake intégrale || DC black label",
+"nums": [],
+"pub": "Urban comics DL 2023",
+"coll": false
+},
+{
+"isbn": "9782354130756",
+"title": "Cinq souris sans logis || Cinq souris || Un livre d'images Minedition || Cinq souris",
+"nums": [],
+"pub": "Minedition DL 2009",
+"coll": false
+},
+{
+"isbn": "9781591843634",
+"title": "All the devils are here the hidden history of the financial crisis",
+"nums": [],
+"pub": "Portfolio/Penguin 2010",
+"coll": false
+},
+{
+"isbn": "9781776560660",
+"title": "Selected poems",
+"nums": [],
+"pub": "Victoria university press 2016",
+"coll": false
+},
+{
+"isbn": "9780190248031",
+"title": "Mormon feminism essential writings",
+"nums": [],
+"pub": "Oxford university press cop. 2016",
+"coll": false
+},
+{
+"isbn": "9781315168364",
+"title": "Broadway and economics economic lessons from show tunes || Routledge economics and popular culture series",
+"nums": [],
+"pub": "Routledge C 2018",
+"coll": false
+}
+],
+"imposter": [
+{
+"isbn": "9791026829133",
+"title": "Batman imposter || Collection DC black label",
+"nums": [],
+"pub": "Urban comics 2024 ",
+"coll": false
+},
+{
+"isbn": "9791026820673",
+"title": "Batman imposter || Collection DC black label",
+"nums": [],
+"pub": "Urban comics DL 2022 ",
+"coll": false
+}
+],
+"lis": [
+{
+"isbn": "9791026827429",
+"title": "Life is strange || Urban blast || Life is strange",
+"nums": [
+"Intégrale 1",
+"1"
+],
+"pub": "Urban comics 2024 ",
+"coll": false
+},
+{
+"isbn": "9791026826927",
+"title": "Life is strange || Urban blast || Life is strange",
+"nums": [
+"Intégrale 2",
+"2"
+],
+"pub": "Urban comics 2024 ",
+"coll": false
+},
+{
+"isbn": "9791026820581",
+"title": "Les cordes sensibles || Life is strange || Urban games || Life is strange",
+"nums": [
+"3",
+"3"
+],
+"pub": "Urban comics DL 2021 ",
+"coll": false
+},
+{
+"isbn": "9791026818502",
+"title": "L'effet papillon || Life is stange || Urban games || Life is strange",
+"nums": [
+"1",
+"1"
+],
+"pub": "Urban comics DL 2019 ",
+"coll": false
+},
+{
+"isbn": "9791026822691",
+"title": "Le bruit des vagues || Life is stange || Urban games || Life is strange",
+"nums": [
+"2",
+"2"
+],
+"pub": "Urban comics 2020 ",
+"coll": false
+},
+{
+"isbn": "9791026818113",
+"title": "Bienvenue à Blackwell Academy Bienvenue à Arcadia Bay le guide étudiant de la ville et ses environs || Urban games",
+"nums": [],
+"pub": "Urban comics 2019 ",
+"coll": false
+}
+],
+"rick": [
+{
+"isbn": "9782378870270",
+"title": "Les aventures de M. Boîte à caca || Rick &amp; Morty || Rick &amp; Morty",
+"nums": [],
+"pub": "Hi comics DL 2019 ",
+"coll": false
+}
+],
+"picsou": [
+{
+"isbn": "9782344004777",
+"title": "La jeunesse de Piscou",
+"nums": [],
+"pub": "Glénat DL 2014",
+"coll": false
+},
+{
+"isbn": "9782017054641",
+"title": "La bande à Picsou Mes coloriages de heros - Picsou [Album à colorier] || [Recueil. Album à colorier. Hachette Jeunesse]",
+"nums": [],
+"pub": "Hachette-livre, collection Disney 2018 Impr. Leo Paper Products Ltd",
+"coll": false
+},
+{
+"isbn": "9782723491655",
+"title": "La jeunesse de Piscou intégrale Don Rosa || La grande épopée de Picsou || Collection Disney intégrale || La grande épopée de Picsou",
+"nums": [
+"1",
+"tome 1",
+"1"
+],
+"pub": "Glénat impr. 2013",
+"coll": false
+},
+{
+"isbn": "9782723494939",
+"title": "La jeunesse de Piscou intégrale Don Rosa || La grande épopée de Picsou || Collection Disney intégrale || La grande épopée de Picsou",
+"nums": [
+"2",
+"tome 2",
+"2"
+],
+"pub": "Glénat impr. 2013",
+"coll": false
+}
+]
+}

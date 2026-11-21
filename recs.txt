@@ -1,0 +1,841 @@
+== pokemon 82
+    9782380715606 [] Pokémon Épée et Bouclier - T6 || Pokémon | Kurokawa 2023 
+    9782380712926 ['tome 5'] Pokémon Épée et Bouclier || Pokémon | Kurokawa 2023 
+    9791042021955 [] Pokémon Ecarlate et Violet - Tome 4 || Pokémon | Kurokawa 03/09/2026 
+    9791042021993 ['4'] Pokémon X-Y la grande aventure | Kurokawa 2026 
+    9791042021955 ['4'] Pokémon écarlate et violet || Collection dirigée par Grégoire Hellot | Kurokawa 2026 
+    9791042021979 ['2'] Pokémon X-Y la grande aventure || Collection dirigée par Grégoire Hellot | Kurokawa 2026 
+    9791042021986 ['3', '3', '3'] Pokémon X-Y la grande aventure || Collection dirigée par Grégoire Hellot || Pokémon X-Y scénario, Hidenori Kus | Kurokawa DL 2026 
+    9782368528914 [] Pokémon aux origines du phénomène planétaire biographie du créateur de Pokémon, Satoshi Tajiri || Kuropop | Kurokawa DL 2019 Aubin impr. 
+    9782368520147 ['2', '2'] Pokémon la grande aventure || Collection dirigée par Grégoire Hellot || Pokémon | Kurokawa DL 2014 
+    9782380714890 ['1'] Pokémon la grande aventure, noir et blanc | Kurokawa DL 2023 
+    9782380715194 ['2'] Pokémon la grande aventure, noir et blanc | Kurokawa 2023 
+    9791042021023 ['1', '1'] Pokémon X-Y la grande aventure || Collection dirigée par Grégoire Hellot || Pokémon X-Y | Kurokawa DL 2025 
+    9782368520109 ['1', '1'] Pokémon XY || Collection dirigée par Grégoire Hellot || Pokémon XY | Kurokawa DL 2015 
+    9782368524077 [] Hoopa et le choc des légendes || Pokémon, le film || Collection dirigée par Grégoire Hellot || Pokémon, le fil | Kurokawa DL 2016 
+    9782368524985 [] Volcanion et la merveille mécanique || Pokémon, le film || Collection dirigée par Grégoire Hellot || Pokémon,  | Kurokawa DL 2017 
+    9782368526569 ['5', '5'] Pokémon la grande aventure Platine || Collection dirigée par Grégoire Hellot || Pokémon | Kurokawa DL 2019 Aubin impr. 
+    9782368527924 ['1', '1'] Pokémon horizon || Collection dirigée par Grégoire Hellot || Pokemon horizon | Kurokawa DL 2019 Aubin impr. 
+    9782368526545 ['3', '3'] Pokémon la grande aventure Diamant &amp; Perle || Collection dirigée par Grégoire Hellot || Pokémon | Kurokawa DL 2018 Aubin impr. 
+    9782368520154 ['3', '3'] Pokémon la grande aventure || Collection dirigée par Grégoire Hellot || Pokémon | Kurokawa DL 2014 
+    9782368520895 ['1', '1'] Pokémon la grande aventure Rubis et Saphir || Collection dirigée par Grégoire Hellot || Pokémon | Kurokawa DL 2014 
+    9782368526446 ['2', '2'] Pokémon la grande aventure Diamant et Perle || Collection dirigée par Grégoire Hellot || Pokémon | Kurokawa DL 2018 Aubin impr. 
+    9782368526552 ['4', '4'] Pokémon la grande aventure Diamant et Perle || Collection dirigée par Grégoire Hellot || Pokémon | Kurokawa DL 2018 Aubin impr. 
+    9782368521540 ['3', '3'] Pokémon la grande aventure Rubis et Saphir || Collection dirigée par Grégoire Hellot || Pokémon | Kurokawa DL 2015 
+    9782368525876 ['1', '1'] Pokémon la grande aventure Diamant et Perle || Collection dirigée par Grégoire Hellot || Pokémon | Kurokawa DL 2018 Aubin impr. 
+    9791042019143 ['2', '2'] Pokémon écarlate et violet || Collection dirigée par Grégoire Hellot || Pokémon écarlate et violet | Kurokawa DL 2025 Aubin impr. 
+    9782380715507 ['3', '3'] Pokémon la grande aventure noir et blanc || Collection dirigée par Grégoire Hellot || Pokémon | Kurokawa DL 2024 Aubin impr. 
+    9791042015107 ['1', '1'] Pokémon écarlate et violet || Collection dirigée par Grégoire Hellot || Pokémon écarlate et violet | Kurokawa DL 2024 Aubin impr. 
+    9791042019341 ['3', '3'] Pokémon écarlate et violet || Collection dirigée par Grégoire Hellot || Pokémon écarlate et violet | Kurokawa DL 2025 Aubin impr. 
+    9791042013257 ['4', '4'] Pokémon la grande aventure noir et blanc || Collection dirigée par Grégoire Hellot || Pokémon | Kurokawa DL 2024 Aubin impr. 
+    9782368520130 ['1', '1'] Pokémon la grande aventure || Collection dirigée par Grégoire Hellot || Pokémon | Kurokawa DL 2014 Aubin impr. 
+    9791042013912 ['Vol. 7', '7'] Pokémon épée et bouclier || Collection dirigée par Grégoire Hellot || Pokémon épée et bouclier | Kurokawa DL 2024 Aubin impr. 
+    9782368525319 ['3', '3'] Pokémon la grande aventure Émeraude || Collection dirigée par Grégoire Hellot || Pokémon | Kurokawa DL 2017 Aubin impr. 
+    9782368525326 ['4', '4'] Pokémon la grande aventure Émeraude || Collection dirigée par Grégoire Hellot || Pokémon | Kurokawa DL 2017 
+    9782368529898 [] Mewtwo contre-attaque évolution || Pokémon || Collection dirigée par Grégoire Hellot || Pokémon, le film | Kurokawa DL 2020 Impr. Aubin 
+    9782368525494 ['1-3', '1-3'] Pokémon la grande aventure || Collection dirigée par Grégoire Hellot || Pokémon | Kurokawa [2017] Aubin impr. 
+    9782368529010 [] Pokémon détective Pikachu || Kuropop | Kurokawa DL 2020 Impr. Pollina 
+    9782368527931 ['2', '2'] Pokémon horizon || Collection dirigée par Grégoire Hellot || Pokemon horizon | Kurokawa DL 2019 Aubin impr. 
+    9791042015039 ['1', '1'] Pokémon la grande aventure Rubis Oméga et Saphir Alpha || Collection dirigée par Grégoire Hellot || Pokémon | Kurokawa DL 2024 Aubin impr. 
+    9782351428146 ['Volume 5', '5'] Pokémon noir et blanc || Collection dirigée par Grégoire Hellot || Pokémon noir et blanc | Kurokawa DL 2012 
+    9782351426869 ['Volume 3', '3'] Pokémon noir et blanc || Collection dirigée par Grégoire Hellot || Pokémon noir et blanc | Kurokawa DL 2012 
+    9782351426531 ['Volume 2', '2'] Pokémon noir et blanc || Collection dirigée par Grégoire Hellot || Pokémon noir et blanc | Kurokawa DL 2011 
+    9782351426883 ['Volume 4', '4'] Pokémon noir et blanc || Collection dirigée par Grégoire Hellot || Pokémon noir et blanc | Kurokawa DL 2012 
+    9782368520871 ['2', '2'] Pokémon la grande aventure Rubis et Saphir || Collection dirigée par Grégoire Hellot || Pokémon | Kurokawa DL 2015 
+    9782368522776 ['2', '2'] Pokémon la grande aventure Or et Argent || Collection dirigée par Grégoire Hellot || Pokémon | Kurokawa DL 2016 
+    9782368521670 ['2', '2'] Pokémon XY || Collection dirigée par Grégoire Hellot || Pokémon XY | Kurokawa DL 2015 
+    9782368524169 ['5', '5'] Pokémon XY || Collection dirigée par Grégoire Hellot || Pokémon XY | Kurokawa DL 2016 
+    9782368522127 ['3', '3'] Pokémon XY || Collection dirigée par Grégoire Hellot || Pokémon XY | Kurokawa DL 2015 
+    9782368523827 ['3', '3'] Pokémon la grande aventure Or et Argent || Collection dirigée par Grégoire Hellot || Pokémon | Kurokawa DL 2016 
+    9782368522790 ['4', '4'] Pokémon XY || Collection dirigée par Grégoire Hellot || Pokémon XY | Kurokawa DL 2016 
+    9782368522219 ['1', '1'] Pokémon la grande aventure Or et Argent || Collection dirigée par Grégoire Hellot || Pokémon | Kurokawa DL 2016 
+    9782368524978 ['6', '6'] Pokémon XY || Collection dirigée par Grégoire Hellot || Pokémon XY | Kurokawa DL 2017 
+    9782368525074 ['2', '2'] Pokémon la grande aventure Rouge feu et Vert feuille || Collection dirigée par Grégoire Hellot || Pokémon | Kurokawa DL 2017 
+    9782368524961 ['1', '1'] Pokémon la grande aventure Rouge feu et Vert feuille || Collection dirigée par Grégoire Hellot || Pokémon | Kurokawa DL 2017 
+    9782380711691 ['2', '2'] Pokémon la grande aventure noir 2 et blanc 2 || Collection dirigée par Grégoire Hellot || Pokémon | Kurokawa DL 2021 Impr. Aubin 
+    9782380711684 ['1', '1'] Pokémon la grande aventure noir 2 et blanc 2 || Collection dirigée par Grégoire Hellot || Pokémon | Kurokawa DL 2021 Impr. Aubin 
+    9782368526439 [] Je te choisis || Pokémon, le film || Collection dirigée par Grégoire Hellot || Pokémon, le film | Kurokawa DL 2019 Aubin impr. 
+    9782368520086 ['Volume 9', '9'] Pokémon noir et blanc || Collection dirigée par Grégoire Hellot || Pokémon noir et blanc | Kurokawa DL 2014 
+    9782351426548 ['Volume 1', '1'] Pokémon noir et blanc || Collection dirigée par Grégoire Hellot || Pokémon noir et blanc | Kurokawa DL 2011 Aubin impr. 
+    9782368521595 [] Diancie et le cocon de l'annihilation || Pokémon, le film || Collection dirigée par Grégoire Hellot || Pokémon | Kurokawa DL 2015 
+    9782368520178 [] Genesect et l'éveil de la légende || Pokémon, le film || Collection dirigée par Grégoire Hellot || Pokémon, le | Kurokawa DL 2014 
+    9782368527054 [] Pokémon la grande aventure or et argent série complète | Kurokawa C 2018 Aubin impr. 
+    9782368528921 [] Pokémon la grande aventure Rubis et Saphir série complète | Kurokawa C 2019 Aubin impr. 
+    9782351429051 ['Volume 7', '7'] Pokémon noir et blanc || Collection dirigée par Grégoire Hellot || Pokémon noir et blanc | Kurokawa DL 2013 
+    9782351429068 ['Volume 8', '8'] Pokémon noir et blanc || Collection dirigée par Grégoire Hellot || Pokémon noir et blanc | Kurokawa DL 2013 
+    9782351428757 ['Volume 6', '6'] Pokémon noir et blanc || Collection dirigée par Grégoire Hellot || Pokémon noir et blanc | Kurokawa DL 2013 
+    9782368526453 ['Volume 2', '2'] Pokémon soleil et lune || Collection dirigée par Grégoire Hellot || Pokémon soleil et lune | Kurokawa DL 2018 Aubin impr. 
+    9782380711547 ['Vol. 3', '3'] Pokémon épée et bouclier || Collection dirigée par Grégoire Hellot || Pokémon épée et bouclier | Kurokawa DL 2021 Aubin impr. 
+    9782368529744 ['Vol. 6', '6'] Pokémon soleil et lune || Collection dirigée par Grégoire Hellot || Pokémon soleil et lune | Kurokawa DL 2020 Aubin impr. 
+    9782380711523 ['Vol. 1', '1'] Pokémon épée et bouclier || Collection dirigée par Grégoire Hellot || Pokémon épée et bouclier | Kurokawa DL 2021 Aubin impr. 
+    9782368529737 ['Vol. 5', '5'] Pokémon soleil et lune || Collection dirigée par Grégoire Hellot || Pokémon soleil et lune | Kurokawa DL 2020 Aubin impr. 
+    9782380711530 ['Vol. 2', '2'] Pokémon épée et bouclier || Collection dirigée par Grégoire Hellot || Pokémon épée et bouclier | Kurokawa DL 2021 Aubin impr. 
+    9782368527351 ['Volume 4', '4'] Pokémon soleil et lune || Collection dirigée par Grégoire Hellot || Pokémon soleil et lune | Kurokawa DL 2019 Aubin impr. 
+    9782380712919 ['Vol. 4', '4'] Pokémon épée et bouclier || Collection dirigée par Grégoire Hellot || Pokémon épée et bouclier | Kurokawa DL 2022 Aubin impr. 
+    9782368526934 ['Volume 3', '3'] Pokémon soleil et lune || Collection dirigée par Grégoire Hellot || Pokémon soleil et lune | Kurokawa DL 2018 Aubin impr. 
+    9782368525456 ['Volume 1', '1'] Pokémon soleil et lune || Collection dirigée par Grégoire Hellot || Pokémon soleil et lune | Kurokawa DL 2017 Aubin impr. 
+    9782380712056 [] Les secrets de la jungle les origines de Koko || Pokémon, le film || Collection dirigée par Grégoire Hellot || | Kurokawa DL 2021 Impr. Aubin 
+    9782368527917 [] Le pouvoir est en nous les origines de Zeraora || Pokémon, le film || Collection dirigée par Grégoire Hellot | | Kurokawa DL 2019 Aubin impr. 
+    9782368524190 [] Pokémon la grande aventure recueil d'illustrations || Collection dirigée par Grégoire Hellot | Kurokawa DL 2016 
+    9782368526576 [] Pokémon la grande aventure Or, heart gold et Argent, soul silver || Collection dirigée par Grégoire Hellot | Kurokawa DL 2018 Aubin impr. 
+    9782351426463 [] Pokémon Zoroark le maître des illusions || Collection dirigée par Grégoire Hellot | Kurokawa DL 2011 
+    9782351427941 [] Pokémon, le film blanc Victini et Zekrom || Collection dirigée par Grégoire Hellot | Kurokawa DL 2012 
+    9782351428818 [] Pokémon, le film Kyurem vs la Lame de la justice || Collection dirigée par Grégoire Hellot | Kurokawa DL 2013 
+== mashle 34
+    9784434101625 [] Setsudan no jidai nijisseiki ni okeru korāju no bigaku to rekishi | Buryukke 2007 ブリュッケ 2007 
+    9784409511145 [] Kattō-suru keitai dai ichiji sekai taisen to bijutsu || Rekuchā dai ichiji sekai taisen o kangaeru || レクチャー第一次 | Jinbun shoin 2011 人文書院 2011 
+    9781496214607 [] Imperial Zions religion, race, and family in the American West and the Pacific || Studies in Pacific worlds | University of Nebraska Press C 
+    4579403274 [] Tomodachi ga dekita yo Nyûyôku kara no tegami | Bunka shuppan kyoku 1992 
+    9782820348029 ['18', '18'] Mash Burnedead et l'heureux dénouement || Mashle || Mashle | Crunchyroll DL 2024  
+    9782820340818 ['2', '2'] Mash Burnedead et la magie de fer || Mashle || Shōnen || Mashle | Kazé DL 2021  
+    9782820343000 ['5', '5'] Mash Burnedead et le miroir magique || Mashle || Shōnen || Mashle | Kazé DL 2021  
+    9782820340979 ['3', '3'] Mash Burnedead et le sorcier masqué || Mashle || Shōnen || Mashle | Kazé DL 2021  
+    9782820340801 ['1', '1'] Mash Burnedead et ses muscles d'enfer || Mashle || Shōnen || Mashle | Kazé DL 2021  
+    9782820344113 ['12', '12'] Mash Burnedead et les quintuplés de l'enfer || Mashle || Mashle | Crunchyroll DL 2022  
+    9782820341136 ['4', '4'] Mash Burnedead et la loi du plus fort || Mashle || Shōnen || Mashle | Kazé DL 2021  
+    9782820341273 ['6', '6'] Finn Ames et l'importance de l'amitié || Mashle || Shōnen || Mashle | Kazé DL 2021  
+    9782820343963 ['11', '11'] Mash Burnedead et la divinité aquatique || Mashle || Mashle | Crunchyroll DL 2022  
+    9782820343468 ['7', '7'] Mash Burnedead et le tennis dévastateur || Mashle || Shōnen || Mashle | Kazé DL 2022  
+    9782820346124 ['14', '14'] Lance Crown et Dot Barett || Mashle || Mashle | Crunchyroll DL 2023  
+    9782820343543 ['8', '8'] Mash Burnedead et les quatre anneaux de diamant || Mashle || Shōnen || Mashle | Kazé DL 2022  
+    9782820343734 ['9', '9'] Mash Burnedead et le tournoi des trois académies || Mashle || Shōnen || Mashle | Kazé DL 2022  
+    9782820343833 ['10', '10'] Mash Burnedead et l'armure d'aimants || Mashle || Shōnen || Mashle | Kazé DL 2022  
+    4568102952 [] Akira Komoto | [s. n.] 1991 
+    9782820348210 [] Mashle | Crunchyroll [2024] 
+    9782820346001 ['13'] Mashle Rayne Ames et le redoutable hallebardier | crunchyroll DL 2023 
+    9782820346247 ['15'] Mashle Ryoh Grantz et le sens de la virilité | crunchyroll DL 2023 
+    9782820346391 ['16', '16'] Mashle Mash burnedead et la magie réfléchissante || Mashle | crunchyroll DL 2023 
+    9782820346506 ['17', '17'] Mashle Mash burnedead et la magie qui ralentit le temps || Mashle | crunchyroll DL 2023 
+    221101724X [] Crac l'écureuil | l'école des loisirs 1984 
+    9782820343239 ['Tomes 1 à 3', '1-3'] Mashle || Kazé shônen || Mashle | Kazé DL 2021 C
+    9782820347107 ['roman'] Mashle mash Burnedead et le livre des aventures | Crunchyroll 2023 
+    9783642375378 ['Volume 182'] Thermoelectric nanomaterials materials design and applications || Springer series in materials science | Springer [2013] 
+    9782820352415 [] Mashle Mash Burnedead et ses amis débarquent en force roman | Crunchyroll DL 2024  
+    9782820348203 [] Mash Burnedead et le sortilège de résurrection roman || Mashle || Mashle | Crunchyroll DL 2024  
+    0792349814 ['13'] Molecular genetics of host-specific toxins in plant disease proceedings of the 3rd Tottori international sympo | Kluwer academic publishers cop 
+    0742503410 [] The living way stories of Kurozumi Munetada, a Shinto founder || The sacred literature series of the Internati | Altamira press 2000 
+    0080425100 [] Pathogenesis and host specificity in plant diseases histopathological, biochemical, genetics and molecular bas | Pergamon 1995 
+    9780199358212 [] Out of obscurity Mormonism since 1945 | Oxford university press cop. 2 
+== dix 0
+== spy 23
+    9791042021030 [] Spy x Family - Tome 16 || Spy X Family | Kurokawa 2026 
+    9791042021030 ['16'] Spy x family || Collection dirigée par Grégoire Hellot | Kurokawa 2026 
+    9782380710243 ['1', '1', '1'] Spy x family || Spy x family || Collection dirigée par Grégoire Hellot || Spy x family | Kurokawa DL 2020 Aubin impr. 
+    9782380711479 ['3', '3', '3'] Spy x family || Spy x family || Collection dirigée par Grégoire Hellot || Spy x family | Kurokawa DL 2021 Aubin impr. 
+    9791042016432 [] Spy x Family Mission coloriage [Album à colorier] [image fixe] ||  | Kurokawa 2024 Aubin Imprimeur  
+    9782380714340 ['11'] Spy x family || Collection dirigée par Grégoire Hellot | Kurokawa DL 2023 Aubin impr. 
+    9791042018733 ['15', '15'] Spy x family || Collection dirigée par Grégoire Hellot || Spy x family Tatsuya Endo | Kurokawa DL 2025 
+    9782380715378 ['11', '11'] Spy x family || Collection dirigée par Grégoire Hellot || Spy x family | Kurokawa DL 2023 
+    9791042018726 ['14', '14'] Spy x family || Collection dirigée par Grégoire Hellot || Spy x family | Kurokawa DL 2025 Aubin impr. 
+    9782380712971 ['10', '10'] Spy x family || Collection dirigée par Grégoire Hellot || Spy x family | Kurokawa DL 2022 Aubin impr. 
+    9791042014704 ['13', '13'] Spy x family || Collection dirigée par Grégoire Hellot || Spy x family | Kurokawa DL 2024 Aubin impr. 
+    9791042014025 ['12', '12'] Spy x family || Collection dirigée par Grégoire Hellot || Spy x family | Kurokawa DL 2024 Aubin impr. 
+    9782380712964 ['9', '9'] Spy x family || Collection dirigée par Grégoire Hellot || Spy x family | Kurokawa DL 2022 Aubin impr. 
+    9782380711493 ['5', '5'] Spy x family || Collection dirigée par Grégoire Hellot || Spy x family | Kurokawa DL 2021 Aubin impr. 
+    9782380711486 ['4', '4'] Spy x family || Collection dirigée par Grégoire Hellot || Spy x family | Kurokawa DL 2021 Aubin impr. 
+    9782380712605 ['7', '7'] Spy x family || Collection dirigée par Grégoire Hellot || Spy x family | Kurokawa DL 2022 Aubin impr. 
+    9782380712957 ['8', '8'] Spy x family || Collection dirigée par Grégoire Hellot || Spy x family | Kurokawa DL 2022 Aubin impr. 
+    9782380711509 ['6', '6'] Spy x family || Collection dirigée par Grégoire Hellot || Spy x family | Kurokawa DL 2021 Aubin impr. 
+    9782380710250 ['vol. 2', '2'] Mission start || Spy x family || Collection dirigée par Grégoire Hellot || Spy x family | Kurokawa DL 2020 Aubin impr. 
+    9791042015046 [] Spy x family roman portrait de famille || Collection dirigée par Grégoire Hellot | Kurokawa DL 2024 Aubin impr. 
+    9782380715231 [] "Spy x family" guidebook officiel eyes only || Collection dirigée par Grégoire Hellot | Kurokawa DL 2024 Aubin impr. 
+    9782380714487 ['Tomes 1 à 3', '1-3'] Spy x family || Collection dirigée par Grégoire Hellot || Spy x family | Kurokawa DL 2022 Aubin impr. C
+    9782380716283 [] "Spy x family" guidebook officiel eyes only || Collection dirigée par Grégoire Hellot | Kurokawa DL 2023 Impr. Pollina 
+== pga 6
+    9782373494235 ['1', '1'] Power gamer adventure || Shônen || Power gamer adventure | Nobi nobi ! DL 2021  
+    9782373495324 ['4', '4'] Power gamer adventure || Shônen || Power gamer adventure | Nobi nobi ! DL 2021 Impr. Jouv 
+    9782373495317 ['3', '3'] Power gamer adventure || Shônen || Power gamer adventure | Nobi nobi ! DL 2021  
+    9782373494242 ['2', '2'] Power gamer adventure || Shônen || Power gamer adventure | Nobi nobi ! DL 2021  
+    9782300110580 [] Tropico trilogy || Gamer for ever | Avanquest software, Micro appl 
+    9780415711913 [] Sports and identity new agendas in communication || New agendas in communication | Routledge 2014 
+== lost 19
+    9791035507749 ['13'] Final Fantasy Lost Stranger | Mana books 2026 
+    9791035504281 ['10'] Final Fantasy lost Stranger | Mana books 2023 
+    9791035505479 ['12', '12'] Final fantasy lost stranger || Final fantasy | Mana books DL 2025  
+    9791035504298 ['11', '11'] Final fantasy lost stranger || Final fantasy | Mana books DL 2024  
+    9791035500429 ['2', '2'] Final fantasy lost stranger || Final fantasy | Mana books DL 2018  
+    9791035503178 ['8', '8'] Final fantasy lost stranger || Final fantasy | Mana books DL 2022  
+    9791035503338 ['9', '9'] Final fantasy lost stranger || Final fantasy | Mana books DL 2022  
+    9791035500887 ['3', '3'] Final fantasy lost stranger || Final fantasy | Mana books DL 2019  
+    9791035501310 ['4', '4'] Final fantasy lost stranger || Final fantasy | Mana books DL 2019  
+    9791035501693 ['5', '5'] Final fantasy lost stranger || Final fantasy | Mana books DL 2020  
+    9791035502584 ['7', '7'] Final fantasy lost stranger || Final fantasy | Mana books DL 2021  
+    9791035501976 ['6', '6'] Final fantasy lost stranger || Final fantasy | Mana books DL 2021  
+    9791035500276 ['1', '1'] Final fantasy lost stranger || Final fantasy | Mana books DL 2018  
+    9780810129825 [] Lost in time locating the stranger in German modernity | Northwestern University Press  
+    9780253006929 [] Cinematic flashes cinephilia and classical Hollywood | Indiana University Press 2013 
+    9780312680466 [] The lost books of the Odyssey [a novel] | Farrar, Straus and Giroux 2010 
+    9781474271516 [] Sarah Waters gender and sexual politics | Bloomsbury 2017 
+    9780195394429 [] Postcolonial ecologies literatures of the environment | Oxford University Press c2011 
+    9780810891227 [] Paratexts introductions to science fiction and fantasy | the Scarecrow press 2013 
+== gto 196
+    9782811600105 ['3', '3'] Rose Hip Zero || Seinen || Rose Hip Zero | Pika éd. DL 2008 
+    2845991258 ['6', '6'] GTO great teacher Onizuka || GTO. | Pika éd. 2001 
+    2845991207 ['5', '5'] GTO great teacher Onizuka || GTO. | Pika éd. 2001 
+    2845991819 ['17', '17'] GTO great teacher Onizuka || GTO. | Pika éd. 2002 
+    2845991347 ['7', '7'] GTO great teacher Onizuka || GTO. | Pika éd. 2001 
+    2845992017 ['21', '21'] GTO great teacher Onizuka || GTO. | Pika éd. 2002 
+    2845992084 ['22', '22'] GTO great teacher Onizuka || GTO. | Pika éd. 2003 
+    2845991959 ['20', '20'] GTO great teacher Onizuka || GTO. | Pika éd. 2002 
+    2845991371 ['8', '8'] GTO great teacher Onizuka || GTO. | Pika éd. 2001 
+    2845992246 ['24', '24'] GTO great teacher Onizuka || GTO. | Pika éd. 2003 
+    2845992319 ['25', '25'] GTO great teacher Onizuka || GTO. | Pika éd. 2003 
+    2845991444 ['9', '9'] GTO great teacher Onizuka || GTO. | Pika éd. 2001 
+    284599186X ['18', '18'] GTO great teacher Onizuka || GTO. | Pika éd. 2002 
+    2845992130 ['23', '23'] GTO great teacher Onizuka || GTO. | Pika éd. 2003 
+    2845991762 ['16', '16'] GTO great teacher Onizuka || GTO. | Pika éd. 2002 
+    2845991177 ['4', '4'] GTO great teacher Onizuka || GTO. | Pika éd. 2001 
+    2845996349 ['14', '14'] Young GTO ! shonan junaï gumi || Young GTO ! | Pika Éd. DL 2006 
+    9782811600280 ['29', '29'] Young GTO ! shonan junaï gumi || Young GTO ! | Pika éd. DL 2009 
+    2845991061 ['2', '2'] GTO great teacher Onizuka || GTO. | Pika éd. 2001 
+    2845991002 ['1', '1'] GTO great teacher Onizuka || GTO. | Pika éd. 2001 
+    9782811600617 ['6', '6'] Rose Hip Zero || Rose Hip Zero | Pika éd. DL 2009 
+    9782845998872 ['25', '25'] Young GTO ! shonan junaï gumi || Young GTO ! | Pika éd. DL 2008 
+    9782845999077 ['4', '4'] Rose hip Rose || Rose hip Rose | Pika éd. DL 2008 
+    2845991541 ['11', '11'] GTO great teacher Onizuka || GTO. | Pika éd. 2002 
+    2845991657 ['14', '14'] GTO great teacher Onizuka || GTO. | Pika éd. 2002 
+    2845991703 ['15', '15'] GTO great teacher Onizuka || GTO. | Pika éd. 2002 
+    2845991568 ['12', '12'] GTO great teacher Onizuka || GTO. | Pika éd. 2002 
+    2845991479 ['10', '10'] GTO great teacher Onizuka || GTO. | Pika éd. 2001 
+    2845991606 ['13', '13'] GTO great teacher Onizuka || GTO. | Pika éd. 2002 
+    2845991894 ['19', '19'] GTO great teacher Onizuka || GTO. | Pika éd. 2002 
+    2845995024 ['5', '5'] Young GTO ! Shonan junaï gumi || Young GTO ! | Pika éd. DL 2005 
+    2845995318 ['7', '7'] Young GTO ! shonan junaï gumi || Young GTO ! | Pika éd. DL 2005 
+    2845996438 ['15', '15'] Young GTO ! shonan junaï gumi || Young GTO ! | Pika éd. DL 2006 
+    2845995202 ['6', '6'] Young GTO ! shonan junaï gumi || Young GTO ! | Pika éd. DL 2005 
+    2845994737 ['3', '3'] Young GTO ! Shonan junaï gumi || Young GTO ! | Pika éd. DL 2005 
+    2845995555 ['8', '8'] Young GTO ! shonan junaï gumi || Young GTO ! | Pika éd. DL 2006 
+    2845994923 ['4', '4'] Young GTO ! Shonan junaï gumi || Young GTO ! | Pika éd. DL 2005 
+    2845996888 ['17', '17'] Young GTO ! shonan junaï gumi || Young GTO ! | Pika éd. DL 2007 
+    2845994559 ['2', '2'] Young GTO ! Shonan junaï gumi || Young GTO ! | Pika éd. DL 2005 
+    2845994443 ['1', '1'] Young GTO ! Shonan junaï gumi || Young GTO ! | Pika éd. DL 2005 
+    2845995741 ['10', '10'] Young GTO ! shonan junaï gumi || Young GTO ! | Pika éd. DL 2006 
+    2845995636 ['9', '9'] Young GTO ! shonan junaï gumi || Young GTO ! | Pika éd. DL 2006 
+    9782845999244 ['26', '26'] Young GTO ! shonan junaï gumi || Young GTO ! | Pika éd. DL 2008 
+    9782845999558 ['27', '27'] Young GTO ! shonan junaï gumi || Young GTO ! | Pika éd. DL 2008 
+    9782811680008 ['19', '19'] GTO paradise lost || Shônen || GTO | Pika édition DL 2023 
+    9782811684723 ['20'] GTO paradise lost || Pika Shônen | Pika éditions 2023 Impr. GRAFI 
+    2845991126 ['3', '3'] GTO great teacher Onizuka || GTO. | Pika éd. 2001 
+    9782845998582 ['24', '24'] Young GTO ! shonan junaï gumi || Young GTO ! | Pika éd. DL 2008 
+    9782845998346 ['23', '23'] Young GTO ! shonan junaï gumi || Young GTO ! | Pika éd. DL 2008 
+    9782845997509 ['20', '20'] Young GTO ! shonan junaï gumi || Young GTO ! | Pika éd. DL 2007 
+    9782845997974 ['22', '22'] Young GTO ! shonan junaï gumi || Young GTO ! | Pika éd. DL 2007 
+    9782811601393 ['Volume 2', '2'] Kamen teacher || Pika shônen || Kamen teacher | Pika éd. DL 2009 
+    9782811605858 ['3', '3'] GTO great teacher Onizuka || Pika shônen || GTO | Pika éd. DL 2010 
+    9782845997103 ['18', '18'] Young GTO ! shonan junaï gumi || Young GTO ! | Pika éd. DL 2007 
+    9782811602048 ['Volume 3', '3'] Kamen teacher || Pika shônen || Kamen teacher | Pika éd. DL 2010 
+    9782845997783 ['21', '21'] Young GTO ! shonan junaï gumi || Young GTO ! | Pika éd. DL 2007 
+    9782845997325 ['19', '19'] Young GTO ! shonan junaï gumi || Young GTO ! | Pika éd. DL 2007 
+    9782811609665 ['12', '12'] GTO great teacher Onizuka || Pika shônen || GTO | Pika éd. DL 2012 
+    9782811605742 ['2', '2'] GTO great teacher Onizuka || Pika shônen || GTO | Pika éd. DL 2011 
+    9782811607067 ['7', '7'] GTO great teacher Onizuka || Pika shônen || GTO | Pika éd. DL 2012 
+    9782811607319 ['8', '8'] GTO great teacher Onizuka || Pika shônen || GTO | Pika éd. DL 2012 
+    9782811602369 ['Volume 4', '4'] Kamen teacher || Pika shônen || Kamen teacher | Pika éd. DL 2010 
+    9782811610227 ['13', '13'] GTO great teacher Onizuka || Pika shônen || GTO | Pika éd. impr. 2012 
+    9782811609368 ['9', '9'] GTO great teacher Onizuka || Pika shônen || GTO | Pika éd. DL 2012 
+    9782811609474 ['10', '10'] GTO great teacher Onizuka || Pika shônen || GTO | Pika éd. DL 2012 
+    9782811600365 ['4', '4'] Rose Hip Zero || Seinen || Rose Hip Zero | Pika éd. DL 2009 
+    9782811601102 ['Volume 1', '1'] Kamen teacher || Pika shônen || Kamen teacher | Pika éd. DL 2009 
+    9782811600693 ['5', '5'] Rose Hip Zero || Seinen || Rose Hip Zero | Pika éd. DL 2009 
+    9782811610876 ['2', '2'] Reverend D || Collection Pika seinen || Reverend D | Pika éd. impr. 2013 
+    9782811606626 ['5', '5'] GTO great teacher Onizuka || Pika shônen || GTO | Pika éd. DL 2012 
+    9782811605636 ['2', '2'] GTO Shonan 14 days || Pika shônen || GTO | Pika éd. DL 2011 
+    9782811605315 ['1', '1'] GTO great teacher Onizuka || Pika shônen || GTO | Pika éd. DL 2011 
+    9782811606237 ['4', '4'] GTO great teacher Onizuka || Pika shônen || GTO | Pika éd. DL 2012 
+    9782845999633 ['2', '2'] Rose Hip Zero || Seinen || Rose Hip Zero | Pika éd. DL 2008 
+    9782811609252 ['11', '11'] GTO great teacher Onizuka || Pika shônen || GTO | Pika éd. DL 2012 
+    9782811605308 ['1', '1'] GTO Shonan 14 days || Pika shônen || GTO | Pika éd. DL 2011 
+    9782811602581 [] Momoider troupes secrètes de combat || Pika shônen | Pika éd. DL 2010 
+    9782845999350 ['1', '1'] Rose Hip Zero || Seinen || Rose Hip Zero | Pika éd. DL 2008 
+    9782811606794 ['6', '6'] GTO great teacher Onizuka || Pika shônen || GTO | Pika éd. DL 2012 
+    9782845998551 ['3', '3'] Tokko chasseurs de fantômes || Senpai || Tokko | Pika éd. DL 2008 
+    9782845998681 ['3', '3'] Rose hip Rose || Rose hip Rose | Pika éd. DL 2008 
+    9782845998414 ['2', '2'] Rose hip Rose || Rose hip Rose | Pika éd. DL 2008 
+    9782845998179 ['1', '1'] Rose hip Rose || Rose hip Rose | Pika éd. DL 2008 
+    9782845999992 ['28', '28'] Young GTO ! shonan junaï gumi || Pika shônen || Young GTO ! | Pika édition DL 2009 
+    9782811641627 ['22', '22'] GTO great teacher Onizuka || Shônen || GTO | Pika édition 2019  
+    9782811670542 ['16', '16'] GTO paradise lost || Shônen || GTO | Pika édition 2022 Dupliprint 
+    9782811600570 ['30', '30'] Young GTO ! shonan junaï gumi || Pika shônen || Young GTO ! | Pika édition DL 2009 
+    9782811600877 ['31', '31'] Young GTO ! shonan junaï gumi || Pika shônen || Young GTO ! | Pika édition DL 2009 
+    9782811641610 ['21', '21'] GTO great teacher Onizuka || Shônen || GTO | Pika édition 2019  
+    9782811641641 ['24', '24'] GTO great teacher Onizuka || Shônen || GTO | Pika édition 2019  
+    9782811641658 ['25', '25'] GTO great teacher Onizuka || Shônen || GTO | Pika édition 2019  
+    9782811641634 ['23', '23'] GTO great teacher Onizuka || Shônen || GTO | Pika édition 2019  
+    9782811619435 ['1', '1'] My teen love || Pika shôjo || My teen love | Pika édition DL 2015 
+    9782811619466 ['4', '4'] My teen love || Pika shôjo || My teen love | Pika édition DL 2015 
+    9782811630577 ['8', '8'] My teen love || Pika shôjo || My teen love | Pika édition DL 2016 
+    9782811619459 ['3', '3'] My teen love || Pika shôjo || My teen love | Pika édition DL 2015 
+    9782811619473 ['5', '5'] My teen love || Pika shôjo || My teen love | Pika édition DL 2016 
+    9782811626976 ['6', '6'] My teen love || Shôjo || My teen love | Pika édition DL 2016 
+    9782811628802 ['7', '7'] My teen love || Shôjo || My teen love | Pika édition DL 2016 
+    9782811619442 ['2', '2'] My teen love || Pika shôjo || My teen love | Pika édition DL 2015 
+    9782811615604 [] GT-R great transporter Ryuji || Pika shônen | Pika édition DL 2014 
+    9782811606039 ['3', '3'] GTO Shonan 14 days || Pika shônen || GTO | Pika éd. DL 2012 
+    9782811625757 ['1', '1'] Tokkô || Seinen || Tokkô | Pika édition DL 2015 
+    9782811606398 ['4', '4'] GTO Shonan 14 days || Pika shônen || GTO | Pika éd. DL 2012 
+    9782811656027 ['Vol. 12', '12'] GTO paradise lost || Shônen || GTO | Pika édition DL 2020  
+    9782811641443 ['Vol. 9', '9'] Young GTO great teacher Onizuka || Shônen || Young GTO | Pika édition DL 2018  
+    9782811609702 ['08', '8'] GTO Shonan 14 days || Pika shônen || GTO | Pika éd. DL 2012 
+    9782811625795 ['2', '2'] Tokkô || Seinen || Tokkô | Pika édition DL 2015 
+    9782811609481 ['07', '7'] GTO Shonan 14 days || Pika shônen || GTO | Pika éd. DL 2012 
+    9782811610715 ['09', '9'] GTO Shonan 14 days || Pika shônen || GTO | Pika éd. impr. 2013 
+    9782811620028 ['1', '1'] Kamen teacher black || Shônen || Kamen teacher black | Pika édition DL 2015 
+    9782811606800 ['05', '5'] GTO Shonan 14 days || Pika shônen || GTO | Pika éd. DL 2012 
+    9782811643973 ['Vol. 11', '11'] GTO paradise lost || Shônen || GTO | Pika édition DL 2018 Impr. Jou 
+    9782811640880 ['Vol. 10', '10'] GTO paradise lost || Shônen || GTO | Pika édition DL 2018 Impr. Jou 
+    9782811671211 ['17', '17'] GTO paradise lost || Shônen || GTO | Pika édition DL 2022  
+    9782811641573 ['17', '17'] GTO great teacher Onizuka || Shônen || GTO | Pika édition DL 2018  
+    9782811607302 ['06', '6'] GTO Shonan 14 days || Pika shônen || GTO | Pika éd. DL 2012 
+    9782811634360 ['Vol. 6', '6'] GTO paradise lost || Shônen || GTO | Pika édition DL 2017 
+    9782811638191 ['5', '5'] GTO great teacher Onizuka || Shônen || GTO | Pika édition DL 2017  
+    9782811668112 ['15', '15'] GTO paradise lost || Shônen || GTO | Pika édition DL 2022  
+    9782811637934 ['Vol. 8', '8'] GTO paradise lost || Shônen || GTO | Pika édition DL 2017 
+    9782811619411 ['3', '3'] Ino-head gargoyle || Seinen || Ino-head gargoyle | Pika édition DL 2016 
+    9782811619404 ['2', '2'] Ino-head gargoyle || Pika seinen || Ino-head gargoyle | Pika édition DL 2015 
+    9782811610845 ['1', '1'] Reverend D || Collection Pika seinen || Reverend D | Pika éd. impr. 2012 
+    9782811677381 ['18', '18'] GTO paradise lost || Shônen || GTO | Pika édition 2023  
+    9782811641603 ['20', '20'] GTO great teacher Onizuka || Shônen || GTO | Pika édition DL 2019  
+    9782811619398 ['1', '1'] Ino-head gargoyle || Pika seinen || Ino-head gargoyle | Pika édition DL 2015 
+    9782811632960 ['Vol. 4', '4'] Young GTO great teacher Onizuka || Shônen || Young GTO | Pika édition DL 2017  
+    9782811638740 ['8', '8'] GTO great teacher Onizuka || Shônen || GTO | Pika édition DL 2018  
+    9782811638733 ['7', '7'] GTO great teacher Onizuka || Shônen || GTO | Pika édition DL 2018  
+    9782811641511 ['11', '11'] GTO great teacher Onizuka || Shônen || GTO | Pika édition DL 2018  
+    9782811638726 ['6', '6'] GTO great teacher Onizuka || Shônen || GTO | Pika édition DL 2018  
+    9782811634827 ['1', '1'] GTO great teacher Onizuka || Shônen || GTO | Pika édition DL 2017 
+    9782811638764 ['10', '10'] GTO great teacher Onizuka || Shônen || GTO | Pika édition DL 2018  
+    9782811641467 ['Vol.11', '11'] Young GTO great teacher Onizuka || Shônen || Young GTO | Pika édition DL 2018  
+    9782811641498 ['Vol.14', '14'] Young GTO great teacher Onizuka || Shônen || Young GTO | Pika édition DL 2018  
+    9782811641535 ['13', '13'] GTO great teacher Onizuka || Shônen || GTO | Pika édition DL 2018  
+    9782811629045 ['Vol. 3', '3'] GTO paradise lost || Shônen || GTO | Pika édition DL 2016 
+    9782811641566 ['16', '16'] GTO great teacher Onizuka || Shônen || GTO | Pika édition DL 2018  
+    9782811641580 ['18', '18'] GTO great teacher Onizuka || Shônen || GTO | Pika édition DL 2019  
+    9782811632427 ['Vol. 4', '4'] GTO paradise lost || Shônen || GTO | Pika édition DL 2016 
+    9782811663964 ['Vol. 14', '14'] GTO paradise lost || Shônen || GTO | Pika édition DL 2021  
+    9782811660338 ['Vol. 13', '13'] GTO paradise lost || Shônen || GTO | Pika édition DL 2021  
+    9782811637606 ['2', '2'] GTO great teacher Onizuka || Shônen || GTO | Pika édition DL 2017 
+    9782811641528 ['12', '12'] GTO great teacher Onizuka || Shônen || GTO | Pika édition DL 2018  
+    9782811641481 ['Vol.13', '13'] Young GTO great teacher Onizuka || Shônen || Young GTO | Pika édition DL 2018  
+    9782811632373 [] GTO great teacher Onizuka bad company || Shônen | Pika édition 2017 
+    9782811637996 ['4', '4'] GTO great teacher Onizuka || Shônen || GTO | Pika édition DL 2017 
+    9782811640064 ['Vol. 5', '5'] Young GTO great teacher Onizuka || Shônen || Young GTO | Pika édition DL 2018  
+    9782811641542 ['14', '14'] GTO great teacher Onizuka || Shônen || GTO | Pika édition DL 2018  
+    9782811641559 ['15', '15'] GTO great teacher Onizuka || Shônen || GTO | Pika édition DL 2018  
+    9782811641450 ['Vol.10', '10'] Young GTO great teacher Onizuka || Shônen || Young GTO | Pika édition DL 2018  
+    9782811641474 ['Vol.12', '12'] Young GTO great teacher Onizuka || Shônen || Young GTO | Pika édition DL 2018  
+    9782811633646 ['Vol. 5', '5'] GTO paradise lost || Shônen || GTO | Pika édition DL 2016 
+    9782811640620 ['Vol. 9', '9'] GTO paradise lost || Shônen || GTO | Pika édition DL 2018 Impr. Jou 
+    9782811640729 ['Vol. 7', '7'] Young GTO great teacher Onizuka || Shônen || Young GTO | Pika édition DL 2018  
+    9782811637989 ['3', '3'] GTO great teacher Onizuka || Shônen || GTO | Pika édition 2017 
+    9782811620042 ['3', '3'] Kamen teacher black || Shônen || Kamen teacher black | Pika édition DL 2016 
+    9782811638757 ['9', '9'] GTO great teacher Onizuka || Shônen || GTO | Pika édition DL 2018  
+    9782811630096 ['4', '4'] Ino-head gargoyle || Seinen || Ino-head gargoyle | Pika édition DL 2016 
+    9782811631734 ['05', '5'] Ino-head gargoyle || Seinen || Ino-head gargoyle | Pika édition DL 2016 
+    9782811641597 ['19', '19'] GTO great teacher Onizuka || Shônen || GTO | Pika édition DL 2019  
+    9782811640651 ['Vol. 6', '6'] Young GTO great teacher Onizuka || Shônen || Young GTO | Pika édition DL 2018  
+    9782811641436 ['Vol. 8', '8'] Young GTO great teacher Onizuka || Shônen || Young GTO | Pika édition DL 2018  
+    9782811637033 ['Vol. 7', '7'] GTO paradise lost || Shônen || GTO | Pika édition DL 2017 
+    9782811620035 ['2', '2'] Kamen teacher black || Shônen || Kamen teacher black | Pika édition DL 2015 
+    9782811641504 ['Vol.15', '15'] Young GTO great teacher Onizuka || Shônen || Young GTO | Pika édition DL 2018  
+    9782811620059 ['4', '4'] Kamen teacher black || Shônen || Kamen teacher black | Pika édition DL 2016 
+    9782811632359 ['5', '5'] Kamen teacher black || Shônen || Kamen teacher black | Pika édition DL 2016 
+    9782811622725 ['Vol. 1', '1'] GTO paradise lost || Shônen || GTO | Pika édition DL 2015 
+    9782811622855 ['Vol. 2', '2'] GTO paradise lost || Shônen || GTO | Pika édition DL 2015 
+    9782845998315 ['2', '2'] Tokko l'éveil du diable || Senpai || Tokko | Pika éd. DL 2008 
+    9782845997929 ['1', '1'] Tokko l'éveil du diable || Senpai || Tokko | Pika éd. DL 2007 
+    9782811632403 ['Vol. 2', '2', '2'] Young GTO great teacher Onizuka || Young GTO || Shônen || Young GTO | Pika édition DL 2017 
+    9782811632397 ['1', '1', '1'] Young GTO great teacher Onizuka || Young GTO || Shônen || Young GTO | Pika édition DL 2017 
+    9782811632953 ['Vol. 3', '3'] Young GTO great teacher Onizuka || Shônen || Young GTO | Pika édition DL 2017 Impr. Jou 
+    9782811635602 ['3', '3', '3'] Dark goddess || Dark Goddess || Shônen || Dark goddess | Pika édition DL 2018 
+    9782845999725 [] Tokkô portfolio collector || Pika senpai | Pika 2008 C
+    9782845996151 ['13', '13'] Young GTO ! shonan junaï gumi || Young GTO ! | Pika éd. DL 2006 
+    2845996063 ['12', '12'] Young GTO ! shonan junaï gumi || Young GTO ! | Pika éd. DL 2006 
+    2845995849 ['11', '11'] Young GTO ! shonan junaï gumi || Young GTO ! | Pika éd. DL 2006 
+    2845996667 ['16', '16'] Young GTO ! shonan junaï gumi || Young GTO ! | Pika éd. DL 2006 
+    9782811632380 ['1', '1', '1'] Dark goddess || Dark Goddess || Shônen || Dark goddess | Pika édition DL 2017 
+    9782811633578 ['2', '2'] Tokkô zero || Seinen || Tokkô zero | Pika édition DL 2017 
+    9782811633561 ['1', '1'] Tokkô zero || Seinen || Tokkô zero | Pika édition DL 2017 
+    9782811632472 ['2', '2', '2'] Dark goddess || Dark Goddess || Shônen || Dark goddess | Pika édition DL 2017  
+    9782811633592 ['4', '4'] Tokkô zero || Seinen || Tokkô zero | Pika édition DL 2018  
+    9782811633585 ['3', '3'] Tokkô zero || Seinen || Tokkô zero | Pika édition DL 2017 Impr. Jou 
+    9782811611620 ['2', '2'] Soul messenger || Seinen || Soul Messenger | Pika éd. impr. 2013 
+    9782811610395 ['1', '1'] Soul messenger || Seinen || Soul Messenger | Pika éd. impr. 2013 
+    2845994575 ['2005, vol. 6', '2005-6'] Collection Shônen || Collection Shônen | Pika 2005 
+    2845994184 ['2005, vol. 3', '2005-3'] Collection Shônen || Collection Shônen | Pika 2005 
+    2845994095 ['2005, vol. 2', '2005-2'] Collection Shônen || Collection Shônen | Pika 2005 
+    2845994451 ['2005, vol. 5', '2005-5'] Collection Shônen || Collection Shônen | Pika 2005 
+    2845993986 ['2005, vol. 1', '2005-1'] Collection Shônen || Collection Shônen | Pika 2005 
+    2845993455 ['2004, vol. 6', '2004-6'] Collection Shônen || Collection Shônen | Pika 2004 
+== beck 50
+    2847899553 ['9', '9'] Beck || Také || Beck | Delcourt 2005 
+    9782756016887 ['32', '32'] Beck || Collection Také || Beck | Delcourt-Akata impr. 2009 
+    9782756007229 ['21', '21'] Beck || Collection Také || Beck | Delcourt-Akata impr. 2007 
+    9782756007267 ['25', '25'] Beck || Collection Také || Beck | Delcourt-Akata impr. 2008 
+    9782756014937 ['27', '27'] Beck || Collection Také || Beck | Delcourt-Akata impr. 2008 
+    9782756015835 ['28', '28'] Beck || Collection Také || Beck | Delcourt-Akata impr. 2009 
+    9782756016870 ['31', '31'] Beck || Collection Také || Beck | Delcourt-Akata impr. 2009 
+    9782756007274 ['26', '26'] Beck || Collection Také || Beck | Delcourt-Akata impr. 2008 
+    9782756016856 ['29', '29'] Beck || Collection Také || Beck | Delcourt-Akata impr. 2009 
+    9782756019277 ['33', '33'] Beck || Collection Také || Beck | Delcourt-Akata impr. 2009 
+    9782756016863 ['30', '30'] Beck || Collection Také || Beck | Delcourt-Akata impr. 2009 
+    9782756007243 ['23', '23'] Beck || Collection Také || Beck | Delcourt-Akata impr. 2008 
+    9782756007250 ['24', '24'] Beck || Collection Také || Beck | Delcourt-Akata impr. 2008 
+    9782756019284 ['34', '34'] Beck || Collection Také || Beck | Delcourt-Akata impr. 2010 
+    2847894519 ['1', '1'] Beck || Beck | Delcourt-Akata 2004 
+    2847894667 ['2', '2'] Beck || Beck | Delcourt-Akata 2004 
+    2847895620 ['3', '3'] Beck || Beck | Delcourt-Akata 2004 
+    9782413076322 ['13', '13'] Beck Mongolian chop squad || Beck | Delcourt-Tonkam DL 2025 Impr.  
+    9782413076315 ['12', '12'] Beck Mongolian chop squad || Beck | Delcourt-Tonkam DL 2024 Impr.  
+    9782413076292 ['11', '11'] Beck Mongolian chop squad || Beck | Delcourt-Tonkam DL 2024 Impr.  
+    2847896899 ['4', '4'] Beck || Sakura || Beck | Delcourt 2005 
+    9782413043294 ['5', '5'] Beck Mongolian chop squad || Beck | Delcourt-Tonkam DL 2022 Impr.  
+    9782413043324 ['8', '8'] Beck Mongolian chop squad || Beck | Delcourt-Tonkam DL 2022 Aubin  
+    9782413043263 ['2', '2'] Beck Mongolian chop squad || Beck | Delcourt-Tonkam DL 2021  
+    9782413043270 ['3', '3'] Beck Mongolian chop squad || Beck | Delcourt-Tonkam DL 2021  
+    9782413043300 ['6', '6'] Beck Mongolian chop squad || Beck | Delcourt-Tonkam DL 2022 Impr.  
+    9782413043287 ['4', '4'] Beck Mongolian chop squad || Beck | Delcourt-Tonkam DL 2022  
+    9782413043331 ['9', '9'] Beck Mongolian chop squad || Beck | Delcourt-Tonkam DL 2023 Aubin  
+    9782413043256 ['1', '1'] Beck Mongolian chop squad || Beck | Delcourt-Tonkam DL 2021  
+    9782413043317 ['7', '7'] Beck Mongolian chop squad || Beck | Delcourt-Tonkam DL 2022 Impr.  
+    2756001775 ['12', '12'] Beck || Collection Také || Beck | Delcourt-Akata impr. 2006 
+    2756000744 ['10', '10'] Beck || Collection Také || Beck | Delcourt-Akata impr. 2006 
+    2756001511 ['11', '11'] Beck || Collection Také || Beck | Delcourt-Akata impr. 2006 
+    2847896236 ['4', '4'] Beck || Collection Ginkgo || Beck | Delcourt-Akata 2005 
+    284789912X ['8', '8'] Beck || Collection Také || Beck | Delcourt-Akata impr. 2005 
+    2847897828 ['6', '6'] Beck || Collection Také || Beck | Delcourt-Akata impr. 2005 
+    2847898093 ['7', '7'] Beck || Collection Také || Beck | Delcourt-Akata impr. 2005 
+    2847896244 ['5', '5'] Beck || Collection Také || Beck | Delcourt-Akata 2005 
+    2756001805 ['15', '15'] Beck || Akata || Beck | Delcourt 2007 
+    9782756001807 ['15', '15'] Beck || Collection Také || Beck | Delcourt-Akata impr. 2006 
+    9782756007236 ['22', '22'] Beck || Collection Také || Beck | Delcourt-Akata impr. 2008 
+    2756001783 ['13', '13'] Beck || Collection Také || Beck | Delcourt-Akata impr. 2006 
+    9782756007212 ['20', '20'] Beck || Collection Také || Beck | Delcourt-Akata impr. 2007 
+    9782756007199 ['18', '18'] Beck || Collection Také || Beck | Delcourt-Akata impr. 2007 
+    9782756007205 ['19', '19'] Beck || Collection Také || Beck | Delcourt-Akata impr. 2007 
+    9782756007182 ['17', '17'] Beck || Collection Také || Beck | Delcourt-Akata impr. 2007 
+    9782756001814 ['16', '16'] Beck || Collection Také || Beck | Delcourt-Akata impr. 2007 
+    2756001791 ['14', '14'] Beck || Collection Také || Beck | Delcourt Akata cop. 2006 
+    9782413043348 ['10'] Beck || Shonen | Guy Delcourt Productions 2023 
+    2756002003 [] Beck, tome 1 à 3 || Také | Delcourt 2006 C
+== eorzea 1
+    9791035506544 [] Final fantasy XIV Académie Éozéa || Pixel | Mana books DL 2025  
+== beast 11
+    9791041120659 ['7'] Beast king and medicinal herb || Doki-doki | Bamboo édition 2026 
+    9791041121250 ['1'] Beast King and Medicinal Herb || Bamb. Doki Doki | Bamboo édition 2026 
+    9791041119516 ['6'] Beast king and medicinal herb || Doki-doki  | Bamboo édition 2026 
+    9791041115907 ['5', '5'] Beast king and medicinal herb || Doki-doki || Beast king and medicinal herb | Bamboo édition DL 2026 
+    9791041114412 ['4', '4'] Beast king and medicinal herb || Doki-doki || Beast king and medicinal herb | Bamboo édition DL 2025  
+    9791041111060 ['1', '1'] Beast king and medicinal herb || Doki-doki || Beast king and medicinal herb | Bamboo édition DL 2025  
+    9791041111305 ['2', '2'] Beast king and medicinal herb || Doki-doki || Beast king and medicinal herb oeuvre originale, Tatsukazu Konda | Bamboo édition DL 2025  
+    9791041112845 ['3', '3'] Beast king and medicinal herb || Doki-doki || Beast king and medicinal herb oeuvre originale, Tatsukazu Konda | Bamboo édition DL 2025  
+    2709804905 [] Les plantes médicinales encyclopédie pratique | Sélection du Reader's digest 1 
+    0851989543 [] Medicinal, essential oil, culinary herb and pesticidal plants of the labiatae, 1973-1993 a bibliography compil | CAB International 1994 
+    089054395X [] Conspectus of world ethnomycology fungi in ceremonies, crafts, diets, medicines, and myths | American phytopathological soc 
+== kaam 14
+    9782203085053 ['9', '9'] Les renforts maléfiques || Kaamelott || Kaamelott | Casterman DL 2020 Impr. Pollin 
+    9782203061927 ['7', '7'] Contre-attaque en Carmélide || Kaamelott || Kaamelott | Casterman impr. 2013 
+    2203370157 ['1', '1'] L'armée du Nécromant || Kaamelott || Kaamelott | Casterman DL 2006 
+    9782203015623 ['3', '3'] L'énigme du coffre || Kaamelott || Kaamelott | Casterman DL 2008 
+    9782203063716 ['8', '8'] L'antre du basilic || Kaamelott || Kaamelott | Casterman DL 2018 Impr. Pollin 
+    9782203024816 [] Perceval et le dragon d'airain || Kaamelott || Kaamelott | Casterman M6 éd. impr. 2009 
+    9782203008175 ['2', '2'] Les sièges de transport || Kaamelott || Kaamelott | Casterman DL 2007 
+    9782298177022 ['1', '1'] L'armée du Nécromant || Kaamelott || Kaamelott | FL éditions DL 2022 Impr. Poll 
+    9782203012882 ['3', '3'] L'énigme du coffre || Kaamelott || Kaamelott | Casterman DL 2008 
+    9782203038271 ['6', '6'] Le duel des mages || Kaamelott || Kaamelott | Casterman impr. 2011 
+    9782203008113 ['2', '2'] Les sièges de transport || Kaamelott || Kaamelott | Casterman DL 2007 
+    9782203370166 ['1', '1'] L'armée du Nécromant || Kaamelott || Kaamelott | Casterman DL 2006 
+    9782203024809 ['4', '4'] Perceval et le dragon d'airain || Kaamelott || Kaamelott | Casterman impr. 2009 
+    9782203034877 ['5', '5'] Le serpent géant du lac de l'ombre || Kaamelott || Kaamelott | Casterman impr. 2009 
+== blacksad 34
+    2205059254 ['3', '3'] Blacksad Ame rouge || Blacksad | Dargaud 2006 
+    9788467914252 ['[5]', '5'] Blacksad Amarillo || Blacksad | Norma 2014 
+    220505564X ['3', '3'] Blacksad Ame rouge || Blacksad | Dargaud 2005 
+    9782205073980 [] Blacksad l'intégrale | Dargaud DL 2014 
+    9782205071801 ['5', '5'] Amarillo || Blacksad. || Blacksad. | Dargaud DL 2013 
+    9788484317326 ['[2]', '2'] Blacksad Arctic-Nation || Blacksad | Norma 2014 
+    9788498144222 ['[3]', '3'] Blacksad Alma roja || Blacksad | Norma 2014 
+    9788467980165 ['[6]', '6', '6'] Blacksad Todo cae || Blacksad || Blacksad guión, Juan Díaz Canales | Norma editorial 2025 
+    9788467903010 ['[4]', '4', '4'] Blacksad El infierno, el silencio || Blacksad || Blacksad | Norma 2014 
+    2205056654 ['2', '2'] Artic-nation || Blacksad || Blacksad | Dargaud 2005 
+    2205051997 ['2', '2'] Arctic-Nation || Blacksad. || Blacksad. | Dargaud 2003 
+    9782298041507 [] Quelque part entre les ombres || Blacksad || Blacksad | Éd. France loisirs DL 2011 
+    9782205074284 [] Blacksad les dessous de l'enquête... | Dargaud 2015 
+    9782205063134 ['4', '4'] L'enfer, le silence || Blacksad. || Blacksad. | Dargaud DL 2010 
+    2205049658 ['1', '1'] Quelque part entre les ombres || Blacksad. || Blacksad. | Dargaud 2000 
+    9788484312451 ['[1]', '1'] Blacksad Un lugar entre las sombras || Blacksad | Norma 2014 
+    9782205213300 ['3', '3'] Âme rouge || Blacksad || Blacksad | Dargaud DL 2025 Impr. PPO grap 
+    9782205213294 ['2', '2'] Arctic-nation || Blacksad || Blacksad | Dargaud DL 2025 Impr. PPO grap 
+    9782205085334 ['Seconde partie', '7', '7'] Alors, tout tombe || Blacksad. || Blacksad. | Dargaud DL 2023 Impr. PPO grap 
+    9782205078046 ['Première partie', '6', '6'] Alors, tout tombe || Blacksad. || Blacksad. | Dargaud DL 2021 Impr. PPO grap 
+    9782205202212 [] Weekly || Blacksad stories || Blacksad stories scénario, Díaz Canales | Dargaud DL 2025 Impr. PPO grap 
+    2916328017 [] L'atelier de Juanjo Guarnido Blacksad Âme rouge || L'atelier de | Orphelins du monde DL 2005 
+    9782205213324 ['5'] Blacksad Amarillo |  
+    9782205213287 ['1', '1'] Quelque part entre les ombres || Blacksad || Blacksad | Dargaud DL 2025 Impr. PPO grap 
+    9782205088175 [] Les ombres de John Blacksad | Dargaud DL 2020  
+    9782205066425 ['Tome 2', '2'] Blacksad l'histoire des aquarelles Díaz Canales, Guarnido || Blacksad | Dargaud cop. 2010 
+    9782205213980 [] Blacksad alors, tout tombe |  
+    220505810X [] Blacksad l'histoire des aquarelles Díaz Canales, Guarnido || Blacksad | C. Desbois Dargaud cop. 2005 
+    9782205213317 [] Blacksad l'enfer, le silence |  
+    220505290X [] Blacksad les dessous de l'enquête | Imbroglio 2001 
+    9782205076196 [] Blacksad l'histoire des aquarelles Díaz Canales, Guarnido | Dargaud DL 2016 
+    9782205215328 [] Weekly || Blacksad stories || Blacksad stories scénario, Juan Díaz Canales | Dargaud DL 2025 Impr. PPO grap 
+    9788467904857 [] Blacksad | Norma 2014 
+    9782844786968 [] Le chat dans la bande dessinée de Félix à Blacksad, un siècle d'espièglerie féline dans le petit monde du IXe  | Cheminements DL 2008 
+== litteul 37
+    9782803627653 ['9', '9', '9'] Litteul Kevin || Litteul Kevin || Litteul Kévin | Le Lombard 2010 
+    9782803629695 ['10', '10'] Litteul Kévin || Litteul Kévin | le Lombard DL 2013 
+    9782352079842 ['Tome 1', '1'] Litteul Kévin || Litteul Kévin | "Fluide glacial" DL 2018  
+    9782378781590 ['Tome 4', '4'] Litteul Kévin || Litteul Kévin | "Fluide glacial" DL 2019  
+    9782803625727 ['8', '8'] Litteul Kévin || Litteul Kévin | le Lombard DL 2009 
+    9782352072058 ['6', '6'] Litteul Kévin || Litteul Kévin | Audie-"Fluide glacial" DL 2014 
+    9782352071167 ['3', '3'] Litteul Kévin || Litteul Kévin | Audie-"Fluide glacial" DL 2013 
+    9782352071150 ['2', '2'] Litteul Kévin || Litteul Kévin | Audie-"Fluide glacial" DL 2013 
+    9782352071143 ['1', '1'] Litteul Kévin || Litteul Kévin | Audie-"Fluide glacial" DL 2013 
+    9782352071174 ['4', '4'] Litteul Kévin || Litteul Kévin | Audie-"Fluide glacial" DL 2014 
+    9782352072065 ['7', '7'] Litteul Kévin || Litteul Kévin | Audie-"Fluide glacial" DL 2014 
+    9782352072041 ['5', '5'] Litteul Kévin || Litteul Kévin | Audie-"Fluide glacial" DL 2014 
+    9782803629701 ['10', '10'] Litteul Kévin || Litteul Kévin | Audie-"Fluide glacial" DL 2014 
+    9782378780432 ['Vol. 2', '2'] Litteul Kévin intégrale || Litteul Kévin | "Fluide glacial" DL 2018  
+    9782352079118 ['Vol. 1', '1'] Litteul Kévin intégrale || Litteul Kévin | "Fluide glacial" DL 2017 
+    9782858150151 ['2', '2'] Litteul Kévin || Litteul Kévin | Fluide glacial-Audie 2007 
+    9782858150175 ['3', '3'] Litteul Kévin || Litteul Kévin | Fluide glacial-Audie 2007 
+    9782858150182 ['4', '4'] Litteul Kévin || Litteul Kévin | Fluide glacial-Audie 2007 
+    9782858150236 ['5', '5'] Litteul Kévin || Litteul Kévin | Fluide glacial-Audie 2007 
+    9782352073628 [] Litteul Kevin intégrale | Audie-"Fluide glacial" DL 2014 
+    9782803627813 ['9', '9'] Litteul Kévin || Litteul Kévin | le Lombard DL 2011 
+    2858154821 ['4', '4'] Litteul Kévin || Litteul Kévin | Audie-"Fluide glacial" DL 2006 
+    285815483X ['5', '5'] Litteul Kévin || Litteul Kévin | Audie-"Fluide glacial" DL 2006 
+    2858151792 ['[1]'] Litteul Kévin || Fluide glacial || Litteul Kévin. | Audie 1993 
+    9782378781101 ['Tome 7', '7'] Litteul Kévin || Litteul Kévin | Audie-"Fluide glacial" DL 2020 
+    285815189X ['02', '2'] Litteul Kévin || Fluide glacial || Litteul Kévin. | Audie 1994 
+    9782352075691 [] Litteul Kévin 3 | Éditions Audie-"Fluide glacial 
+    2858152047 ['03', '3'] Litteul Kévin || Les albums 'Fluide glacial" || Litteul Kévin. | Ed. Audie 1995 
+    2858152160 ['4', '4'] Litteul Kévin || Les albums "Fluide glacial" || Litteul Kévin. | Audie 1996 
+    2858152535 ['5', '5'] Litteul Kévin || Les albums "Fluide glacial" || Litteul Kévin. | Éd. Audie 1998 
+    285815371X ['7', '7'] Litteul Kévin || Les albums "Fluide glacial" || Litteul Kévin. | Audie 2003 
+    2858152888 ['6', '6'] Litteul Kévin || Les albums "Fluide glacial" || Litteul Kévin. | Éd. Audie 2000 
+    2277332763 ['1', '276', '1'] Litteul Kévin || J'ai lu || Litteul Kévin. | J'ai lu 1995 
+    2277332895 ['2', '289', '2'] Litteul Kévin || J'ai lu BD || Litteul Kévin. | Éd. J'ai lu 1996 
+    9791038204591 [] Litteul Kévin l'intégrale | "Fluide glacial" DL 2022  
+    9782803630233 [] Coyote &amp; Litteul Kévin | le Lombard DL 2011 
+    9791038208032 [] Litteul Kévin || Les albums cultes | "Fluide glacial" DL 2025 Impr. 
+== trois 4
+    9782330070748 ['1', '1'] Le problème à trois corps roman || Exofictions || Le problème à trois corps | Actes Sud DL 2016 
+    9782330082314 [] La forêt sombre roman || Le problème à trois corps || Exofictions || Le problème à trois corps | Actes Sud DL 2017 Normandie ro 
+    9782330113841 [] La mort immortelle roman || Le problème à trois corps || Exofictions || Le problème à trois corps | Actes Sud DL 2018 Normandie ro 
+    9782330113551 ['1', '1579', '1'] Le problème à trois corps roman || Babel || Le problème à trois corps | Actes Sud DL 2018 Normandie ro 
+== valette 26
+    9782955071908 [] Il était une fois un 26e président | Association littéraire Idem éd 
+    9782413024712 [] L'héritage fossile | Éditions Delcourt DL 2024  
+    9782756064956 ['2', '2'] Mi-homme Michel || Georges Clooney || Tapas :-* || Georges Clooney | Delcourt DL 2014 
+    9782756041513 [] Georges Clooney une histoire vrai [sic] || Tapas :-* || Georges Clooney | Delcourt impr. 2013 
+    9782756079332 [] Jean Doux et le mystère de la disquette molle || Tapas | Éditions Delcourt DL 2017 
+    9791092769319 ['Chapitre 1'] Les trois provinces L'émergence du Tzarit | Phb productions [DL 2019] Yseu 
+    2914632290 [] Sur la terre suivi de Petit Math ! | Éd. Des figures &amp; des lieu 
+    2912589169 ['15'] La personne mise en cause en matière pénale || Collection des thèses de l'École doctorale de Clermont-Ferrand | Presses universitaires de la F 
+    9782955122006 [] Le temps de faire environ trente fois le tour du soleil | JPV éditions 2015 
+    2915753458 [] Mon village récit || Les classiques de la campagne | Éd. ACVAM DL 2007 
+    9782271119209 [] Géohistoire de l'environnement et des paysages | CNRS éditions DL 2019 Impr. Jo 
+    9782271135407 ['8142'] Les climats une géohistoire || La Documentation photographique (Paris. 1949) | CNRS Éditions 2021 
+    9782810712717 [] Géohistoire des zones humides trajectoires d'artificialisation et de conservation || Paysage &amp; environneme | Presses universitaires du Midi 
+    9782380463736 [] Seul l'affaire Romand | Petit à petit DL 2025  
+    9791091031981 [] Pré-entendre les harmonies avant de les jouer développer son oreille musicale et sa créativité par l'harmonie  | Planète partitions C 2020 Impr 
+    2911873149 [] Vivre en pays toulonnais au XVIIe siècle || Temps mémoire | Éd. Autres temps 1997 
+    9782841567959 [] Paysages de l'Aveyron portraits et enjeux | Éd. du Rouergue impr. 2007 
+    9782380461619 [] La traque l'affaire Dupont de Ligonnès | Petit à petit DL 2023  
+    2110867361 [] Intégration régionale et ajustement stucturel en Afrique sub-saharienne || Études et documents | Ministère de la coopération et 
+    2130464882 [] L'Afrique des incertitudes || Collection Tiers-monde | Presses universitaires de Fran 
+    9782380461404 [] Terres d'accueil deux familles, deux parcours, un espoir | Petit à petit DL 2022  
+    9782849262412 [] Fables pour baryton &amp; piano | les Éditions buissonnières 201 
+    9782849262009 [] Fables pour soprano (ou ténor) &amp; piano | les Éditions buissonnières 201 
+    9782849262436 [] Fables pour clarinette &amp; piano | les Éditions buissonnières 201 
+    9782849262429 [] Fables pour violon &amp; piano | les Éditions buissonnières 201 
+    9780719091407 [] Hincmar of Rheims life and work [international medieval congress, Leeds, 2012] | Manchester University  Press 2 
+== fabcaro 71
+    9782413039099 [] Open bar || Pataquès | Delcourt impr. 2020  
+    9782413025030 ['2e tournée', '2'] Open bar || Pataquès || Open bar | Delcourt DL 2020  
+    9782352121640 [] Moon river | 6 Pieds sous terre éditions 20 
+    9782847740240 [] Steak it easy | la Cafetière DL 2016 
+    9782847740233 [] ParapléJack | la Cafetière DL 2014 
+    9782352120216 ['22'] La Bredoute || Lépidoptère | 6 pieds sous terre éd. cop. 20 
+    9782352121428 [] La clôture || Monotrème | 6 pieds sous terre éditions im 
+    9782847740257 [] Pause || Corazón | la Cafetière DL 2017 
+    9782957662920 [] Laxa'tifs || BDàP | Pneumatiques Rouquemoute DL 20 
+    9791090425880 ['3'] Talk show || Alimentation générale | Vide cocagne DL 2017 
+    9782352120476 [] La clôture || Monotrème | 6 pieds sous terre impr. 2009 
+    9782352121596 [] Et si l'amour c'était aimer ? || Monotrème | 6 pieds sous terre éditions im 
+    9782352121206 [] La Bredoute parce que tout le monde est différent de chacun hiver-printemps 2016 et même beaucoup plus || Mono | 6 pieds sous terre éditions im 
+    9782352121213 [] - 20 % sur l'esprit de la forêt || Monotrème | 6 pieds sous terre éditions co 
+    9782820700896 [] Jours de gloire | Alter Comics 2013 
+    9782847740189 [] L'album de l'année | la Cafetière impr. 2011 
+    9782847740127 [] Droit dans le mûr || Corazón | la Cafetière impr. 2007 
+    9782955702765 [] La formidable épopée de Steve Lumour | Expé éditions DL 2021  
+    9791090425637 [] Talk show || Alimentation générale | Vide cocagne DL 2015 
+    9782847740226 [] On n'est pas là pour réussir | la Cafetière impr. 2012 
+    2847740090 [] Talijanska || Corazón | la Cafetière impr. 2006 
+    2847740066 [] Le steak haché de Damoclès || Corazón | la Cafetière impr. 2005 
+    9782352121510 [] Formica une tragédie en trois actes || Monotrème | 6 pieds sous terre éditions im 
+    9782847740165 [] Like a steak machine || Corazón | la Cafetière impr. 2009 
+    9782352120773 [] - 20 % sur l'esprit de la forêt || Monotrème | 6 pieds sous terre impr. 2011 
+    9782352121350 [] Et si l'amour c'était aimer ? || Monotrème | 6 pieds sous terre éditions im 
+    9782344028667 [] Jean-Louis || Glénaaarg ! | Glénat DL 2018  
+    9782918645412 [] L'infiniment moyen | Éditions Même pas mal DL 2017 
+    9782413077855 [] Talk show || Pataquès | Éditions Delcourt DL 2023 
+    9782352121039 [] Carnet du Pérou sur la route de Guzco || Monotrème mini | 6 pieds sous terre éd. impr. 2 
+    9782413008033 ['1re tournée', '1'] Open bar || Pataquès || Open bar | Delcourt DL 2019  
+    9782344025796 [] Moins qu'hier, plus que demain || Glénaaarg ! | Éditions Glénat C 2018  
+    9782918645054 [] L'infiniment moyen || Condylomes | Éd. Même pas mal impr. 2011 
+    9782352121169 [] Zaï zaï zaï zaï un road-movie || Monotrème mini | 6 pieds sous terre impr. 2015 
+    9782803628827 [] L'art de la winne || Steve Lumour || Steve Lumour | le Lombard DL 2011 
+    9782413022497 [] Hey June || Pataquès | Éditions Delcourt DL 2020  
+    9782378780807 [] Mars ! un petit pas pour l'homme, une belle entorse pour l'humanité | "Fluide glacial" DL 2018  
+    9782352073598 [] Mars ! | "Fluide glacial" DL 2014 
+    9791034738991 ['2', '2'] Un cow-boy dans la ville || Walter Appleduck || Walter Appleduck | Dupuis DL 2020 Impr. PPO graph 
+    9791034736850 ['1', '1'] Cow-boy stagiaire || Walter Appleduck || Walter Appleduck | Dupuis DL 2019  
+    2849071633 [] Fernandel || BD voices | Nocturne impr. 2006 
+    9782205070019 ['2', '2'] La loi du marché || Z comme don Diego || Z comme don Diego | Dargaud DL 2012 
+    9782205069419 ['1', '1'] Coup de foudre à l'hacienda || Z comme don Diego || Z comme don Diego | Dargaud DL 2012 
+    9782205076318 [] Z comme Don Diego | Dargaud DL 2016 
+    9782808511971 [] À la poursuite du trésor de Décalécátan par le biais d'aventures riches tant en suspense qu'en rebondissements | Dupuis DL 2025  
+    9791096708598 [] CONversations | Éditions Rouquemoute DL 2021 I 
+    9782205203103 ['Volume 2', '2'] Zéropédia tout sur tout (et réciproquement) || Zéropédia | Dargaud DL 2022  
+    9791096708215 [] CONversations | Éditions Rouquemoute DL 2018 I 
+    9782205077759 ['Volume 1', '1'] Zéropédia tout sur tout (et réciproquement) || Zéropédia | Dargaud DL 2018  
+    9782352075486 [] Amour, passion &amp; CX diesel intégrale | "Fluide glacial" DL 2017 
+    9782858158324 ['Saison 3', '3'] Amour, passion &amp; CX diesel || Amour, passion &amp; CX diesel | "Fluide glacial" DL 2014 
+    9782352071037 [] Amour, passion &amp; CX diesel | Audie-"Fluide glacial" DL 2011 
+    9782352071983 ['Saison 2', '2'] Amour, passion &amp; CX diesel || Amour, passion &amp; CX diesel | Audie-"Fluide glacial" DL 2012 
+    9782021483840 [] Guacamole vaudou | Éditions du Seuil DL 2022 Impr 
+    9782847740318 [] Fabcaro, premiers pas deux récits des débuts, "Grenoble" suivi de "Débat" | la Cafetière la Cité internati 
+    9782352076773 ['1', '1'] Gai-Luron sent que tout lui échappe || Les nouvelles aventures de Gai-Luron || Les nouvelles aventures de Gai- | "Fluide glacial" DL 2016 
+    9791096708208 [] Down with the kids | Éditions Rouquemoute DL 2018 I 
+    9782874425547 [] Comment se débarrasser des cons au boulot ? | Jungle 2008 
+    2874422460 [] Les Parisiens || Les Parisiens | Jungle [Casterman] DL 2006 
+    9782874424700 ['2', '2'] Les Parisiens || Les Parisiens | Jungle [Casterman] DL 2007 
+    9782205074130 ['2', '2'] Achille Talon a su rester simple || Les impétueuses tribulations d'Achille Talon || Les impétueuses tribulatio | Dargaud DL 2015 
+    9782205075564 ['3', '3'] Achille Talon est proche du peuple || Les impétueuses tribulations d'Achille Talon || Les impétueuses tribulat | Dargaud DL 2017 
+    9782205072761 ['1', '1'] Achille Talon est un homme moderne || Les impétueuses tribulations d'Achille Talon || Les impétueuses tribulat | Dargaud DL 2014 
+    9782874424366 ['1', '1'] Apprenti reporter || Philippe Candeloro || Philippe Candeloro | Jungle DL 2007 
+    2874420921 ['2', '2'] J'suis choooquée... || Les annonces en BD || Les annonces en BD | Jungle DL 2005 
+    2874420174 ['1', '1'] Si tu es blonde... || Les annonces en BD || Les annonces en BD | Jungle 2004 
+    9782017253716 [] Astérix en Lusitanie || Astérix || Astérix | Hachette livre DL 2025  
+    9782017253006 [] L'iris blanc || Astérix || Astérix | Hachette DL 2023  
+    9782017253013 [] L'iris blanc une aventure d'Astérix [l'artbook] | Hachette DL 2023  
+    9782014001334 ['40', '40'] L'iris blanc || Une aventure d'Astérix || Une aventure d'Astérix. | Hachette DL 2023  
+    9782017253709 ['41'] Astérix en Lusitanie || Une aventure d'Astérix | les Éditions Albert René DL 20 
+== pulsions 1
+    9782226438331 [] Pulsions un spectacle graphique || #AM | Albin Michel DL 2019 Impr. Pol 
+== marsault 50
+    2841091031 [] Au rire des femmes | le Temps des cerises 1999 
+    2209058643 [] Écrits de femmes [en prose et en poésie, de l' Antiquité à nos jours] | Messidor 1987 
+    2906225169 [] Comme des jongleurs insensibles les psychanalystes allemands et la montée du nazisme || Histoire psychanalytiq | Frénésie Éd. 1988 
+    9782358722636 [] Faire justice moralisme progressiste et pratiques punitives dans la lutte contre les violences sexistes | la Fabrique éditions DL 2023 C 
+    9791091447621 [] Sans filtre l'intégrale des deux albums || Pulp | Éditions Ring DL 2017 
+    9782384220380 [] Sans filtre | Magnus DL 2024  
+    9782384220014 ['#5', '5'] Ça va bien s'passer || Breum || Breum | Magnus DL 2022 
+    9782384220298 ['#1', '1'] Attention, ça va piquer || Breum || Breum | Magnus DL 2023  
+    9782384220304 ['#2', '2'] Blindage et liberté || Breum || Breum | Magnus DL 2023  
+    9791091447706 [] Dernière pute avant la fin du monde || Pulp | Éditions Ring DL 2017  
+    9782384220328 ['#4', '4'] Sur ta mère comme au ciel || Breum || Breum | Magnus DL 2023  
+    9791091447522 ['1', '1'] Attention, ça va piquer || Breum || Pulp || Breum | Éditions Ring DL 2016 
+    9782379340055 ['#4', '4'] Sur ta mère comme au ciel || Breum || Pulp || Breum | Éditions Ring DL 2020  
+    9791091447539 ['2', '2'] Blindage et liberté || Breum || Pulp || Breum | Éditions Ring DL 2016 
+    9782384220311 ['#3', '3'] C'est pas la taille qui compte || Breum || Breum | Magnus DL 2023  
+    9791091447836 ['3', '3'] C'est pas la taille qui compte || Breum || Pulp || Breum | Éditions Ring DL 2018  
+    9791091447805 [] Asphalte || Pulp | Éditions Ring DL 2018  
+    9782130575061 [] Socio-histoire de l'éducation physique et sportive || Quadrige | PUF 2009 
+    2866013425 [] Compression et cryptage en informatique || Traité des nouvelles technologies | Hermès 1992 
+    2866014820 [] Compression et cryptage des données multimédias || Traité des nouvelles technologies | Hermès 1995 
+    9782332888884 [] Soleil de profil | Édilivre DL 2015 
+    9782490722198 [] Que dit le Christ ? | les Éditions Semer DL 2020  
+    9791091447614 [] Deux poids deux mesures || Pulp | Éditions Ring DL 2017 
+    9798867787974 ['[2]'] J'apprends les maths avec Vic et Louise et Moji apprendre à lire l'heure || Vic et Louise et Moji || Vic et Lo | Magali Marsault DL 2023 
+    9798866877416 ['[1]'] J'apprends le français avec Vic et Louise et Moji passé, présent, futur || Vic et Louise et Moji || Vic et Lou | Magali Marsault 2023 
+    9782384220625 [] Dino brutal age | Magnus DL 2024  
+    9791091447744 ['1', '1'] Enculés, va ! || FDP de la mode || Pulp || FDP de la mode | Éditions Ring DL 2018  
+    9791091447911 [] L'ultime croisade || FDP de la mode || Pulp || FDP de la mode | Éditions Ring DL 2019  
+    9782343236841 [] La psychose en résidence hébergement et psychothérapie || Psycho-logiques | l'Harmattan impr. 2021 Impr. C 
+    9791094442067 ['5'] Foin || Numéro complémentaire | Super loto éditions impr. 2015 
+    9782384220052 [] Macadam | Magnus DL 2022 Impr. CPI Bussi 
+    9782384220274 [] Expérience de mort imminente | Magnus DL 2023  
+    2845612206 [] La Compagnie des tramways départementaux des Deux-Sèvres | Geste éd. DL 2005 
+    9782358723152 [] La violence en spectacle féminisme, état punitif et figure de la victime | La Fabrique Editions DL 2026 I 
+    9782955342701 [] Il pleut dans mon cul | Trace DL 2015 
+    9791041527199 [] Entière ou La résilience de l'être | Florence Marsault 2024 
+    2867671965 [] Estrans et provins poèmes || Guilde des lettres | Institut académique de Paris 1 
+    9782840663829 [] Résistance à l'effacement || Bibliothèque art action pensée | les Presses du réel DL 2010 
+    9791091447720 [] L'inavouable histoire de France || Pulp | Éditions Ring DL 2017 Impr. CP 
+    9782758103578 ['56'] Un cirque pour la vie || Lecture en tête | SEDRAP jeunesse impr. 2007 
+    9782343030319 [] Santé et EPS un prétexte, des réalités [actes du colloque, 29-30 mars 2012, Strasbourg] || Espaces et temps du | l'Harmattan DL 2014 
+    2257104754 [] Imagerie du système nerveux l'encéphale || Imagerie médicale | Flammarion 1986 
+    2257124758 [] Imagerie du système nerveux l'encéphale || Imagerie médicale | Flammarion médecine-sciences 1 
+    2912533104 [] Tony Garnier, 1869-1948, architecte et urbaniste | Conseil d'architecture, d'urba 
+    2951618670 [] Le pasteur Pierre Peiret &amp; Jean Latourrette en Amérique | Centre d'étude du protestantis 
+    2249276676 [] La Gravure en taille-douce paroles de graveurs | Dessain et Tolra 1985 
+    2110847387 ['Document n° 5', '5'] Dossier pilote des tunnels Environnement || Dossier pilote des tunnels | Centre d'études des tunnels 19 
+    9782737118449 [] Équipements et services quels enjeux urbains ? actes de la table ronde du 26 janvier 2012 | IAU Île-de-France 2012 
+    2279512262 [] Le Marché grec du chocolat et de la confiserie || Dossiers de la D.P.A. Série " Produits-pays " | C.F.C.E. 1983. 
+    2110847395 [] Architecture des têtes de tunnels | [Centre d'études des tunnels]  
+== bataclan 2
+    9782373440812 [] Mon Bataclan | Lemieux éditeur DL 2016 
+    9791026249542 [] CaroAnge mon bataclan à moi et tous les jours d'après en mémoire de toi | Librinova 2020 
+== alcide 44
+    9782377544240 [] Pluie Alcide || Strip Club | Éditions Lapin 2026  
+    8887534640 [] Caro Alcide Degasperi Alcide Amedeo Francesco storia di un italiano | Ed. Curcu &amp; Genovese impr. 
+    2878550145 [] Pièces de clavecin tirées d'Alcide (1693) | L'Oiseau-Lyre cop. 2005 
+    9788838255250 ['13'] Alcide De Gasperi rivoluzione riforme libertà || Degasperiana | Edizioni Studium 2025 
+    9788849821796 ['volume II', '2', '2'] Alcide De Gasperi Dal fascismo alla democrazia, 1943-1947 || Alcide De Gasperi || SuperSaggi || Alcide De Gasp | Rubbettino impr. 2009 
+    9782490997176 [] Alcide Rousseau chasseur de primes | les Éditions d'Arenberg DL 202 
+    9782845618657 [] Alcide, le maître du temps | Geste éd. impr. 2011 
+    9783487156958 ['3', '3, 3'] Alceste ou Le triomphe d'Alcide || Oeuvres complètes || Oeuvres complètes / Jean-Baptiste Lully | G. Olms 2019 
+    8879781162 [] Alcide De Gasperi la sua parola | Reverdito impr. 2004 
+    2747535592 [] Alcide Dessalines d'Orbigny 1802-1857 | l'Harmattan 2002 
+    9791254695074 [] I fratelli Cervi la storia e la memoria || Collana dell'Istituto Alcide Cervi | Viella 2024 
+    9788849821796 ['volume I', '1', '1'] Alcide De Gasperi Dal Trentino all'esilio in patria, 1881-1943 || Alcide De Gasperi || SuperSaggi || Alcide De | Rubbettino impr. 2009 
+    9791254697702 ['8'] L'Italia dei Cervi, l'Italia del Cervi || Collana dell'Istituto Alcide Cervi | Viella 2024 
+    9788833138930 ['3'] Il soffio dello Spirito cattolici nelle Resistenze europee || Collana dell'Istituto Alcide Cervi | Viella 2022 
+    9783487156941 ['3', '3, 3'] Alceste ou Le triomphe d'Alcide tragédie || Oeuvres complètes || Oeuvres complètes / Jean-Baptiste Lully | G. Olms 2018 
+    9782377544103 [] Dessins sous Alcide || Strip club | Éditions Lapin impr. 2024  
+    284327074X [] Lettres d'Amérique d'Alcide d'Orbigny | Rumeur des âges 2002 
+    9788849821796 ['volume III', '3', '3'] Alcide De Gasperi Dalla costruzione della democrazia alla nostra patria Europa, 1948-1954 || Alcide De Gasperi | Rubbettino impr. 2009 
+    9788838254697 ['4'] Terra non guerra Alcide De Gasperi, il Mezzogiorno e la "questione agraria" || Degaspariana | Studium 2025 
+    9782807601314 ['vol. 103'] Alcide De Gasperi European founding father || Euroclio | Peter Lang 2017 
+    8849807074 [] Alcide De Gasperi cristiano, democratico, europeo || SuperSaggi | Rubbettino impr. 2003 
+    9782377545520 [] Trempette dans l'Alcide || Strip club | Éditions Lapin impr. 2025  
+    9782957482825 [] Louis et Alcide Ducos du Hauron éléments biographiques | Les Amis de Louis Ducos du Hau 
+    8815113533 ['vol. 1', 'vol. 1'] Alcide De Gasperi nel Trentino asburgico || Scritti e discorsi politici || Scritti e discorsi politici / Alcid | Il Mulino 2006 
+    9791254690192 ['5'] Esodo e ritorno i contadini italiani dalla grande trasformazione a oggi || Collana dell'Istituto Alcide Cervi | Viella 2022 
+    9788833134550 ['1'] Il paesaggio violentato le due guerre mondiali, le persone, la natura || Collana dell'Istituto Alcide Cervi | Viella 2020 
+    9782849265215 ['[Acte] I, [scène] 3'] Orlando Non fu gia men forte Alcide | les Éditions buissonnières 202 
+    2715217862 [] Alcide || Le mercure galant | Mercure de France 1993 
+    9782849338919 [] Alcide le bourreau || Les contes interdits || Les contes interdits | Éditions Contre-dires DL 2024  
+    9788815275080 [] Diario 1930-1943 | il Mulino C 2018 
+    2901376150 [] La Chanson de l'amibe (précédé de) Lettre à Alcide (et de) La Musique de l'amibe | Éditions Plasma 1976 
+    8872832128 [] Gli anni del Pacchetto | Raetia 2004 
+    9782322607273 [] The Alcide Mother Fuckers Rock'n'Roll Râles er Révoltes | BoD - Books on Demand 2025 
+    2909383032 [] Images-discours entretiens [avec Alain-Alcide Sudre et Rose Lowder] | AFEA éd. impr. 2006 
+    2092610295 [] Alcide d'Orbigny du Nouveau monde au passé du monde | Museum d'histoire naturelle Na 
+    2753500711 [] Alcide d'Orbigny entre Europe et Amérique textes et contextes d'une oeuvre actes du colloque qui s'est tenu à  | Presses Universitaires de Renn 
+    9791095901082 [] Correspondance du poète Alcide Mara et du peintre Jean-Marie Queneau | Au crayon qui tue éditeur impr 
+    2203110295 [] Allô Alcide || Je commence à lire | Casterman 1988 
+    9788834354261 [] Mio padre, Alcide Maria Romana De Gasperi || Pagine prime | Vita e Pensiero 2023 
+    9791254692950 ['6'] Il paesaggio agrario italiano sessant'anni di trasformazioni da Emilio Sereni a oggi (1961-2021) || Collana de | Viella 2023 
+    2850040096 [] Voyage en Alcidie à la découverte d'Alcide d'Orbigny  (1802-1857) | Boubée 1977 
+    9782860140898 [] Lisieux en transparence les photographies d'Alcide Goupil la reconstruction, 1945-1953 | Direction des Archives du Calv 
+    9788815120854 ['Volume II', 'vol. 2', 'vol. 2'] Scritti e discorsi politici edizione critica Alcide De Gasperi dal Partito popolare italiano all'esilio intern | Il Mulino IMPR. 2007 
+    9782491344078 [] Alcide Dusolier, 1836-1918, et la République || Collection Histoire &amp; mémoires | Éditions Secrets de pays DL 20 
+== jose 5
+    2842706102 [] Le petit José 16 chroniques satiriques sur les coulisses de l'OM | Mango sport impr. 2006 
+    9782759601844 [] José Maria Sert le Titan à l'oeuvre, 1874-1945 [exposition, Paris], 8 mars-5 août 2012, Petit Palais-Musée des | Paris-musées Petit Palais, Mus 
+    9782953942699 [] Marie-José Morgat-Petit, Terre vivante [exposition], du 17 janvier au 23 février 2014, Issoire, salles Jean-Hé | [Ville d'Issoire] [ca 2014] 
+    9782487557093 ['4'] Toca aiçí, Niculin ! adaptation monégasque de "Embrassons-nous, Folleville" de E. Labiche, illustrations de Jo | Éditions EGC Monaco 2026 Multi 
+    9789802446858 [] 1810 Dios, patria y libertad memoria de las X Jornadas de Historia y Religión | Fundación Konrad Adenauer Univ 
+== fables 63
+    9791026818625 ['Volume 9', '9'] Fables || Collection Vertigo essentiels || Fables | Urban comics 2020 
+    9791026815983 ['Livre 7', '7'] Fables || Collection Vertigo essentiels || Fables | Urban comics DL 2019  
+    9791026816041 ['Livre 8', '8'] Fables || Collection Vertigo essentiels || Fables | Urban comics DL 2019  
+    9791026813910 ['Livre 1', '1'] Fables || Collection Vertigo essentiels || Fables | Urban comics DL 2018  
+    9791026816133 ['Livre 5', '5'] Fables || Collection Vertigo essentiels || Fables | Urban comics DL 2019  
+    9791026815778 ['Livre 6', '6'] Fables || Collection Vertigo essentiels || Fables | Urban comics DL 2019  
+    9791026818267 ['Livre 4', '4'] Fables || Collection Vertigo essentiels || Fables | Urban comics DL 2018  
+    9791026814252 ['Livre 3', '3'] Fables || Collection Vertigo essentiels || Fables | Urban comics DL 2018  
+    9791026813927 ['Livre 2', '2'] Fables || Collection Vertigo essentiels || Fables | Urban comics DL 2018  
+    9782365770255 ['1', '1'] Légendes en exil || Fables || Collection Vertigo classiques || Fables | Urban comics impr. 2012 
+    9791026828822 ['[Volume 7]', '7'] Fables || Urban comics nomad || Fables / scénario, Bill Willingham | Urban comics 2024  
+    9791026823599 ['[Volume 9]', '9'] Fables || Urban comics nomad || Fables / scénario, Bill Willingham | Urban comics 2025  
+    9791026828075 ['[Volume 2]', '2'] Fables || Urban comics nomad || Fables / scénario, Bill Willingham | Urban comics DL 2022  
+    9791026825661 ['Volume 4'] Fables || Nomad | Urban comics DL 2023 
+    9791026821182 ['[Volume 8]', '8'] Fables || Urban comics nomad || Fables / scénario, Bill Willingham | Urban comics DL 2025  
+    9791026820260 ['[Volume 3]', '3'] Fables || Urban comics nomad || Fables / scénario, Bill Willingham | Urban comics DL 2023  
+    9791026829072 ['[Volume 6]', '6'] Fables || Urban comics nomad || Fables / scénario, Bill Willingham | Urban comics DL 2024  
+    9791026826156 ['[Volume 1]', '1'] Fables || Urban comics nomad || Fables / scénario, Bill Willingham | Urban comics DL 2022  
+    9782365770637 ['16', '16'] La grande alliance || Fables || Collection Vertigo classiques || Fables | Urban comics impr. 2012 
+    9791026817376 ['Livre II', '2'] Jack of Fables || Collection Vertigo essentiels || Jack of Fables | Urban comics 2020  
+    9791026817048 ['Livre I', '1'] Jack of Fables || Collection Vertigo essentiels || Jack of Fables | Urban comics 2019  
+    9791026829706 ['Livre III', '3'] Jack of Fables || Collection Vertigo essentiels || Jack of Fables | Urban comics DL 2021  
+    9791026815440 ['Volume 2', '2'] Fables the wolf among us || Urban games || Fables | Urban comics DL 2018  
+    9791026825821 ['Volume 5'] Fables || Urban comics nomad | Urban comics DL 2023 
+    9791026818878 ['Livre 10', '10'] Fables || Collection Vertigo essentiels || Fables | Urban comics 2020  
+    9782365774079 ['15', '15'] Sorcières || Fables || Collection Vertigo classiques || Fables | Urban comics impr. 2014 
+    9782365776424 ['21', '21'] Camelot || Fables || Collection Vertigo classiques || Fables | Urban comics DL 2015 
+    9782365772112 ['7', '7'] Les royaumes || Fables || Collection Vertigo classiques || Fables | Urban comics impr. 2013 
+    9782365771009 ['6', '6'] Cruelles saisons || Fables || Collection Vertigo classiques || Fables | Urban comics impr. 2012 
+    9782365770644 ['3', '3'] Romance || Fables || Collection Vertigo classiques || Fables | Urban comics impr. 2012 
+    9782365774468 ['tome 23', '23'] Camelot || Fables || Collection Vertigo classiques || Fables | Urban comics DL 2014 
+    9782365778145 ['tome 25', '25'] Adieu || Fables || Collection Vertigo classiques || Fables | Urban comics DL 2016 
+    9782365773805 ['14', '14'] La grande alliance || Fables || Collection Vertigo classiques || Fables | Urban comics impr. 2014 
+    9782365778121 ['tome 25', '25'] Adieu || Fables || Collection Vertigo classiques || Fables | Urban comics DL 2016 
+    9782365771016 ['tome 17', '17'] Sorcières || Fables || Collection Vertigo classiques || Fables | Urban comics impr. 2012 
+    9782365772471 ['9', '9'] Les loups || Fables || Collection Vertigo classiques || Fables | Urban comics impr. 2013 
+    9782365774444 ['17', '17'] Super team || Fables || Collection Vertigo classiques || Fables | Urban comics impr. 2014 
+    9791026815228 ['Volume 1', '1'] Fables the wolf among us || Urban games || Fables | Urban comics DL 2018  
+    9782365776417 ['20', '20'] Blanche Neige || Fables || Collection Vertigo classiques || Fables | Urban comics DL 2015 
+    9782365772105 ['18', '18'] Rose rouge || Fables || Collection Vertigo classiques || Fables | Urban comics impr. 2013 
+    9782365778183 [] "Fables" les couvertures || Urban books | Urban comics DL 2016 
+    9782365774086 ['tome 16', '16'] Rose Rouge || Fables || Collection Vertigo classiques || Fables | Urban comics impr. 2014 
+    9782365774093 ['tome 22', '22'] Blanche Neige || Fables || Collection Vertigo classiques || Fables | Urban comics impr. 2014 
+    9782365772464 ['tome 19', '19'] Super team || Fables || Collection Vertigo classiques || Fables | Urban comics impr. 2013 
+    9782365770262 ['2', '2'] La ferme des animaux || Fables || Collection Vertigo classiques || Fables | Urban comics impr. 2012 
+    9782365772808 ['11', '11'] Le bon prince || Fables || Collection Vertigo classiques || Fables | Urban comics impr. 2013 
+    9782365770651 ['4', '4'] Le dernier bastion || Fables || Collection Vertigo classiques || Fables | Urban comics impr. 2012 
+    9791026828341 ['11', '11'] La forêt noire || Fables || Collection Vertigo essentiels || Fables scénario, Bill Willingham | Urban comics 2024  
+    9782365774451 ['118', '18'] L'héritier du vent || Fables || Collection Vertigo classiques || Fables | Urban comics DL 2014 
+    9782365772815 ['12', '12'] La guerre des nerfs || Fables || Collection Vertigo classiques || Fables | Urban comics impr. 2013 
+    9782365775755 ['19', '19'] Au pays des jouets || Fables || Collection Vertigo classiques || Fables | Urban comics DL 2015 
+    9782365773799 ['13', '13'] L'âge des ténèbres || Fables || Collection Vertigo classiques || Fables | Urban comics impr. 2014 
+    9782365772129 ['8', '8'] Les mille et une nuits (et jours) || Fables || Collection Vertigo classiques || Fables | Urban comics impr. 2013 
+    9782374082714 [] Les fabuleuses fables du bois de Burrow | Little urban DL 2021  
+    9782365770248 ['tome 15', '15'] L'âge des ténèbres || Fables || Collection Vertigo classiques || Fables | Urban comics impr. 2012 
+    9782365772457 ['10', '10'] Les fils de l'Empire || Fables || Collection Vertigo classiques || Fables | Urban comics impr. 2013 
+    9782365772822 ['tome 20', '20'] L'héritier du vent || Fables || Collection Vertigo classiques || Fables | Urban comics impr. 2013 
+    9782365773812 ['tome 21', '21'] Au pays des jouets || Fables || Collection Vertigo classiques || Fables | Urban comics impr. 2014 
+    9782365777025 ['tome 24', '24'] Et ils vécurent heureux || Fables || Collection Vertigo classiques || Fables | Urban comics DL 2015 
+    9782365777032 ['tome 22', '22'] Et ils vécurent heureux || Fables || Collection Vertigo classiques || Fables | Urban comics DL 2015 
+    9782365770996 ['5', '5'] La marche des soldats de bois || Fables || Collection Vertigo classiques || Fables | Urban comics impr. 2012 
+    9782365773126 [] 1001 nuits de neige || Fables || Collection Vertigo classiques || Fables | Urban comics impr. 2013 
+    9782365770613 ['tome 6', '6'] Le grand livre de la guerre || Jack of Fables || Collection Vertigo classiques || Jack of Fables | Urban comics impr. 2012 
+== wolf 3
+    9791026815440 ['Volume 2', '2'] Fables the wolf among us || Urban games || Fables | Urban comics DL 2018  
+    9791026815228 ['Volume 1', '1'] Fables the wolf among us || Urban games || Fables | Urban comics DL 2018  
+    9780814776469 [] The study of children in religions a methods handbook | New York University Press c201 
+== sikc 14
+    9782381330143 ['3', '3'] The game of nothing || Something is killing the children || Urban link || Something is killing the children | Urban comics DL 2021 Impr. de  
+    9791026829317 ['tome 4', '4'] Me and my monster || Something is killing the children || Urban indies || Something is killing the children | Urban comics DL 2022  
+    9791026823872 ['tome 5', '5'] The road to Tribulation || Something is killing the children || Urban indies || Something is killing the child | Urban comics DL 2023  
+    9791026816546 ['tome 2', '2'] The house of slaughter || Something is killing the children || Urban indies || Something is killing the childr | Urban comics DL 2022  
+    9791026828563 ['tome 3', '3'] The game of nothing || Something is killing the children || Urban indies || Something is killing the children | Urban comics DL 2022  
+    9791026820161 ['tome 7', '7'] Showdown at the easy creek corral || Something is killing the children || Urban indies || Something is killing | Urban comics DL 2024 Impr. SEP 
+    9791026829744 ['tome 1', '1'] The angel of Archer's Peak || Something is killing the children || Urban indies || Something is killing the ch | Urban comics DL 2022  
+    9782381330112 ['1', '1'] Archer's Peak || Something is killing the children || Urban link || Something is killing the children | Urban comics DL 2020 Impr. Cha 
+    9782381330136 ['2', '2'] The house of slaughter || Something is killing the children || Urban link || Something is killing the children | Urban comics DL 2021 
+    9791026826552 ['tome 8', '8'] Road stories || Something is killing the children || Urban indies || Something is killing the children | Urban comics DL 2025  
+    9791026814689 ['Tome 6'] Something is killing the children The girl and the hurricane || Urban indies | Urban comics 2023 
+    9780385527163 [] Every man in this village is a liar an education in war | Doubleday c2010 
+    1852247509 [] Straight ahead | Bloodaxe books 2006 
+    9780374227012 [] Once in the West [poems] | Farrar, Straus and Giroux 2014 
+== nice 9
+    9791026828020 ['Première partie', '1'] The nice house by the sea || The nice house by the sea | Urban 2025 Impr. Pollina 
+    9791026827887 ['Tome un', '1'] The nice house on the lake || The nice house on the lake | Urban DL 2023 Impr. de Champag 
+    9791026825029 ['Tome deux', '2'] The nice house on the lake || DC black label || The nice house on the lake | Urban 2023 Impr. de Champagne 
+    9791026827085 [] The nice house on the lake intégrale || DC black label | Urban comics DL 2023 
+    9782354130756 [] Cinq souris sans logis || Cinq souris || Un livre d'images Minedition || Cinq souris | Minedition DL 2009 
+    9781591843634 [] All the devils are here the hidden history of the financial crisis | Portfolio/Penguin 2010 
+    9781776560660 [] Selected poems | Victoria university press 2016 
+    9780190248031 [] Mormon feminism essential writings | Oxford university press cop. 2 
+    9781315168364 [] Broadway and economics economic lessons from show tunes || Routledge economics and popular culture series | Routledge C 2018 
+== imposter 2
+    9791026829133 [] Batman imposter || Collection DC black label | Urban comics 2024  
+    9791026820673 [] Batman imposter || Collection DC black label | Urban comics DL 2022  
+== lis 6
+    9791026827429 ['Intégrale 1', '1'] Life is strange || Urban blast || Life is strange | Urban comics 2024  
+    9791026826927 ['Intégrale 2', '2'] Life is strange || Urban blast || Life is strange | Urban comics 2024  
+    9791026820581 ['3', '3'] Les cordes sensibles || Life is strange || Urban games || Life is strange | Urban comics DL 2021  
+    9791026818502 ['1', '1'] L'effet papillon || Life is stange || Urban games || Life is strange | Urban comics DL 2019  
+    9791026822691 ['2', '2'] Le bruit des vagues || Life is stange || Urban games || Life is strange | Urban comics 2020  
+    9791026818113 [] Bienvenue à Blackwell Academy Bienvenue à Arcadia Bay le guide étudiant de la ville et ses environs || Urban g | Urban comics 2019  
+== rick 1
+    9782378870270 [] Les aventures de M. Boîte à caca || Rick &amp; Morty || Rick &amp; Morty | Hi comics DL 2019  
+== picsou 4
+    9782344004777 [] La jeunesse de Piscou | Glénat DL 2014 
+    9782017054641 [] La bande à Picsou Mes coloriages de heros - Picsou [Album à colorier] || [Recueil. Album à colorier. Hachette  | Hachette-livre, collection Dis 
+    9782723491655 ['1', 'tome 1', '1'] La jeunesse de Piscou intégrale Don Rosa || La grande épopée de Picsou || Collection Disney intégrale || La gr | Glénat impr. 2013 
+    9782723494939 ['2', 'tome 2', '2'] La jeunesse de Piscou intégrale Don Rosa || La grande épopée de Picsou || Collection Disney intégrale || La gr | Glénat impr. 2013 
