@@ -15,7 +15,7 @@ for(const [vid,list] of Object.entries(isb)){
    if(r.s===200&&/image/.test(r.t)&&r.b.length>2500){fs.writeFileSync(`img/${vid}.jpg`,r.b);log[vid]={i,src:'google',len:r.b.length};break;}
  }
 }
-// extra BnF lookups
+fs.writeFileSync('dl.json',JSON.stringify({log},null,0)); process.exit(0);
 const Q={trois:'bib.title all "trois corps" and bib.publisher all "hachette"',dix:'bib.author all "christie" and bib.publisher all "paquet"',sikc:'bib.title all "something is killing the children" and bib.date all "2025 2026"'};
 const ex={};
 for(const [k,q] of Object.entries(Q)){ const x=await (await fetch(`https://catalogue.bnf.fr/api/SRU?version=1.2&operation=searchRetrieve&query=${encodeURIComponent(q)}&recordSchema=dublincore&maximumRecords=50`)).text();
