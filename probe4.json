@@ -1,0 +1,631 @@
+[
+ {
+  "u": "https://books.google.com/books/content?vid=ISBN9791042021030&printsec=frontcover&img=1&zoom=1",
+  "s": 200,
+  "t": "image/jpeg",
+  "len": 10794,
+  "final": "https://books.google.com/books/content?vid=ISBN9791042021030&printsec=frontcover&img=1&zoom=1"
+ },
+ {
+  "u": "https://books.google.com/books/content?vid=ISBN9791042021030&printsec=frontcover&img=1&zoom=0",
+  "s": 200,
+  "t": "image/png",
+  "len": 9103,
+  "final": "https://books.google.com/books/content?vid=ISBN9791042021030&printsec=frontcover&img=1&zoom=0"
+ },
+ {
+  "u": "https://products-images.di-static.com/image/x/9791042021030-475x500-1.jpg",
+  "s": 200,
+  "t": "image/jpeg",
+  "len": 53134,
+  "final": "https://products-images.di-static.com/image/x/9791042021030-475x500-1.jpg"
+ },
+ {
+  "u": "https://images.leslibraires.fr/books/9791042021030.jpg",
+  "s": "ERR fetch failed",
+  "len": 0
+ },
+ {
+  "u": "https://m.media-amazon.com/images/P/9791042021030.01.L.jpg",
+  "s": 200,
+  "t": "image/gif",
+  "len": 43,
+  "final": "https://m.media-amazon.com/images/P/9791042021030.01.L.jpg"
+ },
+ {
+  "u": "https://www.placedeslibraires.fr/Couvertures/9791042021030.jpg",
+  "s": 403,
+  "t": "text/html; charset=UTF-8",
+  "len": 5810,
+  "final": "https://www.placedeslibraires.fr/Couvertures/9791042021030.jpg"
+ },
+ {
+  "u": "https://images.isbndb.com/covers/10/30/9791042021030.jpg",
+  "s": 403,
+  "t": "text/plain",
+  "len": 9,
+  "final": "https://images.isbndb.com/covers/10/30/9791042021030.jpg"
+ },
+ {
+  "u": "https://www.babelio.com/couv/9791042021030.jpg",
+  "s": "ERR fetch failed",
+  "len": 0
+ },
+ {
+  "u": "https://static.wixstatic.com/x",
+  "s": 403,
+  "t": "text/plain",
+  "len": 9,
+  "final": "https://static.wixstatic.com/x"
+ },
+ {
+  "u": "https://www.lalibrairie.com/cache/img/livres/9791042021030.jpg",
+  "s": 429,
+  "t": "text/html",
+  "len": 696,
+  "final": "https://www.lalibrairie.com/cache/img/livres/9791042021030.jpg"
+ },
+ {
+  "u": "https://covers.openlibrary.org/b/isbn/9791042021030-L.jpg?default=false",
+  "s": 404,
+  "t": null,
+  "len": 0,
+  "final": "https://covers.openlibrary.org/b/isbn/9791042021030-L.jpg?default=false"
+ },
+ {
+  "u": "https://books.google.com/books/content?vid=ISBN9782845387421&printsec=frontcover&img=1&zoom=1",
+  "s": 200,
+  "t": "image/png",
+  "len": 1269,
+  "final": "https://books.google.com/books/content?vid=ISBN9782845387421&printsec=frontcover&img=1&zoom=1"
+ },
+ {
+  "u": "https://books.google.com/books/content?vid=ISBN9782845387421&printsec=frontcover&img=1&zoom=0",
+  "s": 200,
+  "t": "image/png",
+  "len": 9103,
+  "final": "https://books.google.com/books/content?vid=ISBN9782845387421&printsec=frontcover&img=1&zoom=0"
+ },
+ {
+  "u": "https://products-images.di-static.com/image/x/9782845387421-475x500-1.jpg",
+  "s": 403,
+  "t": "application/xml",
+  "len": 111,
+  "final": "https://products-images.di-static.com/image/x/9782845387421-475x500-1.jpg"
+ },
+ {
+  "u": "https://images.leslibraires.fr/books/9782845387421.jpg",
+  "s": "ERR fetch failed",
+  "len": 0
+ },
+ {
+  "u": "https://m.media-amazon.com/images/P/9782845387421.01.L.jpg",
+  "s": 200,
+  "t": "image/gif",
+  "len": 43,
+  "final": "https://m.media-amazon.com/images/P/9782845387421.01.L.jpg"
+ },
+ {
+  "u": "https://www.placedeslibraires.fr/Couvertures/9782845387421.jpg",
+  "s": 403,
+  "t": "text/html; charset=UTF-8",
+  "len": 5810,
+  "final": "https://www.placedeslibraires.fr/Couvertures/9782845387421.jpg"
+ },
+ {
+  "u": "https://images.isbndb.com/covers/74/21/9782845387421.jpg",
+  "s": 403,
+  "t": "text/plain",
+  "len": 9,
+  "final": "https://images.isbndb.com/covers/74/21/9782845387421.jpg"
+ },
+ {
+  "u": "https://www.babelio.com/couv/9782845387421.jpg",
+  "s": "ERR fetch failed",
+  "len": 0
+ },
+ {
+  "u": "https://static.wixstatic.com/x",
+  "s": 403,
+  "t": "text/plain",
+  "len": 9,
+  "final": "https://static.wixstatic.com/x"
+ },
+ {
+  "u": "https://www.lalibrairie.com/cache/img/livres/9782845387421.jpg",
+  "s": 429,
+  "t": "text/html",
+  "len": 696,
+  "final": "https://www.lalibrairie.com/cache/img/livres/9782845387421.jpg"
+ },
+ {
+  "u": "https://covers.openlibrary.org/b/isbn/9782845387421-L.jpg?default=false",
+  "s": 404,
+  "t": null,
+  "len": 0,
+  "final": "https://covers.openlibrary.org/b/isbn/9782845387421-L.jpg?default=false"
+ },
+ {
+  "u": "https://books.google.com/books/content?vid=ISBN9782723442273&printsec=frontcover&img=1&zoom=1",
+  "s": 200,
+  "t": "image/png",
+  "len": 1269,
+  "final": "https://books.google.com/books/content?vid=ISBN9782723442273&printsec=frontcover&img=1&zoom=1"
+ },
+ {
+  "u": "https://books.google.com/books/content?vid=ISBN9782723442273&printsec=frontcover&img=1&zoom=0",
+  "s": 200,
+  "t": "image/png",
+  "len": 9103,
+  "final": "https://books.google.com/books/content?vid=ISBN9782723442273&printsec=frontcover&img=1&zoom=0"
+ },
+ {
+  "u": "https://products-images.di-static.com/image/x/9782723442273-475x500-1.jpg",
+  "s": 403,
+  "t": "application/xml",
+  "len": 111,
+  "final": "https://products-images.di-static.com/image/x/9782723442273-475x500-1.jpg"
+ },
+ {
+  "u": "https://images.leslibraires.fr/books/9782723442273.jpg",
+  "s": "ERR fetch failed",
+  "len": 0
+ },
+ {
+  "u": "https://m.media-amazon.com/images/P/9782723442273.01.L.jpg",
+  "s": 200,
+  "t": "image/gif",
+  "len": 43,
+  "final": "https://m.media-amazon.com/images/P/9782723442273.01.L.jpg"
+ },
+ {
+  "u": "https://www.placedeslibraires.fr/Couvertures/9782723442273.jpg",
+  "s": 403,
+  "t": "text/html; charset=UTF-8",
+  "len": 5810,
+  "final": "https://www.placedeslibraires.fr/Couvertures/9782723442273.jpg"
+ },
+ {
+  "u": "https://images.isbndb.com/covers/22/73/9782723442273.jpg",
+  "s": 403,
+  "t": "text/plain",
+  "len": 9,
+  "final": "https://images.isbndb.com/covers/22/73/9782723442273.jpg"
+ },
+ {
+  "u": "https://www.babelio.com/couv/9782723442273.jpg",
+  "s": "ERR fetch failed",
+  "len": 0
+ },
+ {
+  "u": "https://static.wixstatic.com/x",
+  "s": 403,
+  "t": "text/plain",
+  "len": 9,
+  "final": "https://static.wixstatic.com/x"
+ },
+ {
+  "u": "https://www.lalibrairie.com/cache/img/livres/9782723442273.jpg",
+  "s": 429,
+  "t": "text/html",
+  "len": 696,
+  "final": "https://www.lalibrairie.com/cache/img/livres/9782723442273.jpg"
+ },
+ {
+  "u": "https://covers.openlibrary.org/b/isbn/9782723442273-L.jpg?default=false",
+  "s": 404,
+  "t": null,
+  "len": 0,
+  "final": "https://covers.openlibrary.org/b/isbn/9782723442273-L.jpg?default=false"
+ },
+ {
+  "q": "bib.title all \"beck\" and bib.publisher all \"delcourt\"",
+  "recs": [
+   [
+    "Beck. 1 / Harold Sakuishi ; [trad. et adapté du japonais par Sae Cibot]",
+    "2847894519",
+    "Delcourt-Akata (Paris)"
+   ],
+   [
+    "Beck. 9 / scénario et dessins Harold Sakuishi",
+    "2847899553",
+    "Delcourt (Paris)"
+   ],
+   [
+    "Beck. 2 / Harold Sakuishi ; [trad. et adapté du japonais par Sae Cibot]",
+    "2847894667",
+    "Delcourt-Akata (Paris)"
+   ],
+   [
+    "Beck. 3 / Harold Sakuishi ; [trad. et adapté du japonais par Sae Cibot]",
+    "2847895620",
+    "Delcourt-Akata (Paris)"
+   ],
+   [
+    "Beck / Harold Sakuishi",
+    null,
+    "Delcourt-Akata (Paris)"
+   ],
+   [
+    "Beck. 15 / Dessins et scénario Harold Sakuishi ; Traduction de Yuko K.",
+    "2756001805",
+    "Delcourt (Paris)"
+   ],
+   [
+    "Beck : Mongolian chop squad (Perfect ed.) Harold Sakuishi",
+    null,
+    "Delcourt-Tonkam (Paris)"
+   ],
+   [
+    "Beck. 4 / Harold Sakuishi",
+    "2847896899",
+    "Delcourt (Paris)"
+   ],
+   [
+    "Beck. 14 / Harold Sakuishi ; [traduit du japonais par Yuko K.] ; [adapté par Olivier Vachey]",
+    "2756001791",
+    "Delcourt (Paris)"
+   ],
+   [
+    "Beck. 12 / Harold Sakuishi ; [traduit et adapté du japonais par Élodie Lepelletier]",
+    "2756001775",
+    "Delcourt-Akata (Paris)"
+   ],
+   [
+    "Beck. 13 / Harold Sakuishi ; [traduit du japonais par Yuko K.] ; [adapté par Olivier Vachey]",
+    "2756001783",
+    "Delcourt-Akata (Paris)"
+   ],
+   [
+    "Beck. 10 / Harold Sakuishi ; [traduit et adapté du japonais par Élodie Lepelletier]",
+    "2756000744",
+    "Delcourt-Akata (Paris)"
+   ],
+   [
+    "Beck. 11 / Harold Sakuishi ; [traduit et adapté du japonais par Élodie Lepelletier]",
+    "2756001511",
+    "Delcourt-Akata (Paris)"
+   ],
+   [
+    "Beck. 5 / Harold Sakuishi ; [trad. et adapté du japonais par Élodie Lepelletier]",
+    "2847896244",
+    "Delcourt-Akata (Paris)"
+   ],
+   [
+    "Beck. 21 / Harold Sakuishi",
+    "9782756007229",
+    "Delcourt-Akata (Paris)"
+   ],
+   [
+    "Beck. 25 / Harold Sakuishi",
+    "9782756007267",
+    "Delcourt-Akata (Paris)"
+   ],
+   [
+    "Beck. 27 / Harold Sakuishi",
+    "9782756014937",
+    "Delcourt-Akata (Paris)"
+   ],
+   [
+    "Beck. 28 / Harold Sakuishi",
+    "9782756015835",
+    "Delcourt-Akata (Paris)"
+   ],
+   [
+    "Beck. 26 / Harold Sakuishi",
+    "9782756007274",
+    "Delcourt-Akata (Paris)"
+   ],
+   [
+    "Beck. 29 / Harold Sakuishi",
+    "9782756016856",
+    "Delcourt-Akata (Paris)"
+   ],
+   [
+    "Beck. 23 / Harold Sakuishi",
+    "9782756007243",
+    "Delcourt-Akata (Paris)"
+   ],
+   [
+    "Beck. 24 / Harold Sakuishi",
+    "9782756007250",
+    "Delcourt-Akata (Paris)"
+   ],
+   [
+    "Beck. 15 / Harold Sakuishi ; [traduit du japonais par Yuko K.] ; [adapté par Olivier Vachey]",
+    "9782756001807",
+    "Delcourt-Akata (Paris)"
+   ],
+   [
+    "Beck. 22 / Harold Sakuishi ; [traduit du japonais par Yuko K.] ; [adapté par Olivier Vachey]",
+    "9782756007236",
+    "Delcourt-Akata (Paris)"
+   ],
+   [
+    "Beck. 20 / Harold Sakuishi ; [traduit du japonais par Yuko K.] ; [adapté par Olivier Vachey]",
+    "9782756007212",
+    "Delcourt-Akata (Paris)"
+   ],
+   [
+    "Beck. 18 / Harold Sakuishi ; [traduit du japonais par Yuko K.] ; [adapté par Olivier Vachey]",
+    "9782756007199",
+    "Delcourt-Akata (Paris)"
+   ],
+   [
+    "Beck. 19 / Harold Sakuishi ; [traduit du japonais par Yuko K.] ; [adapté par Olivier Vachey]",
+    "9782756007205",
+    "Delcourt-Akata (Paris)"
+   ],
+   [
+    "Beck. 17 / Harold Sakuishi ; [traduit du japonais par Yuko K.] ; [adapté par Olivier Vachey]",
+    "9782756007182",
+    "Delcourt-Akata (Paris)"
+   ],
+   [
+    "Beck. 16 / Harold Sakuishi ; [traduit du japonais par Yuko K.] ; [adapté par Olivier Vachey]",
+    "9782756001814",
+    "Delcourt-Akata (Paris)"
+   ],
+   [
+    "Beck. 4 / Harold Sakuishi ; [trad. et adapté du japonais par Élodie Lepelletier]",
+    "2847896236",
+    "Delcourt-Akata (Paris)"
+   ],
+   [
+    "Beck. 8 / Harold Sakuishi ; [traduit et adapté du japonais par Élodie Lepelletier]",
+    "284789912X",
+    "Delcourt-Akata (Paris)"
+   ],
+   [
+    "Beck. 6 / Harold Sakuishi ; [traduit et adapté du japonais par Élodie Lepelletier]",
+    "2847897828",
+    "Delcourt-Akata (Paris)"
+   ],
+   [
+    "Beck. 7 / Harold Sakuishi ; [traduit et adapté du japonais par Élodie Lepelletier]",
+    "2847898093",
+    "Delcourt-Akata (Paris)"
+   ],
+   [
+    "Beck. 32 / Harold Sakuishi",
+    "9782756016887",
+    "Delcourt-Akata (Paris)"
+   ],
+   [
+    "Beck. 31 / Harold Sakuishi",
+    "9782756016870",
+    "Delcourt-Akata (Paris)"
+   ],
+   [
+    "Beck. 33 / Harold Sakuishi",
+    "9782756019277",
+    "Delcourt-Akata (Paris)"
+   ],
+   [
+    "Beck. 30 / Harold Sakuishi",
+    "9782756016863",
+    "Delcourt-Akata (Paris)"
+   ],
+   [
+    "Beck. 34 / Harold Sakuishi",
+    "9782756019284",
+    "Delcourt-Akata (Paris)"
+   ],
+   [
+    "Beck : Mongolian chop squad. 13 (Perfect ed.) Harold Sakuishi",
+    "9782413076322",
+    "Delcourt-Tonkam (Paris)"
+   ],
+   [
+    "Beck : Mongolian chop squad. 12 (Perfect ed.) Harold Sakuishi",
+    "9782413076315",
+    "Delcourt-Tonkam (Paris)"
+   ],
+   [
+    "Beck : Mongolian chop squad. 11 (Perfect ed.) Harold Sakuishi",
+    "9782413076292",
+    "Delcourt-Tonkam (Paris)"
+   ],
+   [
+    "Beck : Mongolian chop squad. 2 (Perfect ed.) Harold Sakuishi",
+    "9782413043263",
+    "Delcourt-Tonkam (Paris)"
+   ],
+   [
+    "Beck : Mongolian chop squad. 3 (Perfect ed.) Harold Sakuishi",
+    "9782413043270",
+    "Delcourt-Tonkam (Paris)"
+   ],
+   [
+    "Beck : Mongolian chop squad. 4 (Perfect ed.) Harold Sakuishi",
+    "9782413043287",
+    "Delcourt-Tonkam (Paris)"
+   ],
+   [
+    "Beck : Mongolian chop squad. 1 (Perfect ed.) Harold Sakuishi",
+    "9782413043256",
+    "Delcourt-Tonkam (Paris)"
+   ],
+   [
+    "Beck : Mongolian chop squad. 5 (Perfect ed.) Harold Sakuishi",
+    "9782413043294",
+    "Delcourt-Tonkam (Paris)"
+   ],
+   [
+    "Beck : Mongolian chop squad. 8 (Perfect ed.) Harold Sakuishi",
+    "9782413043324",
+    "Delcourt-Tonkam (Paris)"
+   ],
+   [
+    "Beck : Mongolian chop squad. 6 (Perfect ed.) Harold Sakuishi",
+    "9782413043300",
+    "Delcourt-Tonkam (Paris)"
+   ],
+   [
+    "Beck : Mongolian chop squad. 9 (Perfect ed.) Harold Sakuishi",
+    "9782413043331",
+    "Delcourt-Tonkam (Paris)"
+   ],
+   [
+    "Beck : Mongolian chop squad. 7 (Perfect ed.) Harold Sakuishi",
+    "9782413043317",
+    "Delcourt-Tonkam (Paris)"
+   ]
+  ]
+ },
+ {
+  "q": "bib.title all \"kaamelott\" and bib.publisher all \"casterman\"",
+  "recs": [
+   [
+    "Kaamelott / scénario, Alexandre Astier ; dessin, Steven Dupré...",
+    null,
+    "Casterman (Bruxelles)"
+   ],
+   [
+    "Kaamelott / scénario, Alexandre Astier ; dessin, Steven Dupré",
+    null,
+    "Casterman (Bruxelles)"
+   ],
+   [
+    "Kaamelott (Éd. collector) scénario, Alexandre Astier ; dessin, Steven Dupré...",
+    null,
+    "Casterman (Bruxelles)"
+   ],
+   [
+    "Les renforts maléfiques / scénario, Alexandre Astier ; dessin, Steven Dupré ; couleurs, Roberto Burgazzoli",
+    "9782203085053",
+    "Casterman (Bruxelles)"
+   ],
+   [
+    "Contre-attaque en Carmélide / scénario, Alexandre Astier ; dessin, Steven Dupré ; couleurs, Picksel",
+    "9782203061927",
+    "Casterman (Paris)"
+   ],
+   [
+    "Le duel des mages / scénario, Alexandre Astier ; dessin, Steven Dupré ; couleurs, Benoît Bekaert",
+    "9782203038271",
+    "Casterman (Paris)"
+   ],
+   [
+    "L'antre du basilic / scénario, Alexandre Astier ; dessin, Steven Dupré ; couleurs, Picksel",
+    "9782203063716",
+    "Casterman (Paris)"
+   ],
+   [
+    "L'énigme du coffre / scénario, Alexandre Astier ; dessin, Steven Dupré ; couleurs, Benoît Bekaert",
+    "9782203012882",
+    "Casterman (Bruxelles)"
+   ],
+   [
+    "L'énigme du coffre / scénario, Alexandre Astier ; dessin, Steven Dupré",
+    "9782203015623",
+    "Casterman (Bruxelles)"
+   ],
+   [
+    "Les sièges de transport / scénario, Alexandre Astier ; dessin, Steven Dupré...",
+    "9782203008175",
+    "Casterman (Bruxelles)"
+   ],
+   [
+    "Perceval et le dragon d'airain / scénario, Alexandre Astier ; dessin, Steven Dupré ; couleurs, Benoît Bekaert",
+    "9782203024809",
+    "Casterman (Bruxelles)"
+   ],
+   [
+    "Les sièges de transport (Éd. collector) scénario, Alexandre Astier ; dessin, Steven Dupré...",
+    "9782203008113",
+    "Casterman (Bruxelles)"
+   ],
+   [
+    "L'armée du Nécromant (Éd. collector) scénario, Alexandre Astier ; dessin, Steven Dupré...",
+    "9782203370166",
+    "Casterman (Bruxelles)"
+   ],
+   [
+    "L'armée du Nécromant / scénario, Alexandre Astier ; dessin, Steven Dupré...",
+    "2203370157",
+    "Casterman (Bruxelles)"
+   ],
+   [
+    "Perceval et le dragon d'airain / scénario, Alexandre Astier ; dessin, Steven Dupré",
+    "9782203024816",
+    "Casterman (Bruxelles)"
+   ],
+   [
+    "Le serpent géant du lac de l'ombre / scénario, Alexandre Astier ; dessin, Steven Dupré ; couleurs, Benoît Bekaert",
+    "9782203034877",
+    "Casterman (Bruxelles)"
+   ]
+  ]
+ },
+ {
+  "q": "bib.title all \"mashle\" and bib.publisher all \"kaze\"",
+  "recs": [
+   [
+    "Mashle / Hajime Komoto",
+    null,
+    "Kazé (Paris)"
+   ],
+   [
+    "Mashle / Hajime Komoto",
+    null,
+    "Kazé (Paris)"
+   ],
+   [
+    "Mash Burnedead et le miroir magique / Hajime Komoto",
+    "9782820343000",
+    "Kazé (Paris)"
+   ],
+   [
+    "Mash Burnedead et le sorcier masqué / Hajime Komoto",
+    "9782820340979",
+    "Kazé (Paris)"
+   ],
+   [
+    "Mash Burnedead et le tennis dévastateur / Hajime Komoto",
+    "9782820343468",
+    "Kazé (Paris)"
+   ],
+   [
+    "Mash Burnedead et la magie de fer / Hajime Komoto",
+    "9782820340818",
+    "Kazé (Paris)"
+   ],
+   [
+    "Mash Burnedead et ses muscles d'enfer / Hajime Komoto",
+    "9782820340801",
+    "Kazé (Paris)"
+   ],
+   [
+    "Mash Burnedead et l'armure d'aimants / Hajime Komoto",
+    "9782820343833",
+    "Kazé (Paris)"
+   ],
+   [
+    "Mash Burnedead et la loi du plus fort / Hajime Komoto",
+    "9782820341136",
+    "Kazé (Paris)"
+   ],
+   [
+    "Finn Ames et l'importance de l'amitié / Hajime Komoto",
+    "9782820341273",
+    "Kazé (Paris)"
+   ],
+   [
+    "Mash Burnedead et les quatre anneaux de diamant / Hajime Komoto",
+    "9782820343543",
+    "Kazé (Paris)"
+   ],
+   [
+    "Mash Burnedead et le tournoi des trois académies / Hajime Komoto",
+    "9782820343734",
+    "Kazé (Paris)"
+   ],
+   [
+    "Mashle. Tomes 1 à 3 / Hajime Komoto",
+    "9782820343239",
+    "Kazé (Paris)"
+   ]
+  ]
+ }
+]
