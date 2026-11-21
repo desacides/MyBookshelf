@@ -1,0 +1,18 @@
+name: run
+on:
+  push:
+    branches: [covers]
+permissions:
+  contents: write
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 20 }
+      - run: node $(cat SCRIPT)
+      - run: |
+          git config user.name "Claude"; git config user.email "noreply@anthropic.com"
+          git add -A; git commit -m "Résultat $(cat SCRIPT)" || true; git push
