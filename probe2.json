@@ -1,0 +1,44 @@
+[
+ {
+  "name": "bnf",
+  "status": 200,
+  "type": "text/xml;charset=UTF-8",
+  "len": 8678,
+  "head": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><srw:searchRetrieveResponse xmlns:srw=\"http://www.loc.gov/zing/srw/\" xmlns=\"http://catalogue.bnf.fr/namespaces/InterXMarc\" xmlns:ixm=\"http://catalogue.bnf.fr/namespaces/InterXMarc\" xmlns:mn=\"http://catalogue.bnf.fr/namespaces/motsnotices\" xmlns:sd=\"http://www.loc.gov/zing/srw/diagnostic/\">\n<srw:version>1.2</srw:version>\n<srw:echoedSearchRetrieveRequest>\n<srw:version>1.2</srw:version>\n<srw:query>bib.title all \"spy family\" and bib.publisher all \"kurokawa\"</srw:query>\n</srw:echoedSearchRetrieveRequest>\n<srw:numberOfRecords>25</srw:numberOfRecords>\n<srw:records>\n<srw:record>\n<srw:recordSchema>dc</srw:recordSchema>\n<srw:recordPacking>xml</srw:recordPacking>\n<srw:recordData>\n<oai_dc:dc xmlns:oai_dc=\"http://www.openarchives.org/OAI/2.0/oai_dc/\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd\">   <dc:identifier>http://catalogue.bnf.fr/ark:/12148/cb48763073z</dc:identifier>   <dc:title>Spy x Family - Tome 16</dc:title>   <dc:creator>Endo, Tatsuya (Auteur du texte)</dc:creator>   <dc:creator>Fujimoto, Satoko (Traducteur)</dc:creator>   <dc:creator>Bougon-Bastide, Nathalie (Traducteur)</dc:creator>   <dc:publisher>Kurokawa (Paris)</dc:publisher>   <dc:date>2026</dc:date>   <dc:description>Collection : Spy X Family</dc:description>   <dc:identifier>ISBN 9791042021030</dc:identifier>   <dc:des"
+ },
+ {
+  "name": "amz10",
+  "status": 200,
+  "type": "image/gif",
+  "len": 43,
+  "head": ""
+ },
+ {
+  "name": "amz10b",
+  "status": 200,
+  "type": "image/gif",
+  "len": 43,
+  "head": ""
+ },
+ {
+  "name": "olcov",
+  "status": 404,
+  "type": null,
+  "len": 0,
+  "head": ""
+ },
+ {
+  "name": "mnimg",
+  "status": 403,
+  "type": "text/html; charset=iso-8859-1",
+  "len": 239,
+  "head": ""
+ },
+ {
+  "name": "bdimg",
+  "status": 404,
+  "type": "text/html; charset=iso-8859-1",
+  "len": 280,
+  "head": ""
+ }
+]
