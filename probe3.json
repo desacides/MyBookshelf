@@ -1,18 +1,233 @@
 [
  {
-  "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><srw:searchRetrieveResponse xmlns:srw=\"http://www.loc.gov/zing/srw/\" xmlns:sd=\"http://www.loc.gov/zing/srw/diagnostic/\" xmlns:ixm=\"http://catalogue.bnf.fr/namespaces/InterXMarc\" xmlns:mn=\"http://catalogue.bnf.fr/namespaces/motsnotices\" xmlns=\"http://catalogue.bnf.fr/namespaces/InterXMarc\"><srw:version>1.2</srw:version><srw:echoedSearchRetrieveRequest><srw:version>1.2</srw:version><srw:query>bib.title all &quot;spy family tome 9&quot; and bib.publisher all &quot;kurokawa&quot;</srw:query></srw:echoedSearchRetrieveRequest><srw:numberOfRecords>0</srw:numberOfRecords><srw:records/></srw:searchRetrieveResponse>"
+  "recs": [
+   {
+    "title": "Spy x Family - Tome 16",
+    "ids": [
+     "http://catalogue.bnf.fr/ark:/12148/cb48763073z",
+     "ISBN 9791042021030"
+    ],
+    "date": "2026"
+   },
+   {
+    "title": "Spy x family / Tatsuya Endo",
+    "ids": [
+     "http://catalogue.bnf.fr/ark:/12148/cb472175064"
+    ],
+    "date": "2022"
+   },
+   {
+    "title": "Spy x family / Tatsuya Endo",
+    "ids": [
+     "http://catalogue.bnf.fr/ark:/12148/cb466573079"
+    ],
+    "date": "2020"
+   },
+   {
+    "title": "Spy x family. 16",
+    "ids": [
+     "http://catalogue.bnf.fr/ark:/12148/cb48765001k",
+     "ISBN 9791042021030"
+    ],
+    "date": "2026"
+   },
+   {
+    "title": "Spy x family. 1 / Tatsuya Endo",
+    "ids": [
+     "http://catalogue.bnf.fr/ark:/12148/cb465886410",
+     "ISBN 9782380710243"
+    ],
+    "date": "2020"
+   },
+   {
+    "title": "Spy x family. 3 / Tatsuya Endo",
+    "ids": [
+     "http://catalogue.bnf.fr/ark:/12148/cb467100101",
+     "ISBN 9782380711479"
+    ],
+    "date": "2021"
+   },
+   {
+    "title": "Spy x Family : Mission coloriage : [Album à colorier] : [image fixe] / Illustrations de Tatsuya Endō",
+    "ids": [
+     "http://catalogue.bnf.fr/ark:/12148/cb48744646j",
+     "ISBN 9791042016432"
+    ]
+   },
+   {
+    "title": "Spy x family. 11 (Éd. collector) Tatsuya Endo",
+    "ids": [
+     "http://catalogue.bnf.fr/ark:/12148/cb47442559g",
+     "ISBN 9782380714340"
+    ],
+    "date": "2023"
+   },
+   {
+    "title": "Spy x family. 15 / Tatsuya Endo",
+    "ids": [
+     "http://catalogue.bnf.fr/ark:/12148/cb48630034j",
+     "ISBN 9791042018733"
+    ],
+    "date": "2025"
+   },
+   {
+    "title": "Spy x family. 11 / Tatsuya Endo",
+    "ids": [
+     "http://catalogue.bnf.fr/ark:/12148/cb47362910g",
+     "ISBN 9782380715378"
+    ],
+    "date": "2023"
+   },
+   {
+    "title": "Spy x family. 14 / Tatsuya Endo",
+    "ids": [
+     "http://catalogue.bnf.fr/ark:/12148/cb476857337",
+     "ISBN 9791042018726"
+    ],
+    "date": "2025"
+   },
+   {
+    "title": "Spy x family. 10 / Tatsuya Endo",
+    "ids": [
+     "http://catalogue.bnf.fr/ark:/12148/cb47159308d",
+     "ISBN 9782380712971"
+    ],
+    "date": "2022"
+   },
+   {
+    "title": "Spy x family. 13 / Tatsuya Endo",
+    "ids": [
+     "http://catalogue.bnf.fr/ark:/12148/cb47584570g",
+     "ISBN 9791042014704"
+    ],
+    "date": "2024"
+   },
+   {
+    "title": "Spy x family. 12 / Tatsuya Endo",
+    "ids": [
+     "http://catalogue.bnf.fr/ark:/12148/cb47448591d",
+     "ISBN 9791042014025"
+    ],
+    "date": "2024"
+   },
+   {
+    "title": "Spy x family. 9 / Tatsuya Endo",
+    "ids": [
+     "http://catalogue.bnf.fr/ark:/12148/cb47103638p",
+     "ISBN 9782380712964"
+    ],
+    "date": "2022"
+   },
+   {
+    "title": "Spy x family. 5 / Tatsuya Endo",
+    "ids": [
+     "http://catalogue.bnf.fr/ark:/12148/cb46863650v",
+     "ISBN 9782380711493"
+    ],
+    "date": "2021"
+   },
+   {
+    "title": "Spy x family. 4 / Tatsuya Endo",
+    "ids": [
+     "http://catalogue.bnf.fr/ark:/12148/cb46802952w",
+     "ISBN 9782380711486"
+    ],
+    "date": "2021"
+   },
+   {
+    "title": "Spy x family. 7 / Tatsuya Endo",
+    "ids": [
+     "http://catalogue.bnf.fr/ark:/12148/cb46975114g",
+     "ISBN 9782380712605"
+    ],
+    "date": "2022"
+   },
+   {
+    "title": "Spy x family. 8 / Tatsuya Endo",
+    "ids": [
+     "http://catalogue.bnf.fr/ark:/12148/cb471477780",
+     "ISBN 9782380712957"
+    ],
+    "date": "2022"
+   },
+   {
+    "title": "Spy x family. 6 / Tatsuya Endo",
+    "ids": [
+     "http://catalogue.bnf.fr/ark:/12148/cb469202762",
+     "ISBN 9782380711509"
+    ],
+    "date": "2021"
+   },
+   {
+    "title": "Mission start / Tatsuya Endo",
+    "ids": [
+     "http://catalogue.bnf.fr/ark:/12148/cb466549553",
+     "ISBN 9782380710250"
+    ],
+    "date": "2020"
+   },
+   {
+    "title": "Spy x family : roman : portrait de famille / auteur, Aya Yajima ; oeuvre originale, Tatsuya Endo",
+    "ids": [
+     "http://catalogue.bnf.fr/ark:/12148/cb47544116r",
+     "ISBN 9791042015046"
+    ],
+    "date": "2024"
+   },
+   {
+    "title": "\"Spy x family\" : guidebook officiel : eyes only / Tatsuya Endo",
+    "ids": [
+     "http://catalogue.bnf.fr/ark:/12148/cb474533670",
+     "ISBN 9782380715231"
+    ],
+    "date": "2024"
+   },
+   {
+    "title": "Spy x family. Tomes 1 à 3 / Tatsuya Endo",
+    "ids": [
+     "http://catalogue.bnf.fr/ark:/12148/cb47136141j",
+     "ISBN 9782380714487"
+    ],
+    "date": "2022"
+   },
+   {
+    "title": "\"Spy x family\" : guidebook officiel : eyes only ([Éd. de luxe]) Tatsuya Endo",
+    "ids": [
+     "http://catalogue.bnf.fr/ark:/12148/cb473867151",
+     "ISBN 9782380716283"
+    ],
+    "date": "2023"
+   }
+  ]
  },
- {},
  {
-  "u": "https://catalogue.bnf.fr/couverture?&appName=NE&idArk=ark:/12148/undefined&couverture=1",
+  "one": {
+   "title": "Spy x Family - Tome 16",
+   "ids": [
+    "http://catalogue.bnf.fr/ark:/12148/cb48763073z",
+    "ISBN 9791042021030"
+   ],
+   "date": "2026"
+  },
+  "ark": "cb48763073z",
+  "isbn": "9791042021030"
+ },
+ {
+  "u": "https://catalogue.bnf.fr/couverture?&appName=NE&idArk=ark:/12148/cb48763073z&couverture=1",
   "s": 500,
   "t": "text/html;charset=utf-8",
   "len": 3770
  },
  {
-  "u": "https://catalogue.bnf.fr/couverture?appName=NE&idArk=ark:/12148/undefined",
-  "s": 500,
-  "t": "text/html;charset=utf-8",
-  "len": 3770
+  "u": "https://images-na.ssl-images-amazon.com/images/P/1042021031.01.L.jpg",
+  "s": 200,
+  "t": "image/gif",
+  "len": 43
+ },
+ {
+  "u": "https://covers.openlibrary.org/b/isbn/9791042021030-L.jpg?default=false",
+  "s": 404,
+  "t": null,
+  "len": 0
  }
 ]
