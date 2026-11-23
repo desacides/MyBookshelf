@@ -1,0 +1,26 @@
+[
+ {
+  "u": "https://www.setlist.fm/search?query=nada+surf+lyon+2025",
+  "s": 202,
+  "len": 2007,
+  "head": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"utf-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n    <title></title>\n    <style>\n        body {\n            font-family: \"Arial\";\n        }\n    </style>\n    <script type=\"text/javascript\">\n    window.awsWafCoo",
+  "links": [],
+  "songs": []
+ },
+ {
+  "u": "https://www.setlist.fm/setlist/nada-surf/2025/tavastia-helsinki-finland-4b46cfe6.html",
+  "s": 202,
+  "len": 2023,
+  "head": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"utf-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n    <title></title>\n    <style>\n        body {\n            font-family: \"Arial\";\n        }\n    </style>\n    <script type=\"text/javascript\">\n    window.awsWafCoo",
+  "links": [],
+  "songs": []
+ },
+ {
+  "u": "https://api.setlist.fm/rest/1.0/search/setlists?artistName=nada%20surf&date=24-02-2025",
+  "s": 403,
+  "len": 23,
+  "head": "{\"message\":\"Forbidden\"}",
+  "links": [],
+  "songs": []
+ }
+]
